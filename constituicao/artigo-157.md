@@ -1,0 +1,3 @@
+# Artigo 157.º — (Limites circunstanciais da revisão)
+
+Durante o estado de sítio ou de emergência não pode ser praticado nenhum acto de revisão constitucional.
