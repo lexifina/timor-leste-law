@@ -1,0 +1,3 @@
+# Artigo 52.º — (Introdução de boletim na urna, desvio desta ou de boletins de voto)
+
+Aquele que fraudulentamente introduzir boletins de voto na urna antes ou depois do início da votação, nela colocar qualquer coisa que não seja boletim de voto, se apoderar da urna com os boletins de voto nela recolhidos, mas ainda não apurados, ou se apoderar de um ou mais boletins de voto nela recolhidos, mas ainda não apurados, ou se apoderar de um ou mais boletins de voto em qualquer momento, desde a abertura do Centro de votação ao apuramento dos resultados, será punido com pena de prisão de 1 ano a 2 anos ou com pena de multa de 500 a 1.000 USD.
