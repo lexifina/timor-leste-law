@@ -1,0 +1,201 @@
+# Artigo 1.º — (Bens imóveis)
+
+1. Bens imóveis, para os efeitos da presente lei, são os prédios urbanos e rurais, bem como as suas partes integrantes.
+
+2. É parte integrante toda a coisa móvel ligada materialmente ao prédio com carácter de permanência.
+
+3. Prédios urbanos são os imóveis que se encontram dentro dos limites das cidades e centros urbanos dos distritos.
+
+4. Prédios rurais são aqueles que estão fora das áreas urbanas legalmente estabelecidas.
+
+5. Os limites urbanos das cidades e dos centros populacionais serão determinados por diploma legislativo próprio.
+
+6. A definição das áreas urbanas deve ter em conta se o uso actual ou futuro do solo é para habitação, comércio, indústria ou serviços como actividades principais, com inclusão nos projectos de desenvolvimento e planificação urbana.
+
+7. As áreas rurais são aqueles onde o uso de solo tem como actividade principal a agricultura ou indústrias agro-pecuárias.
+
+8. Coisa, para efeitos da presente lei, é tudo o que pode ser objecto de relações jurídicas, excluídas as coisas que se encontram no domínio público e as que são, pela sua natureza, insusceptiveis de apropriação individual.
+
+Artigo 2.º (Bens imóveis do domínio privado)
+
+Para efeitos do previsto na presente lei, consideram-se bens imóveis do domínio privado os prédios rurais e urbanos que podem ser objecto de negócio jurídico e cujos titulares são pessoas nacionais privadas, singulares ou colectivas, ou o Estado.
+
+Artigo 3.º (Bens imóveis do domínio público)
+
+1. Os bens imóveis são do domínio público quando estejam fora do comércio jurídico e sejam insusceptiveis por natureza de apropriação individual.
+
+2. Os recursos minerais do solo e subsolo estão sujeitos a legislação especial.
+
+Artigo 4.º (Património imobiliário privado do Estado)
+
+1. Os bens imóveis do domínio privado do Estado de Timor-Leste compreendem:
+
+a) Todo o património imobiliário de que o Estado Português era proprietário em 7 de Dezembro de 1975;
+
+b) Os bens imóveis que, por força de lei ou negócio jurídico, sejam por ele adquiridos.
+
+2. A disposição de bens do património imobiliário privado do Estado é regulamentada por decreto-lei.
+
+Artigo 5.º (Apropriação ilegal)
+
+1. Quem tenha beneficiado ou ocupado imóvel do Estado, reivindicando-o como propriedade sua, e tenha conseguido o respectivo título, como pagamento de favor ou através de meios fraudulentos, incorre no cometimento de um crime de usurpação de imóvel.
+
+2. Quem se tenha ilegalmente apropriado de bem imóvel alheio é punido pelo tribunal competente com uma multa fixada entre 30 e 180 dias, sendo cada dia de multa correspondente a uma quantia compreendida entre um e duzentos dólares americanos, que é calculada em função da situação económica do condenado.
+
+3. Se a multa não for voluntariamente paga, será substituída por prestação de trabalho a favor da comunidade durante o tempo correspondente.
+
+4. Se o condenado se recusar o cumprir a pena de prestação de trabalho a favor da comunidade, é cumprida pena de prisão por igual período de tempo, podendo o condenado a todo o tempo evitar, total ou parcialmente, o cumprimento da pena, pagando a multa a que foi condenado ou prestando trabalho a favor da comunidade.
+
+5. O cidadão que, notificado pela Direcção de Terras e Propriedades, doravante designada abreviadamente por DTP, de que se encontra a ocupar um imóvel em situação irregular, vier, no prazo de 30 dias a contar dessa notificação, a desocupar o imóvel ou a regularizar a sua ocupação não é passível de procedimento criminal.
+
+6. Em caso algum haverá lugar a prisão preventiva.
+
+7. O procedimento criminal por crime de usurpação de imóvel não obsta a quaisquer outros procedimentos judiciais ou administrativos com vista à restituição dos rendimentos colectados a terceiros pelo uso do imóvel e indevidamente percebidos pelo condenado.
+
+Artigo 6.º (Ocupação ilegal)
+
+1. Para efeitos do previsto na presente lei, considera-se ocupação ilegal o acto de quem utilize bem imóvel alheio ou aja como sendo seu possuidor contra a vontade do dono.
+
+2. Para efeitos da presente lei, posse é o poder que se manifesta quando alguém actua por forma correspondente ao exercício do direito de propriedade ou de qualquer outro direito real, podendo a posse ser exercida pelo titular do direito ou por intermédio de outrem.
+
+3. A ocupação ilegal de bem imóvel alheio é punida com multa de 30 a 90 dias, à taxa diária fixada entre um mínimo de cinquenta cêntimos e um máximo de cem dólares americanos, calculada em função da situação económica do condenado, de forma a que, dentro dos limites fixados, o seu quantitativo constitua pena correspondente ao grau de culpa do condenado.
+
+4. A multa prevista no número anterior não é convertível em prisão, mas a sua falta de pagamento determina a apreensão e execução dos bens do condenado que forem necessários à liquidação da multa em dívida.
+
+5. À ocupação ilegal aplica-se, com as devidas adaptações, o previsto nos n.os 5 e 6 do artigo anterior.
+
+6. Não são considerados ocupantes ilegais terceiros que comprovadamente tenham agido de boa fé.
+
+Artigo 7.º (Requisitos)
+
+1. Identificado um imóvel da propriedade do Estado, a DTP deve notificar os seus ocupantes desse facto e ordená-los a que o desocupem no prazo de 30 dias, sob pena de despejo administrativo e sem prejuízo do procedimento correspondente à responsabilidade prevista no capítulo anterior.
+
+2. Os ocupantes dispõem do prazo de 10 dias, a contar da data da notificação, para, querendo e por escrito, recorrer da decisão para o Ministro da Justiça.
+
+3. Há indeferimento tácito do recurso previsto no número anterior quando não haja resposta ao recurso no prazo de 15 dias a contar da data da sua interposição.
+
+Artigo 8.º (Procedimentos)
+
+1. Decorrido o prazo previsto no n.° 1 do artigo anterior, a DTP pode proceder administrativamente ao despejo dos bens imóveis da propriedade do Estado ilegalmente apropriados ou ocupados, podendo recorrer às forças policiais, caso seja necessário.
+
+2. O recurso judicial interposto da ordem de desocupação não suspende o despejo administrativo que esteja em curso.
+
+3. Correm por conta do despejado as despesas relativas ao despejo administrativo, devendo a DTP remeter ao Ministério Público certidão do montante das despesas para apreensão e execução dos bens do despejado num montante que permita o respectivo pagamento.
+
+4. O despejo administrativo não dá direito a qualquer indemnização nem a qualquer compensação por construções ou benfeitorias realizadas no imóvel.
+
+Artigo 9.º (Terceiros de boa fé)
+
+O despejo administrativo não prejudica os direitos adquiridos por terceiros de boa fé.
+
+Artigo 10.º (Recurso judicial)
+
+1. Do despejo administrativo há recurso para os tribunais judiciais, a interpor no prazo de 30 dias a contar da prática do acto.
+
+2. O tribunal competente para apreciar o recurso é o da situação dos bens imóveis em causa.
+
+3. As custas do processo são fixadas pelo tribunal, numa quantia compreendida entre cinquenta e quinhentos dólares americanos, enquanto não for aprovado e entrar em vigor o código das custas judiciais.
+
+Artigo 11.º (Trâmites do recurso judicial)
+
+1. A petição de recurso deve referir os fundamentos de facto e de direito e conter a formulação clara e precisa do pedido.
+
+2. A petição de recurso deve ainda ser instruída com documento comprovativo do acto objecto de recurso e com todos os documentos probatórios.
+
+3. Distribuído o recurso, o juiz pode convidar o recorrente a corrigir as deficiências da petição.
+
+4. Quando o juiz entender que não se verifica extemporaneidade, ilegitimidade das partes ou manifesta ilegalidade do recurso, ordena o envio de cópias ao Ministério da Justiça, a fim de este responder, querendo, no prazo de 30 dias.
+
+5. Recebida a resposta do Ministério da Justiça ou decorrido o prazo a ela destinado, e nos casos em que o recurso possa afectar os direitos de terceiros, o juiz ordena a citação dos mesmos para, no prazo de 15 dias, responderem.
+
+6. Juntas as respostas ou decorridos os respectivos prazos, o juiz pode requisitar os documentos que considere necessários ou notificar as partes para os apresentarem.
+
+7. Em seguida, os autos correm, pelo prazo de quarenta e oito horas, o visto do Ministério Público, devendo a decisão ser proferida em 15 dias.
+
+Artigo 12.º (Bens imóveis propriedade de cidadãos nacionais)
+
+1. Os cidadãos nacionais cujos bens imóveis tenham sido ilegalmente apropriados ou ocupados por terceiros devem apresentar as suas reivindicações relativas ao direito de propriedade sobre esses bens no prazo de um ano a contar da data da entrada em vigor da presente lei, para poderem fazer funcionar os procedimentos de mediação ou restituição administrativa dos respectivos títulos de propriedade, nos termos que a lei venha a estabelecer.
+
+2. As reivindicações previstas no número anterior são apresentadas à DTP, devendo ser logo juntos os correspondentes meios de prova.
+
+3. Os bens imóveis privados não reinvidicados e sem proprietários identificados presumem-se propriedade do Estado.
+
+4. A presunção a que se refere o número anterior pode ser ilidida por via de recurso judicial, a interpor obrigatoriamente até 31 de Dezembro de 2008.
+
+5. As reivindicações e o recurso judicial previstos no presente artigo não prejudicam o direito do proprietário de propor no tribunal civil competente a acção de indemnização que ao caso couber.
+
+Artigo 13.º (Bens imóveis propriedade de cidadãos estrangeiros)
+
+1. Os cidadãos estrangeiros devem, no prazo de um ano a contar da data da entrada em vigor da presente lei, fornecer à DTP todos os dados sobre os bens imóveis de que foram proprietários até 19 de Maio de 2002, para os efeitos que a lei venha a estabelecer.
+
+2. Para efeitos do previsto no número anterior, devem ser logo juntos os corrrespondentes meios de prova, sob pena de se presumir o estado de abandono desses bens imóveis e de os mesmos reverterem, por isso, para o Estado.
+
+3. São inexistentes quaisquer actos de disposição de bens imóveis realizados desde o dia 20 de Maio de 2002 por cidadãos estrangeiros.
+
+Artigo 14.º (Comunicação obrigatória)
+
+1. Para o efeito de instauração do procedimento criminal referido nos artigos 5.° e 6.° da presente lei, a DTP deve comunicar ao Ministério Público as apropriações e ocupações de que tenha conhecimento por força das reivindicações apresentadas ao abrigo dos artigos 12.° e 13.° da presente lei.
+
+2. Devem igualmente ser comunicadas ao Ministério Público as apropriações e ocupações de imóveis do Estado de que a DTP tenha conhecimento oficioso.
+
+3. O incumprimento dos deveres previstos nos números anteriores constitui falta disciplinar grave.
+
+Artigo 15.º (Bens imóveis abandonados)
+
+1. Os bens imóveis abandonados, da propriedade de cidadãos nacionais ou estrangeiros, são temporariamente administrados pelo Estado.
+
+2. A administração temporária dos bens imóveis referidos no número anterior visa:
+
+a) Acautelar os legítimos direitos dos cidadãos seus proprietários;
+
+b) Conceder temporariamente o seu uso a terceiros ou ao próprio Estado;
+
+c) Assegurar que sejam usados sem prejuízo da sua função social.
+
+3. É permitido o arrendamento dos bens imóveis a que se referem os números anteriores a cidadãos nacionais ou estrangeiros e a pessoas singulares ou colectivas, mediante o pagamento de uma renda adequada.
+
+4. O regime do arrendamento e da administração previsto nos números anteriores é regulamentado por decreto-lei.
+
+Artigo 16.º (Actos passados relativos aos bens imóveis do Estado)
+
+1. São inexistentes quaisquer actos de disposição, relativos ao património imobiliário de que o Estado português era proprietário em 7 de Dezembro de 1975, que tenham sido celebrados, seja a que título for, entre 7 de Dezembro de 1975 e 19 de Maio de 2002, designadamente os praticados pela Administração indonésia.
+
+2. Os bens imóveis adquiridos ou construídos por entidades públicas dentro do período referido no número anterior revertem automaticamente para o Estado.
+
+3. Para efeitos do previsto no número anterior, são salvaguardados os direitos de terceiros de boa-fé que tenham adquirido onerosamente os respectivos bens mediante justo preço, sendo o Estado credor dos remanescentes montantes em dívida pela sua aquisição, caso o pagamento não tenha sido total.
+
+4. Nenhum acto da Administração Transitória das Nações Unidas em Timor-Leste pode ser interpretado como conferindo qualquer direito de propriedade sobre bens imóveis do Estado.
+
+Artigo 17.º (Entidade competente)
+
+1. A DTP, na dependência do Ministério da Justiça, é a entidade responsável pela execução da presente lei.
+
+2. Até à entrada em vigor dos diplomas legais relativos ao registo predial e ao cadastro predial, a DTP é a entidade competente para proceder ao registo dos bens imóveis e elaborar o respectivo cadastro.
+
+3. A DTP deve apresentar os projectos de diplomas legais referidos no número anterior e um diploma que regulamente o previsto no artigo 15.°, bem como elaborar a sua lei orgânica.
+
+Artigo 18.º (Contagem dos prazos)
+
+1. Os prazos previstos na presente lei contam-se em dias seguidos e iniciam-se no dia seguinte ao do evento a partir do qual se começam a contar.
+
+2. No caso de o termo do prazo não recair em dia útil, aquele transfere-se para o primeiro dia útil seguinte.
+
+Artigo 19.º (Revogações)
+
+É revogada toda a legislação contrária à presente lei.
+
+Artigo 20.º (Produção de efeitos)
+
+A presente lei entra em vigor no dia seguinte ao da sua publicação.
+
+Aprovada em 03 de Dezembro de 2002
+
+O Presidente do Parlamento Nacional, Francisco Guterres ‘Lu-Olo’
+
+Promulgada em 24 de Dezembro de 2002.
+
+Publique-se.
+
+O Presidente da República
+
+José Alexandre Gusmão, ‘Kay Rala Xanana Gusmão’
