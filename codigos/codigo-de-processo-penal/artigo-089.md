@@ -1,0 +1,15 @@
+# Artigo 89.º — (Actos decisórios)
+
+1. Os actos decisórios dos juízes tomam a forma de:
+
+a) Sentenças, quando conhecem a final do objecto do processo;
+
+b) Despachos, quando conhecem de qualquer questão interlocutória ou quando põem termo ao processo fora do caso previsto na alínea anterior;
+
+c) Acórdãos, quando se trata de decisão de um tribunal colegial
+
+2. Os actos decisórios do Ministério Público tomam a forma de despachos.
+
+3. Os actos decisórios referidos nos números anteriores revestem os requisitos formais dos actos escritos ou orais, consoante o caso.
+
+4. Os actos decisórios são sempre fundamentados, devendo ser especificados os motivos de facto e de direito da decisão.
