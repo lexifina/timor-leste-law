@@ -1,0 +1,3 @@
+# Artigo 661.º — (Garantia de pagamento das custas)
+
+As custas da execução saem precípuas do produto dos bens penhorados.

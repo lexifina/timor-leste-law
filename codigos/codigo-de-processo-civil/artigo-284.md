@@ -1,0 +1,3 @@
+# Artigo 284.º — (Tutela dos direitos do autor)
+
+Passados três meses sobre a data em que foi inicialmente deduzido o incidente sem que se mostrem realizadas todas as citações a que este haja dado lugar, pode o autor requerer o prosseguimento da causa principal, após o termo do prazo de que os réus já citados beneficiarem para contestar.

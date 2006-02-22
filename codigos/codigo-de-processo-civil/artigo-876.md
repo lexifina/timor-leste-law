@@ -1,0 +1,5 @@
+# Artigo 876.º — (Deliberação dos legatários ou donatários sobre o passivo)
+
+1. Aos legatários compete deliberar sobre o passivo e forma do seu pagamento, quando toda a herança seja dividida em legados, ou quando da aprovação das dívidas resulte redução de legados.
+
+2. Os donatários serão chamados a pronunciar-se sobre a aprovação das dívidas, sempre que haja sérias probabilidades de resultar delas a redução das liberalidades.

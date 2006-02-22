@@ -1,0 +1,3 @@
+# Artigo 420.º — (Caso julgado formal)
+
+Os despachos bem como as sentenças, que recaiam unicamente sobre a relação processual têm força obrigatória dentro do processo, salvo se por sua natureza não admitirem o recurso de agravo.

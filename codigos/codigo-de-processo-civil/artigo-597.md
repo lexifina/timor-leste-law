@@ -1,0 +1,3 @@
+# Artigo 597.º — (Junção de pareceres)
+
+Os pareceres de advogados, professores ou técnicos podem ser juntos, nos tribunais de primeira instância, em qualquer estado do processo.
