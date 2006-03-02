@@ -1,0 +1,3 @@
+# Artigo 21.º — (Norma transitória)
+
+Até à nomeação dos membros dos órgãos da AACTL e sua efectiva instalação, as competências de fiscalização e certificação previstas no presente diploma são exercidas pela comissão prevista no artigo 8.º dos estatutos da AACTL anexos ao Decreto-Lei nº....
