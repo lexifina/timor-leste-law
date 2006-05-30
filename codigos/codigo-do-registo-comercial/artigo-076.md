@@ -1,0 +1,3 @@
+# Artigo 76.º — (Publicações oficiosas no Jornal da República de Timor-Leste)
+
+Por ordem do conservador, é mensalmente publicada na II Série do Jornal da República de Timor-Leste uma lista, respeitante ao mês anterior, de todos os empresários comerciais que se tenham inscrito no registo ou relativamente aos quais se verifique a alteração do domicílio ou sede, do objecto da empresa ou do capital social, fusão, cisão, transformação, falência, dissolução, extinção ou encerramento, da qual deve constar, em relação a cada empresário comercial, a firma, o domicílio ou sede, o capital e o número do registo.

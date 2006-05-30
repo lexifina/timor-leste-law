@@ -1,0 +1,3 @@
+# Artigo 39.º — (Representações sociais)
+
+O registo de representações permanentes de sociedades com sede principal e efectiva no estrangeiro, é feito em face dos documentos comprovativos da existência da pessoa colectiva de harmonia com a sua lei e do teor actualizado do respectivo contrato, bem como do documento comprovativo das deliberações que estabeleçam a representação em Timor-Leste e designem os respectivos representantes.

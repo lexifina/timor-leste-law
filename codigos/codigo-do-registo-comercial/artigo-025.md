@@ -1,0 +1,3 @@
+# Artigo 25.º — (Princípio da instância)
+
+O registo efectua-se a pedido dos interessados, salvo nos casos de oficiosidade previstos na lei.

@@ -1,0 +1,5 @@
+# Artigo 99.º — (Reelaboração do registo)
+
+1. A reconstituição do registo pode também fazer-se mediante a sua reelaboração, com base nos respectivos documentos arquivados ou apresentados pelos interessados.
+
+2. Devem ser requisitados aos serviços competentes os documentos que se mostrem necessários à reelaboração do registo, os quais são isentos de impostos e emolumentos.
