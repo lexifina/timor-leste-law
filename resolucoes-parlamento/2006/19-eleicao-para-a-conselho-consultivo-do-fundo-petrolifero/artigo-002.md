@@ -1,0 +1,3 @@
+# Artigo 2.º — (Objecto)
+
+O presente Regulamento Geral tem por objecto o estabelecimento dos procedimentos, as regras práticas e os requisitos gerais necessários à implementação das disposições do Decreto-Lei n.º 21/2003, de 31 de Dezembro, sobre o controlo sanitário na importação e exportação, bem como na deslocação dentro do território nacional de qualquer item sujeito ao controlo de quarentena, de modo a evitar a introdução ou a propagação de pragas e de doenças no território nacional ou a sua introdução e propagação noutros países a partir do território nacional ou ainda a sua introdução e propagação num distrito do País, oriundo de outro distrito sanitário.
