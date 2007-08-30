@@ -1,0 +1,3 @@
+# Artigo 12.º — (Alterações Significativas ao Plano de Negócio)
+
+Todas as alterações significativas ao plano de negócio, que afectem a operacionalidade dos intermediários de seguros, incluindo mas não se limitando aos accionistas, administradores, directores e quadros superiores de gestão, devem ser aprovadas por escrito pela ABP antes da sua adopção e implementação. As violações ao disposto neste artigo ficam sujeitas às sanções previstas na Lei N.º 06/2005, de 6 de Julho, sobre o Regime de Licenciamento, Supervisão e Regulação de Companhias de Seguros e Intermediários de Seguros ou em Instruções da ABP.
