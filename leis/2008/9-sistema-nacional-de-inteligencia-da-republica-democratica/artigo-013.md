@@ -1,0 +1,3 @@
+# Artigo 13.º — (Serviço Nacional de Inteligência)
+
+1 - Ao SNI compete a produção de informações que contribuam para a salvaguarda da independência nacional, dos interesses nacionais e da segurança externa, bem como da garantia da segurança interna na prevenção da sabotagem, do terrorismo, da espionagem, da criminalidade organizada e dos actos que pela sua natureza possam alterar ou destruir o Estado de Direito constitucionalmente estabelecido. 2 - O SNI é um serviço público dependente do Primeiro-Ministro e goza de autonomia administrativa e financeira. 3 - A orgânica do SNI consta de decreto-lei.
