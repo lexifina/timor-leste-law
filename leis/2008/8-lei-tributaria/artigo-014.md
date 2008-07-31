@@ -1,0 +1,7 @@
+# Artigo 14.º — (Desagravamento para matérias-primas)
+
+1. Se a Administração Tributária considerar, com base numa certidão emitida por um produtor registado nos moldes prescritos, que bens sujeitos a imposto selectivo de consumo, quer estes sejam importados para Timor-Leste ou produzidos em Timor-Leste, se destinam a ser utilizados pelo produtor registado como matéria-prima na produção de outros bens sujeitos a imposto selectivo de consumo, pode exigir a entrega pelo produtor de uma garantia que considere adequada, relativamente aos referidos bens, em substituição do pagamento integral do imposto selectivo de consumo.
+
+2. Se a Administração Tributária considerar que os bens a que foi aplicado o disposto no nº 1 do presente artigo foram utilizados como matéria-prima para a produção, em Timor-Leste, de outros bens sujeitos a imposto selectivo de consumo, pode deduzir qualquer depósito de garantia efectuado nos termos do número anterior do imposto selectivo de consumo que seja exigível sobre a saída desses outros bens do entreposto do produtor.
+
+3. Se a Administração Tributária considerar que os bens a que foi aplicado o disposto no nº 1 do presente artigo foram utilizados para outro fim que não como matéria-prima na produção de outros bens sujeitos a imposto selectivo de consumo, pode aplicar qualquer depósito de garantia efectuado como pagamento do imposto selectivo de consumo que seria devido se não fosse a decisão tomada pela Administração Tributária ao abrigo do disposto no n.º 1 do presente artigo.
