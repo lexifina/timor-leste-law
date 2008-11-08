@@ -1,0 +1,3 @@
+# Artigo 30.º — (Inamovibilidade)
+
+Os defensores públicos não podem ser transferidos, suspensos, promovidos, aposentados, demitidos ou, por qualquer forma, mudados de situação senão nos casos previstos na presente lei.
