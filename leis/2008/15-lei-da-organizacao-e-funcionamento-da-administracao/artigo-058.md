@@ -1,0 +1,3 @@
+# Artigo 58.º — (Competências da Direcção de Apoio Parlamentar)
+
+Compete genericamente à Direcção de Apoio Parlamentar garantir o apoio técnico e de secretariado à actividade dos órgãos do Parlamento Nacional e registar, documentar, assegurar a publicação e divulgação e o acesso do público à informação sobre a referida actividade, compreendendo, nomeadamente, o apoio na interpretação e aplicação do Regimento e procedimentos dos órgãos do Parlamento Nacional, redacção e transcrição das sessões, reuniões e audiências públicas, informação e comunicação com o público, educação cívica sobre a função constitucional do Parlamento Nacional e o acesso do público ao mesmo.
