@@ -1,0 +1,7 @@
+# Artigo 14.º — (Apresentação do pedido de concessão)
+
+1. A concessão do passaporte comum é requerida presencialmente pelo titular, procedendo-se à confirmação dos respectivos dados biográficos constantes do seu bilhete de identidade, cartão de registo civil ou certidão do assento de nascimento de cidadão nacional e à obtenção e recolha da assinatura e dos seus dados pessoais nos termos do n.o 2 do artigo 3.º
+
+2. A concessão de passaporte comum para menor, interdito ou inabilitado é requerida por quem, nos termos da lei, exerce o poder paternal, a tutela ou curatela, mediante exibição pelo respectivo representante dos documentos comprovativos dessa qualidade legal.
+
+3. Nos casos referidos no número anterior, deverá, sempre que possível, ser recolhida a assinatura do titular do passaporte comum.
