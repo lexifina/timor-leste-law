@@ -1,0 +1,3 @@
+# Artigo 99.º — (Relatório)
+
+1 - Finda a instrução do processo e nos dez dias imediatos, o instrutor elabora um relatório completo e conciso do qual conste a existência material das faltas, a sua qualificação e gravidade, a importância que porventura haja a repor, o seu destino e a pena que entender justa ou a proposta para que os autos se arquivem, por ser inconsistente a acusação. 2 - Quando a complexidade do processo o exigir, a entidade a quem incumbir a decisão pode prorrogar o prazo fixado até ao limite total de vinte dias 3 - O processo, depois de relatado, é remetido, no prazo de dois dias úteis, à entidade que o mandou instaurar
