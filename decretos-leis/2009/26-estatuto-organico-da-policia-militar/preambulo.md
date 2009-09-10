@@ -1,0 +1,17 @@
+Decreto-Lei n.º 26/2009 de 9 de Setembro Estatuto Orgânico da Polícia Militar
+
+Na concretização plena da sujeição das Forças Armadas de Timor-Leste (F-FDTL) ao princípio da legalidade, na manutenção da ordem e disciplina que resultam em especial da condição militar, impõe-se a criação do Estatuto que permita reunir em diploma único a regulamentação das actividades e as questões estatutárias relevantes da Policia Militar. A relevância da sua missão determina, aliás, a necessidade urgente de definição da sua estrutura orgânica, bem como a determinação da sua posição no quadro das Forças Armadas.
+
+Importa, por isso, definir positivamente o seu âmbito de intervenção das suas missões ao mesmo tempo que resolvendo qualquer conflito, positivo ou negativo, de competências na resposta a qualquer situação controvertida que da sua acção venha a emergir.
+
+A falta de previsão na actual Lei Orgânica das F-FDTL (DL 15/2006 de 8 de Novembro) impõe a reunião num diploma único as questões estatutárias relacionadas com os direitos e deveres gerais, assim como a formação e qualificação profissional dos Quadros. Por outro lado pretende-se identificar os perfis técnico-profissionais específicos, de acordo com os padrões funcionais e ocupacionais, tendo em conta as funções, tarefas e competências correspondentes aos cargos que terão de desempenhar na Policia Militar. Pretende-se também reconhecer a necessidade de critérios rigorosos de selecção previamente definidos, considerando as competências esperadas no plano policial, pessoal e técnico, ou seja, as capacidades dos militares da Policia Militar para utilizar, de forma adequada e oportuna, os conhecimentos e técnicas, assim como demonstrar comportamentos adequados às suas atribuições e responsabilidades. As soluções apresentadas dão corpo à estrutura longamente pensada para a Policia Militar, na prossecução dos objectivos e missões das F-FDTL. A sua integração na estrutura das F-FDTL justifica a remissão genérica operada para o regime legal já em vigor, em especial na gestão dos seus recursos humanos.
+
+A dimensão da Policia Militar numa unidade de escalão Companhia que integra uma Força com a estrutura e características das F-FDTL é justificada pelo facto de estar prevista a reorganização da Componente Terrestre com uma melhor distribuição territorial com as unidades de infantaria integradas em Comando de Sectores. Assim, a Policia Militar terá de estar organizada em Pelotões, cuja estrutura terá de ter um carácter flexível que lhe permita a constituição de Destacamentos no âmbito do Conceito Força-Tarefa (Task-Force Tailored mission). Assim, pretende-se privilegiar a cooperação institucional das várias entidades departamentais intervenientes em razão da matéria e complementaridade.
+
+Em especial, a Policia Militar contribui para o exercício da autoridade do CEMGFA no âmbito das suas competências; nomeadamente no exercício da disciplina militar, evitando a impunidade, definindo-se o enquadramento legal adequado. Assim, se legitima a capacidade de investigação e instrução relativas às infracções no âmbito da jurisdição.
+
+Assim se garante a concretização da sujeição das F-FDTL ao princípio da legalidade que garanta a institucionalização do Estado de Direito em Timor-Leste.
+
+Nestes termos:
+
+O Governo decreta, nos termos do n.º 3 do artigo 115º da Constituição da República e do artigo 12.º, n.º 4 do Decreto-Lei n.º 15/2006, de 8 de Novembro, para valer como lei, o seguinte:
