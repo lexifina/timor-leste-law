@@ -1,0 +1,23 @@
+LEI N.º 2 /2010
+
+de 21 de Abril
+
+LEI DE SEGURANÇA NACIONAL
+
+PREÂMBULO
+
+A soberania da República Democrática de Timor-Leste impõe ao Estado o direito e o dever de defender os seus elementos essenciais: território, soberania e poder político. O artigo 6.º da Constituição enuncia como objectivo do Estado a) "Defender e garantir a soberania do país". A realidade actual e as ameaças transnacionais, assimétricas, dispersas, multidireccionais e de difícil avaliação, identificadas no actual ambiente estratégico, apontam a necessidade de perspectivar de forma integrada a defesa dos elementos essenciais do Estado.
+
+A formulação deste conceito integrado de Segurança Nacional, pelo qual as actividades de Defesa Nacional, Segurança Interna e Protecção Civil respondem de forma coordenada a ameaças de diferentes origens e com as características apontadas, aproxima-se do emergente conceito de "Homeland Defense" em ordenamentos jurídicos comparados. Em Timor-Leste, aliás, a crescente integração das funções de Defesa e Segurança tem especial reflexo na Orgânica do IV Governo Constitucional, que criou o Ministério de Defesa e Segurança, bem como na sua prática, nomeadamente pela criação do "Comando Conjunto entre as F-FDTL e a PNTL" para "Operação Halibur", pela Resolução do Governo 3/2008, de 17 de Fevereiro. Esta perspectiva integrada da Segurança Nacional encontra pleno acolhimento na previsão constitucional do art. 6.º a) da CRDTL, relativo aos objectivos do estado em matéria de defesa da soberania nacional.
+
+A formulação deste conceito tem, naturalmente, consequências na definição e condução das grandes linhas e da orientação da política do Estado. Impõem-se a consideração de uma política de Segurança Nacional, na qual se consagrem as grandes linhas de orientação política em matéria de Segurança Nacional Integrada, que as actividades, bem como as políticas em matéria de Defesa Nacional, Segurança Interna e Protecção Civil devem observar. A falta de doutrina constitucional, nomeadamente de definição dos objectivos permanentes, aos quais qualquer definição política deve obedecer, aconselha a vertente intervenção legislativa. A política de Segurança Nacional, pela sua relevância, impõe a concertação no Parlamento Nacional e garante a intervenção do Presidente da República, ainda que, a sua definição e condução caiba, nos termos do art. 103.º da CRDTL, ao Governo. Esta coordenação política em matéria de Segurança Nacional não prejudica, que se garanta a existência, ainda que necessariamente integrada, de actividades autónomas, em matéria de Defesa Nacional, Segurança Interna e de Protecção Civil, cuja orientação política autónoma tem um objecto mais limitado e um maior grau de concretização.
+
+A definição conceptual e política em matéria de Segurança Nacional tem mais limitadas consequências ao nível estratégico e operacional. Não sendo possível garantir uma integração plena das funções do Estado em matéria de Defesa Nacional, Segurança Interna e de Protecção Civil, em especial considerando a previsão constitucional autónoma das Forças de Defesa, no art. 146.º, e das Forças e Serviços de Segurança, no art. 147.º, a presente lei regula apenas a sua actuação conjunta.
+
+Esta acontecerá sempre que se mostre ser a única forma de cumprir os objectivos do Estado, na protecção dos seus elementos essenciais. Assim se garante a subsidariedade e complementaridade da sua intervenção. Esta modalidade subsidiária de empenhamento das Forças e Serviços de Defesa e de Segurança e dos Agentes da Protecção Civil está, estritamente, enquadrada por um sistema orgânico-funcional (Sistema Integrado de Segurança Nacional) no qual têm acento todas as entidades com competências em matéria de Segurança Nacional e, em cujo processo de decisão e de controlo, se incluem todos os órgãos de soberania com competências na matéria, nomeadamente do Parlamento Nacional e, em especial, do Presidente da República, como Comandante Supremo das Forças Armadas. Por outro lado, garante-se a legalidade da sua actuação e controlo político e jurídico do uso da força
+
+Quarta-Feira, 21 de Abril pela formulação de regras de empenhamento. Fora da previsão desta lei, mantém-se a autonomia da intervenção das forças à luz da sua diferente natureza e finalidade, bem como configuração e formação, de forma a melhor se protege os direitos fundamentais dos cidadãos, ao mesmo tempo que cumprindo as finalidades do Estado na defesa dos seus elementos essenciais.
+
+Assim, o Parlamento Nacional decreta, nos termos dos artigos 92.º e 95.º n.º 2 alínea o) da Constituição da República, para valer como lei, o seguinte:
+
+CAPÍTULO I DISPOSIÇÕES GERAIS
