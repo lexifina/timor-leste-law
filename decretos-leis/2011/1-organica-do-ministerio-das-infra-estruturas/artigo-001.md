@@ -1,0 +1,3 @@
+# Artigo 1.º — (Natureza)
+
+O Ministério das Infra-Estruturas, abreviadamente designado por MI, é o órgão central do Governo responsável pela concepção, execução, coordenação e avaliação da política definida e aprovada pelo Conselho de Ministros para as áreas das obras públicas, urbanização, distribuição de água e energia eléctrica, dos transportes terrestres, marítimos e aéreos de carácter civil e serviços auxiliares, das comunicações, incluindo serviços postais, telegráficos, telefónicos e demais telecomunicações, da utilização do espaço radioeléctrico, dos serviços meteorológicos e da informática.
