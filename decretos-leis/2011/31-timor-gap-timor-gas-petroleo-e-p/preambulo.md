@@ -1,0 +1,15 @@
+DECRETO-LEI N.º 31 /2011 de 27 de Julho TIMOR GAP - TIMOR GÁS & PETRÓLEO, E.P.
+
+Definida a regulamentação das actividades ligadas ao sector do petróleo, de acordo com o determinado na Lei das Actividades Petrolíferas e nos Decretos subsequentes, o Governo ora cria a TIMOR GAP - Timor Gás & Petróleo, E.P. (TIMOR GAP, E.P.), com a finalidade de deter e gerir, com um enquadramento e princípios de natureza empresarial, os activos de propriedade do Estado de Timor-Leste no sector do petróleo atribuídos por lei.
+
+Com a criação da TIMOR GAP, E.P., as actividades empresariais, a exercer onshore ou offshore, dentro ou fora do território nacional, relativas à pesquisa e produção no upstream, incluindo a prestação de serviços, são agora cometidas à TIMOR GAP, E.P., afectando-se ainda à nova empresa agora constituída a prossecução de actividades empresariais no downstream, incluindo o armazenamento, refinação, processamento, distribuição e venda de petróleo e seus derivados, bem como de gás natural e de quaisquer outros hidrocarbonetos, e ainda o processamento industrial de derivados de petróleo e o desenvolvimento de outras actividades na indústria petroquímica.
+
+Nestes termos, as atribuições que eram anteriormente exercidas pelo órgão da administração directa responsável pelo sector do petróleo, concernentes a actividades de cariz empresarial, são transferidos para uma empresa pública - a TIMOR GAP, E.P. -, a qual, nos termos do presente decreto-lei, está sujeita ao poder de tutela do órgão do Governo com a tutela sobre o sector do petróleo, o qual exerce a todo o tempo poderes de controlo de legalidade da sua conduta.
+
+Não sendo formalmente determinante ser o Estado Timorense a intervir como parte em contratos petrolíferos através do órgão da administração directa responsável pelo sector do petróleo, ou ser uma entidade autónoma integralmente pública a assegurá-lo, a presente evolução do quadro do sector petrolífero conforma uma óptica de alocação de uma actividade económica a uma entidade empresarial, portanto especializada e com maior eficiência de gestão, para ser por ela prosseguida no interesse do Estado.
+
+Visa-se que, quando em pleno funcionamento, a TIMOR GAP, E.P., possa optimizar o resultado económico dos recursos petrolíferos e das actividades a eles referentes à disposição de Timor-Leste, captando tecnologias, desenvolvendo recursos humanos qualificados e garantindo também a segurança energética do País, constituindo-se como um dos principais impulsionadores do desenvolvimento económico e social.
+
+No exercício da respectiva actividade económica, a TIMOR GAP, E.P. observará sempre, e compromete-se a proteger a Saúde, Segurança e Ambiente e a promover a Responsabilidade Social.
+
+Assim, o Governo decreta, nos termos da alínea e) do n.° 1 e do n.° 3 do artigo 115.° da Constituição da República, conjugado com o disposto no artigo 3.° do Decreto-Lei n.° 14/2003, de 24 de Setembro, e no artigo 32.° do Decreto-Lei n.º 7/2007, de 5 de Setembro, conforme republicado pelo Decreto-Lei n.º 14/2009, de 4 de Março, para valer como lei, o seguinte.
