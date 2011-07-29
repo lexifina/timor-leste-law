@@ -1,0 +1,7 @@
+DECRETO DO GOVERNO Nº 5/2011 de 29 de Junho REGULAMENTO DO HASTEAR DA BANDEIRA NACIONAL EM DIAS SOLENES
+
+A Bandeira Nacional, símbolo unificador da Nação Timorense, constitui a materialização da História e a concretização dos anseios do Povo Timorense, e representa a soberania da Nação, a independência, a unidade e a integridade de Timor-Leste, devendo ser respeitada por todos os cidadãos, sob pena de sujeição á cominação prevista na lei penal.
+
+Após a proclamação da Independência da República Democrática de Timor-Leste, a 28 de Novembro de 1975, a Bandeira Nacional deixou de ser hasteada nos mastros do território nacional durante os 24 anos da ocupação estrangeira. Considerando que a Bandeira Nacional apenas voltou a ser solenemente hasteada com a Restauração da Independência de Timor-Leste a 20 de Maio de 2002 e que, desde então, só é içada por ocasião das comemorações dos Dias Nacionais de Timor Leste, urge dignificar a Bandeira Nacional como símbolo da Pátria e avivar o seu culto entre todos os Timorenses. Reconhecendo que sobre os funcionários públicos recai uma responsabilidade acrescida no que diz respeito ao culto devido aos Símbolos Nacionais, particularmente ao Hino Nacional e à Bandeira Nacional, urge regulamentar o uso daqueles Símbolos em todas as instituições do Estado, nos dias Solenes.
+
+Assim, O Governo, decreta, ao abrigo da Lei nº 2/2007, de 18 de Janeiro, para valer como regulamento o seguinte:
