@@ -1,0 +1,3 @@
+# Artigo 44.º — (Relações entre magistrados)
+
+Os magistrados do Ministério Público guardam entre si precedência segundo a categoria, preferindo a antiguidade em caso de igual categoria.
