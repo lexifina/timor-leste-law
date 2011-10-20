@@ -1,0 +1,11 @@
+DECRETO DO GOVERNO Nº 10/2011 de 19 de Outubro Benefícios a conceder aos Ex-Chefes de Estado-Maior-General das FALINTIL – Forças de Defesa de Timor-Leste
+
+As Falintil-Forças de Defesa de Timor-Leste, pelo papel fundamental que tiveram na luta pela independência, pelo papel relevante que mantêm actualmente na sociedade timorense e pelo respeito que granjeiam como exemplo que se pretendem constituir e pela dignidade e honradez que pretendem transmitir, são uma instituição que dignifica e prestigia o Estado Timorense.
+
+O Chefe de Estado-Maior-General das Forças Armadas, nomeado e exonerado nos termos do Decreto-Lei n.º 32/2009, de 25 de Novembro, constitui sem dúvida um cargo de extrema importância, de enorme reconhecimento e ao qual só ascendem aqueles que, pelo mérito e destaque pessoal, brio de carácter, sensatez, capacidades de comando e respeito que sabem incutir naqueles que com eles servem, podem reconhecer-se como militares de excelência, primus inter pares.
+
+A lei, porque em constante mutação mas nem sempre capaz de acompanhar as mudanças que diariamente se vão verificando na sociedade, não prevê, ainda, qualquer mecanismo capaz de reconhecer a um tempo e recompensar a outro, os altos serviços que os Oficiais Generais investidos na função de Chefe de Estado-Maior-General das Forças Armadas prestam às forças e, através delas, ao país.
+
+Urge pois, demonstrar àqueles que de forma abnegada e com tantos sacrifícios pessoais, se dedicam a melhorar o futuro de Timor, algum reconhecimento por tudo quanto deram ao seu povo.
+
+Assim, tendo em conta que apenas se encontra prevista no n.º 6 do artigo 11.º do Decreto-Lei n.º 11/2009, de 18 de Fevereiro, sobre o Regime Remuneratório das F-FDTL, a manutenção, pelo oficial, do vencimento base correspondente ao cargo de Chefe de Estado-Maior-General das Forças Armadas após a respectiva exoneração do cargo, bem como é estipulado nos arts. 59.º e 60.º da Lei n.º 3/2010, de 21 de Abril, sobre Defesa Nacional, o acesso a um sistema de assistência e protecção próprio e a reforma para militares na reserva; e Atendendo a que é da mais elementar justiça cuidar minimamente daqueles que tanto cuidaram do seu povo. O Governo decreta, nos termos do n.º 3 do artigo nº 115 da Constituição da República, para valer como lei, o seguinte:
