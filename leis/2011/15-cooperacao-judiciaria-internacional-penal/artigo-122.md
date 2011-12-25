@@ -1,0 +1,3 @@
+# Artigo 122.º — (Legitimidade)
+
+A cooperação depende de pedido do Estado em que for proferida a decisão.

@@ -1,0 +1,7 @@
+# Artigo 156.º — (Intercepção de telecomunicações)
+
+1 - Pode ser autorizada a intercepção de telecomunicações realizadas em Timor-Leste, a pedido das autoridades competentes de Estado estrangeiro, desde que tal esteja previsto em tratado internacional e se trate de situação em que tal intercepção seria admissível, nos termos da lei processual penal, em caso nacional semelhante.
+
+2 - É competente para a recepção dos pedidos de intercepção a polícia de investigação criminal, que os apresentará ao Supremo Tribunal de Justiça, para autorização.
+
+3 - O despacho referido no número anterior inclui autorização para a transmissão imediata da comunicação para o Estado requerente, se tal procedimento estiver previsto no tratado internacional com base no qual é feito o pedido.

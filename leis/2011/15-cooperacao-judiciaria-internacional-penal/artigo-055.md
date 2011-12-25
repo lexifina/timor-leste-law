@@ -1,0 +1,5 @@
+# Artigo 55.º — (Produção da prova)
+
+1 - As diligências requeridas e as que o juiz entender necessárias, como para decidir sobre o destino de coisas apreendidas, devem ser efectivadas no prazo máximo de 15 dias, com a presença do extraditando, do defensor ou advogado constituído e do intérprete, se necessário, bem como do Ministério Público.
+
+2 - Terminada a produção da prova, o Ministério Público, o defensor ou o advogado do extraditando têm, sucessivamente, vista do processo por 5 dias, para alegações.
