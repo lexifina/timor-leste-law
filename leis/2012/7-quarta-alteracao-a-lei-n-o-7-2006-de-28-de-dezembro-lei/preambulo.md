@@ -1,0 +1,7 @@
+Lei n.º 7/2012 de 1 de Março Quarta Alteração à Lei n.º 7/2006, de 28 de Dezembro - Lei eleitoral para o Presidente da República
+
+A Lei n.º 7/2006, de 28 de Dezembro, Lei Eleitoral para o Presidente da República, determina, por via do disposto no artigo n.º 26.º, n.º 1 que “em caso de morte de qualquer candidato ou de qualquer outro facto que o incapacite para o exercício da função presidencial, é reaberto o processo eleitoral”, o que implica a marcação, no prazo de quarenta e oito horas, de nova data eleitoral, a qual não poderá deixar de observar o prazo estabelecido pelo art. 12.º, n.º 1 do citado diploma legal, ou seja, a marcação de nova data para a realização de eleições presidenciais não pode deixar de observar um período de antecedência mínima de sessenta dias, face ao dia da realização do acto eleitoral.
+
+Por outro lado, estabelece, ainda, o disposto no art. 21.º , n.º 2, da Lei n.º 7/2006, de 28 de Dezembro, que nos casos de desistência, declaração de incapacidade permanente ou morte de algum dos candidatos se mantém o boletim de voto já aprovado e se carimba “cancelado” no nome do candidato afectado, o que contraria o regime de reabertura do processo eleitoral previsto pelo artigo 26.º , n. º 1, do mesmo diploma legal, o que se traduz numa evidente contradição que urge sanar, para garantir a coerência do diploma e a estabilidade do processo eleitoral.
+
+Assim, O Parlamento Nacional decreta, nos termos do n.º 5 do art. 65.º e da alínea h), do n.º 2 do art. 95.º da Constituição da República, para valer como lei, o seguinte:
