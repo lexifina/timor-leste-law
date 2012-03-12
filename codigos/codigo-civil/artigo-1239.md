@@ -1,0 +1,3 @@
+# Artigo 1239.º — (Coisas susceptíveis de ocupação)
+
+Podem ser adquiridos por ocupação os animais e outras coisas móveis que nunca tiveram dono, ou foram abandonados, perdidos ou escondidos pelos seus proprietários, salvas as restrições dos Artigos seguintes.

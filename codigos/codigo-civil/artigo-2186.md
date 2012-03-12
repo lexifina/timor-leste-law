@@ -1,0 +1,3 @@
+# Artigo 2186.º — (Atribuições do testamenteiro)
+
+O testamenteiro tem as atribuições que o testador lhe conferir, dentro dos limites da lei.

@@ -1,0 +1,5 @@
+# Artigo 2105.º — (Retroactividade da condição)
+
+1. Os efeitos do preenchimento da condição retrotraem-se à data da morte do testador, considerando-se não escritas as declarações testamentárias em contrário.
+
+2. É aplicável quanto ao regime da retroactividade o disposto nos n.º 2 e 3 do Artigo 268º.

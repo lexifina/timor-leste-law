@@ -1,0 +1,3 @@
+# Artigo 1411.º — (Intransmissibilidade do direito)
+
+O usuário e o morador usuário não podem trespassar ou locar o seu direito, nem onerá-lo por qualquer modo.

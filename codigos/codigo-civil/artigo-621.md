@@ -1,0 +1,3 @@
+# Artigo 621.º — (Registo)
+
+A hipoteca deve ser registada, sob pena de não produzir efeitos, mesmo em relação às partes.

@@ -1,0 +1,5 @@
+# Artigo 253.º — (Procuração)
+
+1. Diz-se procuração o acto pelo qual alguém atribui a outrem, voluntariamente, poderes representativos.
+
+2. Salvo disposição legal em contrário, a procuração reveste a forma exigida para o negócio que o procurador deva realizar.

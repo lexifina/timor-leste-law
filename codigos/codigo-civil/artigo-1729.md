@@ -1,0 +1,3 @@
+# Artigo 1729.º — (Carácter pessoal e livre da perfilhação)
+
+A perfilhação é acto pessoal e livre; pode, contudo, ser feita por intermédio de procurador com poderes especiais.

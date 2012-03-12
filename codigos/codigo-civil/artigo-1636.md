@@ -1,0 +1,3 @@
+# Artigo 1636.º — (Redução por inoficiosidade)
+
+As doações para casamento estão sujeitas a redução por inoficiosidade, nos termos gerais.

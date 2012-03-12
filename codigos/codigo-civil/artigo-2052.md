@@ -1,0 +1,3 @@
+# Artigo 2052.º — (Princípio geral)
+
+Podem testar todos os indivíduos que a lei não declare incapazes de o fazer.

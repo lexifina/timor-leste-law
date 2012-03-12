@@ -1,0 +1,3 @@
+# Artigo 1727.º — (Formas de reconhecimento)
+
+O reconhecimento do filho nascido ou concebido fora do matrimónio efectua-se por perfilhação ou decisão judicial em acção de investigação.

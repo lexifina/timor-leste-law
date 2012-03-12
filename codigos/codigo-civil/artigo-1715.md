@@ -1,0 +1,5 @@
+# Artigo 1715.º — (Menção obrigatória da paternidade)
+
+1. A paternidade presumida nos termos dos Artigos anteriores consta obrigatoriamente do registo do nascimento do filho, não sendo admitidas menções que a contrariem, salvo o disposto nos Artigos 1708º e 1712º.
+
+2. Se o registo do casamento dos pais só vier a ser efectuado depois do registo do nascimento, e deste não constar a paternidade do marido da mãe, é a paternidade mencionada oficiosamente.

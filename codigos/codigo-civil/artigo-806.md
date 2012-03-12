@@ -1,0 +1,3 @@
+# Artigo 806.º — (Patrimónios separados)
+
+Não há confusão, se o crédito e a dívida pertencem a patrimónios separados.

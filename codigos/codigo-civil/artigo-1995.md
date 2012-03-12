@@ -1,0 +1,3 @@
+# Artigo 1995.º — (Sucessão nos encargos)
+
+O adquirente de herança ou de quinhão hereditário sucede nos encargos respectivos; mas o alienante responde solidariamente por esses encargos, salvo o direito de haver do adquirente o reembolso total do que assim houver despendido.

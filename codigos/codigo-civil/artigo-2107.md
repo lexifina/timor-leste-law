@@ -1,0 +1,3 @@
+# Artigo 2107.º — (Encargos)
+
+Tanto a instituição de herdeiro como a nomeação de legatário podem ser sujeitas a encargos.
