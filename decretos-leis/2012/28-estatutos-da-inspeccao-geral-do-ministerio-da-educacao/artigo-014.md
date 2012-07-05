@@ -1,0 +1,3 @@
+# Artigo 14.º — (Acompanhamento)
+
+As actividades integradas no programa de acompanhamento concretizam-se na observação e análise do funcionamento administrativos dos serviços e organismos que compõem o sistema educativo e na observação e análise da acção educativa desenvolvida pelas escolas e agrupamentos de escolas, de modo a obter um melhor conhecimento dos processos de implementação das medidas de política educativa, induzir à adopção de melhores práticas de organização e funcionamento orientadas para a melhoria da eficácia e eficiência da administração e para a melhoria das aprendizagens e dos resultados escolares dos alunos.
