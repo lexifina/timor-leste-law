@@ -1,0 +1,9 @@
+LEI Nº 01/2013 de 13 de Fevereiro Segunda alteração à Lei nº 11/2008, de 30 de Julho (Regime Jurídico da Advocacia Privada e da Formação dos Advogados)
+
+A avaliação do impacto da aplicação do regime jurídico da advocacia privada, volvidos mais de quatro anos sobre a sua entrada em vigor, revelou a necessidade de proceder a alterações para, nomeadamente, conformá-lo com princípios constitucionais de igualdade de direitos, especialmente no que respeita ao acesso e exercício da profissão. A restrição que a lei impunha a advogados timorenses provenientes do sistema não civilista não se coaduna com esse desiderato.
+
+Noutro passo, a presente alteração visa clarificar o regime aplicável aos estrangeiros e melhorar a regulamentação do exercício da advocacia pelos mesmos em Timor-Leste. Reconhecendo as vantagens aportadas pela presença de advogados estrangeiros experientes e de reconhecida capacidade técnica, e adoptando uma postura liberal em relação ao acesso ao exercício da profissão de advogado por parte daqueles, o mesmo fica, porém, condicionado à associação ou parceria com advogado timorense de modo a que a sua presença possa, designadamente, contribuir para a transferência e troca de conhecimentos e experiências relacionados com o exercício da profissão, em todas as suas vertentes.
+
+Cientes da necessidade de contar com todos os advogados que presentemente exercem a advocacia, enquanto se faz a transição para a aplicação integral do regime de formação e acreditação definitiva para o exercício da advocacia, a qual passa necessariamente pela frequência do curso de formação de advogados, a presente alteração faz a prorrogação da data até à qual os actos de advocacia praticados são reconhecidos para efeitos de inscrição transitória.
+
+Assim, o Parlamento Nacional decreta, nos termos do nº 1 do artigo 95.º e do artigo 135.º da Constituição da República, para valer como lei, o seguinte:
