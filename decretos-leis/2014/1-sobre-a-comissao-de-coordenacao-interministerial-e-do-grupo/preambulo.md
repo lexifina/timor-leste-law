@@ -1,0 +1,7 @@
+DECRETO-LEI N.º 1/2014 de 15 de Janeiro Sobre a Comissão de Coordenação Interministerial e do Grupo de Trabalho Técnico Interministerial de Desenvolvimento Local
+
+A Comissão de Coordenação Interministerial e o Grupo de Trabalho Técnico Interministerial criados pela Resolução do Governo n.º 1/2012, de 25 de Janeiro, como órgãos com funções de coordenação dos diversos ministérios em matéria de desenvolvimento local, viram a sua continuidade reafirmada pelo artigo 27.º do Decreto-Lei n.º 8/2013, de 26 de Junho, que aprovou o Regime Geral do Programa Nacional de Desenvolvimento dos Sucos.
+
+No contexto do desenvolvimento local, o Decreto-lei n.º 4/2012, de 15 de Fevereiro, que criou o Planeamento de Desenvolvimento Integrado Distrital, também determinou a necessidade de harmonização entre os diferentes planos e programas de desenvolvimento.
+
+É neste sentido de coordenação, harmonização e reforço das diferentes ações de desenvolvimento local do governo que se reitera a importância da continuidade da Comissão de Coordenação Interministerial e do Grupo de Trabalho Técnico Interministerial em matéria de desenvolvimento local, que funcionam a nível político e a nível técnico, respectivamente. Assim, o Governo decreta, nos termos da alínea o) do n.º 1 do artigo 115º da Constituição, conjugado com o previsto no n.º5 da Resolução do Governo n.º1/2012, de 25 de Janeiro e do artigo 27.º do Decreto-Lei n.º 8/2013, de 26 de Junho, para valer como lei, o seguinte:
