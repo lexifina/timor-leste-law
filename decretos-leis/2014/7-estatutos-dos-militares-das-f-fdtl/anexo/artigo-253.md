@@ -1,0 +1,5 @@
+# Artigo 253.º — (Cargos e funções)
+
+1. Aos oficiais das Componentes Terrestre, de Formação e Treino e de Apoio e Serviços, nas especialidades de infantaria, artilharia, cavalaria, engenharia e transmissões incumbe, designadamente, o exercício de funções de comando, estado-maior e execução nos comandos, forças, unidades, serviços e outros organismos das Componentes, de acordo com os respectivos postos e quadros especiais, bem como o exercício de funções que à respectiva Componente respeitam noutros departamentos do Estado.
+
+2. Os cargos e funções específicos de cada posto são os previstos nos regulamentos e na estrutura orgânica dos comandos, forças, unidades, serviços e órgãos das Componentes, bem como na estrutura de outros organismos e departamentos, nacionais e internacionais, exteriores às F-FDTL, designadamente exercício de funções de natureza diplomática junto de representações diplomáticas de Timor-Leste no estrangeiro ou junto de organizações criadas ou a criar no âmbito de acordos internacionais; desempenho de cargos internacionais em organizações criadas ou a criar no âmbito de acordos internacionais.

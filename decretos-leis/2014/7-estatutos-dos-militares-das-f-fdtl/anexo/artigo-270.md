@@ -1,0 +1,3 @@
+# Artigo 270.º — (Alimentação da categoria)
+
+A categoria de sargentos é alimentada por sargentos e praças em RC, RV e praças do QP atentas as normas do presente Estatuto.

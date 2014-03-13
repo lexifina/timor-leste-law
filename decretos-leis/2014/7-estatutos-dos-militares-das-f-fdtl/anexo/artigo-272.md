@@ -1,0 +1,13 @@
+# Artigo 272.º — (Tempos mínimos)
+
+1. O tempo mínimo de permanência em cada posto para acesso ao posto imediato é o seguinte:
+
+a) 8 anos no posto de segundo-sargento;
+
+b) 6 anos no posto de primeiro-sargento;
+
+c) 6 anos no posto de sargento-ajudante;
+
+d) 4 anos no posto de sargento-chefe.
+
+2. O tempo mínimo global para acesso ao posto de sargentochefe e de sargento-mor, após o ingresso na categoria de sargentos, é, respectivamente, de 20 e 24 anos de serviço efectivo.
