@@ -1,0 +1,3 @@
+# Artigo 1.º — (Objecto)
+
+Os serviços atribuídos a cada Direção Nacional, Direção Distrital, Unidade, Gabinete e Secretariado do Ministério da Agricultura e Pescas, segundo o regime do Decreto-Lei referido no parágrafo anterior, necessita de apoio de Departamentos, Sub-Unidades, Sub-Gabinetes, Sub-Secretariados e dos Centros de Desenvolvimento Comunidade Agrícola, específicos como orgãos de serviços, necessários para dotar a este Ministério e as suas Direções de meios que permitam aumentar a equidade, eficácia e eficiência no desempenho das suas funções, de forma a elevar a produção e produtividade agrícola, atingir e assegurar a segurança alimentar e gerar o crescimento económico nacional.
