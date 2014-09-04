@@ -1,0 +1,3 @@
+# Artigo 26.º — (Normas de qualidade)
+
+Os fornecedores de produtos e serviços turísticos observam as normas de qualidade aplicáveis sobre a matéria.
