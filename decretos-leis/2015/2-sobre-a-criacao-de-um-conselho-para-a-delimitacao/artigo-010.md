@@ -1,0 +1,7 @@
+# Artigo 10.º — (Regime especial de aprovisionamento)
+
+1. As despesas incorridas com o CPDDFM, a contratação da Equipa de Negociações e de quaisquer peritos para integrarem ou prestarem apoio a esta e, bem, assim, a aquisição de quaisquer bens, serviços e equipamentos relacionados com as negociações a realizar, encontram-se sujeitas ao regime especial de aprovisionamento previsto no presente diploma.
+
+2. Para efeitos do disposto no número anterior, as “despesas incorridas com o CPDDFM, a contratação da Equipa de Negociações e de quaisquer peritos” incluem, entre outras, todos os honorários, per diems, custos de viagem, pagamentos ou outras formas de compensação devidos a peritos das áreas jurídicas, técnicas, económicas e de negociação, intelectuais, académicos, geólogos, ou qualquer outra pessoa singular ou coletiva, cuja intervenção no processo negocial ou aconselhamento relacionado com o mesmo sejam necessários em função da sua perícia, competência especializada e conhecimento.
+
+3. Para efeitos do disposto no número 1 do presente artigo, “bens, serviços e equipamentos” incluem, entre outros, todas as despesas relacionadas com a organização viagens, alojamento, aluguer de quartos, equipamento informático, serviços de impressão e distribuição, telecomunicações e, bem assim, a utilização de quaisquer outros bens equipamentos ou serviços necessários à preparação e participação nas negociações.
