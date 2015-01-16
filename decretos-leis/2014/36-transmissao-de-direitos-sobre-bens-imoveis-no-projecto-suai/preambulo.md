@@ -1,0 +1,27 @@
+DECRETO-LEI N.º 36/2014
+
+de 17 de Dezembro
+
+Transmissao de Direitos Sobre Bens Imoveis no projecto Suai Supply Base
+
+Com o objetivo de contribuir para o desenvolvimento económico-social da República Democrática de Timor-Leste, o Governo aprovou o Plano Estratégico de Desenvolvimento Nacional 2011-2030, o qual prevê a criação de um amplo conjunto de infraestruturas para apoiar projetos que gerem oportunidades de emprego e de desenvolvimento sectorial.
+
+As referidas infraestruturas incluem a construção de várias instalações de apoio às atividades petrolíferas e indústrias conexas na costa sul do país, com o objetivo de atrair investimento e desenvolver o setor industrial de Timor-Leste, de forma a gerar benefícios económicos diretos decorrentes das suas atividades, sendo os referidos investimentos realizados no âmbito do Projeto Tasi Mane, que é um projeto plurianual que envolve a criação de três pólos industriais na costa sul de Timor-Leste, desde Suai até Beaço, e que abrange a Base Logística do Suai e indústrias conexas (Suai Supply Base), a Refinaria de Betano e as Instalações da Indústria Petroquímica, bem como as Instalações de Gás Natural Liquefeito de Beaço, que formarão o núcleo da indústria petrolífera de Timor-Leste.
+
+Porém, um dos maiores obstáculos ao desenvolvimento de Timor-Leste, que tem sido frequentemente identificado por potenciais investidores nacionais e internacionais, prende-se com a incerteza sobre o direito de propriedade sobre terrenos privados e a natureza precária da legislação existente que trata das questões relacionadas com o uso e o aproveitamento da terra. Apesar de este problema já ter sido anteriormente identificado pelo Governo, a verdade é que a natureza sensível dos problemas de terras em Timor-Leste contribuiu para o atraso na aprovação da legislação específica sobre terras, circunstância que afetou, negativamente, a capacidade de financiamento, estruturação e implementação de projetos que carecem do uso da terra, incluindo em terrenos que, de acordo com a Constituição e a legislação aplicável, são considerados como propriedade do Estado.
+
+Acresce que, mesmo quando os proprietários privados e demais ocupantes dos terrenos desejam cooperar na realização de projetos de investimento, o quadro jurídico atualmente existente não é suficientemente claro para permitir que as partes interessadas possam celebrar os acordos necessários para oferecer, a longo prazo, a estabilidade e a proteção necessárias ao investimento, e criar as condições para o desenvolvimento sócio-económico das populações.
+
+Os problemas acima identificados também se aplicam aos terrenos comunitários, que apesar de serem reconhecidos no ordenamento jurídico de Timor-Leste, nomeadamente no Código Civil, não têm ainda regulamentação adequada.
+
+Após vários anos de estudos detalhados de natureza jurídica, sócio-cultural, ambiental e técnica, foi identificada uma zona, sita em Suco Camenassa, Sub-Distrito Suai Vila, Distrito Covalima, com as características ideais para implementação do projeto da Suai Supply Base, que inclui terrenos comunitários. Sendo que os membros da comunidade, após vários anos de consultas públicas em que lhes foi apresentado o projeto, respetivas oportunidades e implicações, decidiram negociar com o Estado a transmissão, pelo prazo de cento e cinquenta anos, dos seus direitos de propriedade e uso da terra, de acordo com o direito costumeiro local, tendo já chegado a acordo quanto aos termos e condições da referida transmissão, incluindo as medidas de preservação dos locais sagrados e de culto (“lulik”) e dos cemitérios, e nomeado como seus representantes um conjunto de líderes comunitários das várias estruturas existentes na comunidade.
+
+Considerando que é imprescindível para o sucesso do projeto Suai Supply Base que a propriedade dos terrenos comunitários ou privados possa ser transmitida para o Estado, nos termos do disposto no artigo 1227. º do Código Civil, aprovado pela Lei n.º 10/2011, de 14 de setembro, que prevê que a transmissão do direito de propriedade nos termos acordados só é admissível nos casos previstos na lei. Tendo a comunidade de Camenassa proposto a transmissão do direito de propriedade sobre os seus terrenos ao Estado, por um período de 150 anos, e tendo-se procedido ao levantamento cadastral das parcelas, bem como à realização de uma avaliação de impacto ambiental e emissão da correspondente licença ambiental de acordo com a legislação vigente, tendo os direitos dos utilizadores efectivos sido, igualmente, acautelados no processo de transmissão.
+
+Considerando que o modelo d economia social de mercado tem sido visto como uma forma adequada de criar as condições necessárias para o desenvolvimento sustentável a longo prazo das comunidades locais, foi acordado como contrapartida da transmissão dos terrenos a atribuição aos membros da comunidade de uma participação de 10% no capital social da sociedade comercial a ser criada para gerir os terrenos afetos ao projeto;
+
+Demonstrando a comunidade de Camenassa interesse em estabelecer pessoas colectivas que lhe permitam tomar parte no desenvolvimento proporcionado pelo projeto;
+
+Uma vez que a República Democrática de Timor-Leste possui um sistema de registo predial que ainda se encontra em fase de implementação;
+
+O Governo decreta, nos termos das alíneas e) e o) do n.º 1 do artigo 115.º e do artigo 141.º da Constituição da República, para valer como lei, o seguinte:
