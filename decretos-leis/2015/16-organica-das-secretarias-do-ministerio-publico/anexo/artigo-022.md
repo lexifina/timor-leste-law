@@ -1,0 +1,3 @@
+# Artigo 22.º — (Garantia Financeira para Pagamento e Liquidação de Obrigações)
+
+Os direitos e vias de recurso de um Operador, Participante, Câmara de Compensação, Contraparte Central e de qualquer outra parte do Sistema ou do Banco Central em relação à Garantia financeira dada para assegurar um pagamento ou o cumprimento de qualquer obrigação no âmbito de um Sistema, não são prejudicados por procedimentos de insolvência ou falência ou procedimentos com objeto e fim similar. Em particular, tais direitos e vias de recurso não estão sujeitos a qualquer disposição de suspensão ou ordem que afete a capacidade dos credores de exercer os seus direitos em relação à Garantia financeira prestada.
