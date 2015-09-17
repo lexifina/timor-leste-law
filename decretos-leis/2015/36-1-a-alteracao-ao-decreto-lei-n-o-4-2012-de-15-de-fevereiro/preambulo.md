@@ -1,0 +1,11 @@
+DECRETO-LEI N.º 36 / 2015 de 16 de Setembro 1.ª ALTERAÇÃO AO DECRETO-LEI N.º 4/2012, DE 15 DE FEVEREIRO SOBRE O PLANEAMENTO DE DESENVOLVIMENTO INTERGRADO MUNICIPAL
+
+O Decreto-Lei n.º 4/2012, de 15 de Fevereiro aprovou o regime de jurídico do Planeamento de Desenvolvimento Integrado Distrital - PDID. Através deste diploma legal, o Governo definiu as competências dos órgãos e serviços intervenientes no processo de formulação do Plano de Investimento Distrital – PID - e as regras de financiamento e execução dos projectos inscritos no PID. De acordo com o aludido regime jurídico, a identificação das prioridades e projectos de investimento no âmbito do PDID competiam às Comissões de Desenvolvimento Distrital, às Comissões de Desenvolvimento Sub-Distrital, às Delegações Territoriais dos Ministérios e aos Conselhos de Suco, competindo ao Ministério da Administração Estatal, enquanto Departamento Governamental responsável pela Administração Local, “garantir a implementação” do PDID.
+
+Com a entrada em vigor do Decreto-Lei n.º 6/2015, de 11 de Março, que aprovou a orgânica do VI Governo Constitucional, passou a incumbir ao Ministério do Planeamento e Investimento Estratégico “assegurar a coordenação e a implementação do Planeamento de Desenvolvimento Integrado Distrital”, em coordenação com as entidades relevantes. No entanto, o VI Governo Constitucional decidiu realizar avaliações e revisões profundas ao PDID, na medida em que até à data não houve a adequada racionalização dos custos e resultados satisfatórios, sendo premente decidir sobre medidas concretas no sentido de garantir a maior sustentabilidade e qualidade dos projectos.
+
+Importa, pois, assegurar o estabelecimento de um regime jurídico transitório que acautele a continuidade da execução dos projectos do PDID e garanta uma boa coordenação entre o Ministério do Planeamento e Investimento Estratégico, enquanto responsável pela implementação do programa, e o Ministério da Administração Estatal, enquanto responsável pela Administração Municipal, até à conclusão da avaliação do programa e aprovação de um novo quadro jurídico.
+
+Assim,
+
+O Governo decreta, nos termos do n.º 3 do artigo 115.º e da alínea d) do artigo 116.º da Constituição República, para valer como lei, o seguinte:
