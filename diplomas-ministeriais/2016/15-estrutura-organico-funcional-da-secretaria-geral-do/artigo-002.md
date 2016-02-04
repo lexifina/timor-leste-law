@@ -1,0 +1,3 @@
+# Artigo 2.º — (Natureza e missão)
+
+A Secretaria-Geral é um serviço que integra a administração direta do Estado no âmbito do MAP, responsável por assegurar a orientação geral e a coordenação integrada de todos os serviços desse Ministério, nomeadamente aqueles com atribuições nas áreas da administração e finanças, recursos humanos, aprovisionamento, gestão de projetos, recolha de dados, pesquisa e estatística, segurança alimentar, formação, planeamento, assuntos jurídicos, agro comércio e quarentena, de acordo com o programa do Governo, as políticas e programas do MAP e as orientações superiores.
