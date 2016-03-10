@@ -1,0 +1,3 @@
+# Artigo 15.º — (Quadro de pessoal do estabelecimento de ensino de origem)
+
+Caso o estabelecimento de ensino de origem não conte ainda com um quadro de pessoal aprovado de acordo com o regime jurídico da administração e gestão do sistema de ensino secundário, deve o dirigente dos serviços centrais do Ministério da Educação responsáveis pela gestão dos recursos humanos certificar o quadro de pessoal em funcionamento no momento da decisão de conversão, por Despacho Ministerial, identificando os números de posições docentes e não docentes ocupadas e as suas respetivas categorias dentro do regime de função geral ou especial da carreira docente.
