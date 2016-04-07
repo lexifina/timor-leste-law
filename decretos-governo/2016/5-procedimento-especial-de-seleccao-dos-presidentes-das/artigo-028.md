@@ -1,0 +1,3 @@
+# Artigo 28.º — (Morte, incapacidade permanente ou condenação judicial do nomeado)
+
+Se ocorrer a morte, a incapacidade permanente ou a condenação judicial, transitada em julgado pela prática dolosa de um crime, do nomeado para o cargo de Presidente da Autoridade Municipal ou para o cargo de Administrador Municipal, até um ano após a data de nomeação, o Conselho de Ministros dá esta sem efeito e nomeia para o cargo um dos candidatos que se haja apresentado ao procedimento especial de seleção, tendo em consideração a classificação obtida por cada candidato no exame escrito e os pareceres emitidos pelos Conselhos Consultivos.
