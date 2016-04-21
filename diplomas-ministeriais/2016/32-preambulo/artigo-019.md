@@ -1,0 +1,3 @@
+# Artigo 19.º — (Regime Legal)
+
+A execução das transferências públicas regula-se de acordo com o previsto no presente diploma e subsidiariamente pelas normas do Decreto do Governo nº1/2009, de 18 de Fevereiro sobre o regime jurídico das Subvenções Públicas, pela Lei nº13/2009, de 21 de Outubro, alterada pela Lei nº9/2011, de 17 de Agosto e pela Lei nº4/2013, de 7 de Agosto sobre o regime geral do Orçamento e Gestão Financeira do Estado, pelo Decreto do Governo nº1/2016,de 1 de Fevereiro sobre a execução do Orçamento Geral do Estado para 2016 e pelo Decreto-Lei nº3/2016, de 16 de Março sobre o Estatuto das Administrações Municipais, das Autoridades Municipais e do Grupo Técnico Interministerial para a Descentralização Administrativa.
