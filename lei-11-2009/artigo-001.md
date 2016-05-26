@@ -1,3 +1,5 @@
-# Artigo 1.º — Criação de Municípios
+# Artigo 1.º — Divisão administrativa geral do território
 
-O território de Timor-Leste divide-se administrativamente em municípios, sendo que cada um destes compreende uma unidade de poder local, nos termos da Constituição.
+1. O território da República Democrática de Timor-Leste divide-se administrativamente em municípios e na região administrativa especial de Oe-Cusse Ambeno.
+
+2. Os municípios e a região administrativa especial formam-se de postos administrativos.

@@ -1,3 +1,5 @@
 # Artigo 15.º — Município de Manufahi
 
-A área denominada Distrito de Manufahi e os sub-distritos de Alas, Fatuberliu, Same e Turiscai, passam a constituir o Município de Manufahi, com sede administrativa em Same.
+1. O município de Manufahi forma-se dos postos administrativos de Alas, Fatuberliu, Same e Turiscai, cujas áreas territoriais correspondem às dos anteriores subdistritos com a mesma denominação.
+
+2. O município de Manufahi terá centro administrativo em Same.

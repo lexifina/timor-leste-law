@@ -1,3 +1,5 @@
 # Artigo 8.º — Município de Bobonaro
 
-A área denominada Distrito de Bobonaro e os sub-distritos de Atabae, Balibó, Bobonaro, Cailaco, Lolotoe e Maliana, passam a constituir o Município de Bobonaro, com sede administrativa em Maliana.
+1. O município de Bobonaro forma-se dos postos administrativos de Atabae, Balibó, Bobonaro, Cailaco, Lolotoe e Maliana, cujas áreas territoriais correspondem às dos anteriores subdistritos com a mesma denominação.
+
+2. O município de Bobonaro terá centro administrativo em Maliana.

@@ -1,5 +1,5 @@
-# Artigo 16.º — Município de Oe-Cusse Ambeno
+# Artigo 16.º — Município de Viqueque
 
-1. A área denominada Distrito de Oe-Cusse e os sub-distritos de Nítibe, Oesilo, Pante Macassar e Pássabe, passam a constituir o Município de Oe-Cusse Ambeno, com sede administrativa em Pante Macassar.
+1. O município de Viqueque forma-se dos postos administrativos de Lacluta, Ossu, Uato-Lari, Uato-Carbau e Viqueque, cujas áreas territoriais correspondem às dos anteriores subdistritos com a mesma denominação.
 
-2. O Município de Oe-Cusse Ambeno rege-se por uma política administrativa e um regime económico especiais, a definir em lei.
+2. O município de Viqueque terá centro administrativo em Viqueque.

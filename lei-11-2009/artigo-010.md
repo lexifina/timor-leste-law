@@ -1,3 +1,5 @@
-# Artigo 10.º — Município de Dili
+# Artigo 10.º — Município de Díli
 
-A área denominada Distrito de Dili e os sub-distritos de Ataúro, Cristo-Rei, Dom Aleixo, Nain Feto, Metinaro e Vera Cruz, passam a constituir o Município de Dili, com sede administrativa em Dili.
+1. O município de Díli forma-se dos postos administrativos de Ataúro, Cristo-Rei, Dom Aleixo, Na’i-Feto, Metinaro e Vera Cruz, cujas áreas territoriais correspondem às dos anteriores subdistritos com a mesma denominação.
+
+2. O município de Díli terá centro administrativo em Díli.

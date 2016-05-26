@@ -2,13 +2,13 @@
 
 - preambulo.md
 
-## CAPÍTULO I — PRINCÍPIOS GERAIS
+## CAPÍTULO I — Princípios gerais
 
 - artigo-001.md
 - artigo-002.md
 - artigo-003.md
 
-## CAPÍTULO II — MUNICÍPIOS DE TIMOR-LESTE
+## CAPÍTULO II — Identificação das circunscrições administrativas
 
 - artigo-004.md
 - artigo-005.md
@@ -26,7 +26,7 @@
 - artigo-017.md
 - artigo-018.md
 
-## CAPÍTULO III — CRIAÇÃO, MODIFICAÇÃO E EXTINÇÃO DE MUNICÍPIOS
+## CAPÍTULO III — Criação, modificação e extinção de circunscrições administrativas
 
 - artigo-019.md
 - artigo-020.md
@@ -36,7 +36,7 @@
 - artigo-024.md
 - artigo-025.md
 
-## CAPÍTULO IV — DISPOSIÇÕES FINAIS E TRANSITÓRIAS
+## CAPÍTULO IV — Disposições finais e transitórias
 
 - artigo-026.md
 - artigo-027.md

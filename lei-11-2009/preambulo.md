@@ -1,16 +1,16 @@
 # Preâmbulo
 
-A Constituição da República Democrática de Timor-Leste prevê que o poder local seja constituído por pessoas colectivas de território dotadas de órgãos representativos, cuja organização, competência, funcionamento e composição sejam definidos por lei.
+A Constituição da República Democrática de Timor-Leste prevê que o poder local seja constituído por pessoas coletivas de território dotadas de órgãos representativos, cuja organização, competência, funcionamento e composição sejam definidos por lei.
 
-A presente lei estabelece as unidades de Poder Local, os municípios, com base nos seguintes objectivos:
+A presente lei estabelece as unidades de Poder Local, os municípios, com base nos seguintes objetivos:
 
 - Promoção de instituições de um Estado forte, legítimo e estável em todo o território de Timor-Leste;
 
 - Promoção de oportunidades para a participação local democrática de todos os cidadãos;
 
-- Promoção de uma oferta de serviços mais efectiva, eficiente e equitativa para o desenvolvimento social e económico do país.
+- Promoção de uma oferta de serviços mais efetiva, eficiente e equitativa para o desenvolvimento social e económico do país.
 
-As actuais jurisdições administrativas, isto é, a presente divisão territorial informal que inclui os níveis subdistritais e distritais serão fundidas para formarem novas unidades administrativas consolidadas e eficientes ao nível distrital, com assembleias de representantes, que podem prestar serviços adequados aos cidadãos e têm suficiente capacidade para desempenhar as suas funções.
+As atuais jurisdições administrativas, isto é, a presente divisão territorial informal que inclui os níveis subdistritais e distritais serão fundidas para formarem novas unidades administrativas consolidadas e eficientes ao nível distrital, com assembleias de representantes, que podem prestar serviços adequados aos cidadãos e têm suficiente capacidade para desempenhar as suas funções.
 
 Os municípios estão a ser estabelecidos com base na garantia de que cada um:
 

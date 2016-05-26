@@ -1,6 +1,6 @@
-# Artigo 19.º — Critérios
+# Artigo 19.º — Requisitos
 
-A criação, modificação e extinção de municípios depende de lei e deve ter em conta:
+1. A criação, modificação e extinção de circunscrições administrativas depende de lei e deve ter em conta:
 
 a) A vontade da maioria das populações abrangidas, manifestada em consulta popular;
 
@@ -8,10 +8,10 @@ b) A preservação da homogeneidade etnolinguística e identidade cultural local
 
 c) Um equilíbrio do potencial e recursos para o desenvolvimento;
 
-d) Factores geográficos, demográficos, económicos, sociais, culturais e administrativos;
+d) Fatores geográficos, demográficos, económicos, sociais, culturais e administrativos;
 
 e) Interesses de ordem nacional e regional ou local em causa;
 
-f) A existência de um centro administrativo que permita a instalação dos órgãos municipais;
+f) A existência de um centro administrativo que permita a instalação de serviços da Administração Local.
 
-g) A comprovação de que as receitas do município de origem e do novo município são suficientes para a prossecução das atribuições que lhe estiverem cometidas.
+2. Não é permitida a criação, modificação ou extinção de circunscrições administrativas que impliquem para as respetivas unidades de poder local uma redução das receitas necessárias à prossecução das atribuições que legalmente lhes incumbam.

@@ -1,6 +1,6 @@
-# Artigo 20.º — Requisitos de criação
+# Artigo 20.º — Requisitos de criação de municípios
 
-A criação de novos municípios, bem como a manutenção dos actuais, exige a verificação cumulativa dos seguintes requisitos:
+Além dos requisitos previstos no artigo anterior, a criação de novos municípios depende do cumprimento dos seguintes requisitos:
 
 a) Na área do futuro município, o número de residentes deve ser superior a trinta mil;
 

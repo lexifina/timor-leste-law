@@ -1,9 +1,9 @@
-# Artigo 21.º — Criação e modificação de municípios
+# Artigo 21.º — Criação e modificação de circunscrições administrativas
 
-1) Podem ser criados novos municípios através de:
+1. Podem ser criadas novas circunscrições administrativas através de:
 
-a) Fusão de dois ou mais municípios;
+a) Fusão de duas ou mais circunscrições administrativas;
 
-b) Cisão de um município em dois ou mais municípios.
+b) Cisão de uma circunscrição administrativa em duas ou mais circunscrições administrativas.
 
-2) Os municípios podem modificar-se por integração de parte de um município em outro.
+2. As circunscrições administrativas podem modificar-se por integração de parte de uma circunscrição administrativa noutra circunscrição administrativa.

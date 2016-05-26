@@ -1,31 +1,31 @@
-# Artigo 4.º
+# Artigo 4.º — Identificação das circunscrições administrativas de primeiro escalão
 
-1. São municípios de Timor-Leste os de:
+1. O território da República Democrática de Timor-Leste compreende as seguintes divisões administrativas de primeiro escalão:
 
-a) Aileu;
+a) Município de Aileu;
 
-b) Ainaro;
+b) Município de Ainaro;
 
-c) Baucau;
+c) Município de Baucau;
 
-d) Bobonaro;
+d) Município de Bobonaro;
 
-e) Covalima;
+e) Município de Covalima;
 
-f) Dili;
+f) Município de Díli;
 
-g) Ermera;
+g) Município de Ermera;
 
-h) Lautém;
+h) Município de Lautém;
 
-i) Liquiçá;
+i) Município de Liquiçá;
 
-j) Manatuto;
+j) Município de Manatuto;
 
-k) Manufahi;
+k) Município de Manufahi;
 
-l) Oe-Cusse Ambeno;
+l) Município de Viqueque;
 
-m) Viqueque.
+m) Região Administrativa Especial de Oe-Cusse Ambeno.
 
-2. Os municípios compõem-se da área territorial dos distritos e são implementados de acordo com a lei do poder local.
+2. Os postos administrativos identificados nos artigos 5.º a 17.º são divisões administrativas do território de segundo escalão.

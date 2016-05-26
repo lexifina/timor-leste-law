@@ -1,3 +1,5 @@
-# Artigo 17.º — Município de Viqueque
+# Artigo 17.º — Região Administrativa Especial de Oe-Cusse Ambeno
 
-A área denominada Distrito de Viqueque e os sub-distritos de Lacluta, Ossú, Uatolari, Uatucarbau e Viqueque, passam a constituir o Município de Viqueque, com sede administrativa em Viqueque.
+1. A região administrativa especial de Oe-Cusse Ambeno forma-se dos postos administrativos de Nítibe, Oessilo, Pante Macássar e Pássabe, cujas áreas territoriais correspondem às dos anteriores subdistritos com a mesma denominação.
+
+2. A região administrativa especial terá centro administrativo em Pante Macássar.
