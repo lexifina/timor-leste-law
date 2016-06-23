@@ -1,0 +1,3 @@
+# Artigo 82.º — (Colaboração com o Departamento de Tradução Jurídica)
+
+Tendo em vista o desenvolvimento da política bilingue nas atividades de formação do CFJJ referidas no artigo 7.º, o CFJJ, através das suas unidades responsáveis pela formação e investigação jurídicas, colabora com o Departamento de Tradução Jurídica da Direção Nacional de Assessoria Jurídica e Legislação do Ministério da Justiça, com o objetivo de promover a criação e o desenvolvimento do tétum jurídico, a sua dinamização e a sedimentação dos seus conceitos, bem como a produção de materiais de apoio ao estudo e de conteúdos bibliográficos de relevo em língua tétum.
