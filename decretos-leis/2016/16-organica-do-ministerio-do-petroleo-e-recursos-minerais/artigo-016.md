@@ -1,0 +1,5 @@
+# Artigo 16.º — (TIMOR GAP - Timor Gás & Petróleo, E.P.)
+
+1. A TIMOR GAP - Timor Gás & Petróleo, E.P, abreviadamente designada por TIMOR GAP, é a empresa pública que, entre outras, tem por atribuições a participação dentro e fora do território nacional, em quaisquer operações petrolíferas, tal como definidas na Lei das Atividades Petrolíferas, em operações da mesma ou idêntica natureza, exercidas na Área de Desenvolvimento Petrolífero Conjunto estabelecida no Tratado do Mar de Timor, assim como, diretamente ou em associação com outras entidades públicas ou privadas, a realização de quaisquer atividades de prestação de serviços relacionadas com as operações petrolíferas, incluindo a construção, operação e manutenção de instalações e equipamentos, atividades de armazenamento, refinação, processamento, importação, exportação, transporte, distribuição, comercialização e venda de petróleo e seus derivados, bem como de gás natural e quaisquer outros hidrocarbonetos.
+
+2. A TIMOR GAP rege-se pelos seus Estatutos próprios, aprovados pelo Decreto-Lei n.º 31/2011, de 27 de julho e demais legislação aplicável.
