@@ -1,0 +1,25 @@
+DECRETO-LEI N.º 37/2016
+
+de 7 de Setembro
+
+REGIME TRANSITÓRIO DE PROVIMENTO DOS CARGOS DE DIRECÇÃO E DE CHEFIA DAS AUTORIDADES MUNICIPAIS E DAS ADMINISTRAÇÕES MUNICIPAIS DURANTE A FASE DA DESCONCENTRAÇÃO ADMINISTRATIVA
+
+Com a aprovação do Decreto-Lei n.º 3/2016, de 16 de Março, que aprovou o Estatuto das Administrações Municipais, das Autoridades Municipais e do Grupo Técnico Interministerial para a Dscentralização Administrativa, o Governo deu um novo impulso ao processo de descentralização administrativa e de poder local através da reforma orgânica da Administração Local do Estado e a consagração legal do conjunto de competências administrativas que transitam da esfera da Administração Central para a Administração Local do Estado. A reforma do modelo organizacional dos serviços da Administração Local do Estado e a repartição rigorosa e objectiva das responsabilidades administrativas entre a Administração Central e Administração Local constituem presupostos fundamentais para o aumento e melhoria da prestação de bens e serviços públicos a nível local e para o lançamento das bases fundamentais do futuro poder local de Timor-Leste.
+
+De acordo com o quadro jurídico aprovado pelo Decreto-Lei n.º 3/2016, de 16 de Março, o modelo organizacional da Administração Local do Estado, os orgãos e serviços da Administração Local do Estado, existentes ou que venham a ser criados para a prestação de mais bens e serviços públicos aos nossos cidadãos, devem ser integrados nas Autoridades Municipais ou nas Administrações Municipais, ficando sujeitas a uma única estrutura de coordenação e comando, liderada pelo Presidente da Autoridade Municipal ou pelo Administrador Municipal.
+
+Para efeitos de integração dos orgãos e serviços da Administração Local do Estado nas Autoridades Municipais e nas Administrações Municipais, o n.º 1, do artigo 151.º do Decreto-Lei n.º 3/2016, de 16 de Março, prevê que o Governo aprove por resolução o processo de afectação dos recursos humanos, dos processos administrativos, dos procedimentos administrativos em curso, do arquivo documental, do mobiliário de escritório, dos equipamentos de escritório, dos equipamentos informáticos e dos veículos de transporte, afectos aos serviços da Administração Central ou das Delegações Territoriais, para as Administrações Municipais ou para as Autoridades Municipais, o que o Governo estima concretizar na data de 01 de Setembro de 2016.
+
+No entanto, compreendendo a necessidade de preservar a estabilidade, de valorizar a experiência profissional acumulada no exercício de funções e de garantir a não interferência partidária nos processos de provimento dos cargos de Presidente da Autoridade Municipal, de Administrador Municipal, de Secretário Municipal e de Administrador de Posto Administrativo, o Decreto-Lei n.º 3/2016, de 16 de Março, previu no n.º 1 do seu art.152.º a manutenção das comissões de serviço relativas aos titulares daqueles cargos.
+
+No entanto, o Governo entende que a salvaguarda da estabilidade e aproveitamento da experiência profissional dos dirigentes e chefias da Administração Local do Estado não deve restringir-se, apenas, aos supra numerados cargos, mas também aos demais dirigentes e chefias que já vinham desempenhando funções nas administrações municipais que passarão a integrar as Autoridades Municipais e as Administrações Municipais.
+
+Por conseguinte, pretende-se com a aprovação do presente Decreto-Lei alargar o regime consagrado pelo n.º 1 do art. 151.º do Decreto-Lei n.º 3/2016, de 16 de Março a todos os titulares de cargos de direcção ou de chefia que vinham desempenhando funções nas Administrações Municipais, quer estas venham sendo exercidas em comissão de serviço ou em regime de substituição.
+
+Finalmente, e atendendo à necessidade de introduzir no ordenamento jurídico nacional maior objectividade no que tange ao provimento de cargos de direcção e de chefia da Administração Local, designadamente através da exigência quer de vínculo definitivo à função pública quer de um grau mínimo para o acesso à titularidade de cargos de direcção ou de chefia, que reflicta de forma objectiva e clara a experiência e qualidade profissional do nomeado, bem como as suas habilitações académicos.
+
+O regime especial transitório aprovado pelo presente decretolei procura, assim, garantir a estabilidade dos quadros de direcção e chefia da Administração Local do Estado, durante o processo de descentralização administrativa, reconhecendo e valorizando o trabalho que vem sendo realizado pela Administração Local, em condições e circunstâncias particularmente difíceis, e iniciar um processo de maior exigência no provimento de cargos de direcção e chefia a qual, desejavelmente, se manterá após a instalação dos orgãos e serviços do Poder Local.
+
+A presente proposta legislativa foi ainda discutida a aprovada em reunião do Grupo Técnico Interministerial para a Descentralização Administrativa.
+
+Assim, o Governo decreta, nos termos do n.º 3 do art.º 115 da Constituição da República, para valer como lei, o seguinte:
