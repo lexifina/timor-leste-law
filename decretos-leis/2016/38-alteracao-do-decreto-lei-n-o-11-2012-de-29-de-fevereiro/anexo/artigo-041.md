@@ -1,0 +1,1 @@
+# Artigo 41.º — ([Revogado])
