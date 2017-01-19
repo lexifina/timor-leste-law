@@ -1,0 +1,3 @@
+# Artigo 1.º — (Objeto)
+
+A presente lei regula os concursos para o recrutamento e a seleção de cidadãos não timorenses que podem ser admitidos pelos órgãos de gestão e disciplina das magistraturas e pelo órgão de gestão e disciplina dos defensores públicos para, temporariamente, exercerem funções de juízes, procuradores e defensores públicos nos tribunais, incluindo a Câmara de Contas, no Ministério Público e na Defensoria Pública, e procede à segunda alteração à Lei n.º 9/2011, de 17 de agosto, que aprova a Orgânica da Câmara de Contas do Tribunal Superior Administrativo, Fiscal e de Contas, alterada pela Lei n.º 3/2013, de 11 de setembro.
