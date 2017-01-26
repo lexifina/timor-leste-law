@@ -1,0 +1,3 @@
+# Artigo 5.º — (Não participação)
+
+Qualquer agente policial, funcionário público, gestor público ou qualquer outro agente ou autoridade pública, nomeadamente, do Serviço de Migração, das Alfândegas, da Unidade de Patrulhamento de Fronteiras, das Forças de Defesa de Timor-Leste, da Polícia Nacional de Timor-Leste (PNTL), da Polícia Científica de Investigação Criminal (PCIC), bem como o médico ou outro profissional da saúde que, tendo conhecimento da prática de crime de tráfico de pessoas ou de que determinada pessoa é vítima desse crime, não o participar às autoridades competentes, é punido com a pena correspondente ao crime de tráfico de pessoas reduzido de dois terços nos seus limites mínimos e máximos, nos termos do disposto no artigo 286.º do Código Penal.
