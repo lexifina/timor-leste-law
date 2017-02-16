@@ -1,0 +1,3 @@
+# Artigo 6.º — (Primeiro-Secretário)
+
+São integrados na categoria de primeiro-secretário os funcionários do quadro da carreira diplomática que tenham uma antiguidade mínima de oito anos em efetividade de funções no Ministério dos Negócios Estrangeiros e Cooperação e demonstrado domínio da Língua Inglesa através da obtenção da avaliação mínima de 5.0 no teste IELTS ou avaliação equivalente no TOEFL e/ou da Língua Portuguesa, através da obtenção da avaliação mínima de Intermédio em teste realizado pelo Instituto Camões, para além do domínio da língua tétum, sendo para o efeito avaliados, caso necessário.

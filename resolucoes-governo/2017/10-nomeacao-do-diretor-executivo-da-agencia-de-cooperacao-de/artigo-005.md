@@ -1,0 +1,3 @@
+# Artigo 5.º — (Segundo-Secretário)
+
+São integrados na categoria de segundo-secretário os funcionários do quadro da carreira diplomática que tenham uma antiguidade mínima de quatro anos em efetividade de funções no Ministério dos Negócios Estrangeiros e Cooperação e demonstrado domínio da Língua Inglesa através da obtenção da avaliação mínima de 4.0 no teste IELTS ou avaliação equivalente no TOEFL e/ou da Língua Portuguesa, através da obtenção da avaliação mínima de Intermédio em teste realizado pelo Instituto Camões, para além do domínio da língua tétum, sendo para o efeito avaliados, caso necessário.

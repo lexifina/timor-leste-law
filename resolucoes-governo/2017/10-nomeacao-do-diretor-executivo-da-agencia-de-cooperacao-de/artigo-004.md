@@ -1,0 +1,3 @@
+# Artigo 4.º — (Terceiro-Secretário)
+
+São integrados na categoria de terceiro-secretário todos os funcionários do quadro da carreira diplomática que tenham uma antiguidade mínima de três anos em efetividade de funções no Ministério dos Negócios Estrangeiros e Cooperação e tenham demonstrado domínio da Língua Inglesa através da obtenção da avaliação mínima de 3.0 no teste IELTS ou avaliação equivalente no TOEFL e/ou da Língua Portuguesa, através da obtenção da avaliação mínima de Intermédio em teste realizado pelo Instituto Camões, para além do domínio da língua Tétum, sendo para o efeito avaliados, caso necessário.
