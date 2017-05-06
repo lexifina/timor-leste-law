@@ -1,0 +1,21 @@
+# Artigo 45.º — (Dúvidas, reclamações e protestos)
+
+1. Qualquer eleitor ou fiscal de partido político ou coligação partidária pode levantar dúvidas e apresentar reclamação ou protesto relativos às operações eleitorais.
+
+2. As dúvidas, as reclamações e os protestos apresentados durante a votação ou após o encerramento são analisados imediatamente pelos oficiais eleitorais, podendo estes, em caso de necessidade, consultar o STAE.
+
+3. As reclamações apresentadas, conforme o número anterior, são submetidas à votação dos oficiais eleitorais e consideram-se deferidas se obtiverem o voto favorável de, pelo menos, seis deles.
+
+4. O resultado da votação prevista no número anterior é comunicado aos reclamantes que, se o entenderem, podem dirigir a reclamação à CNE, a qual é entregue no mesmo centro de votação ou estação de voto e deve acompanhar toda a documentação relativa ao centro de votação respetivo.
+
+5. A CNE decide no prazo de setenta e duas horas as reclamações que lhe sejam apresentadas nos termos do número anterior.
+
+6. Das decisões da CNE cabe recurso para o STJ, a interpor no prazo de quarenta e oito horas.
+
+7. O STJ decide os recursos previstos no número anterior no prazo de quarenta e oito horas.
+
+8. As reclamações e os recursos dirigidos, respetivamente, à CNE e ao STJ, relativos a operações de votação, contagem de votos ou apuramento de resultados realizados em centro de votação ou estação de voto que funcione no estrangeiro, são apresentados perante o representante consular ou diplomático mais graduado que se encontre em funções na unidade geográfica de recenseamento eleitoral onde funciona o centro de votação ou estação de voto.
+
+9. Nas situações previstas no número anterior, o dirigente que receba reclamação ou recurso sobre matéria eleitoral certifica a data e a hora da respetiva apresentação e envia os documentos relativos à reclamação ou recurso, através de correio eletrónico, para os serviços da CNE e do STJ, em Díli.
+
+10. A CNE e o STJ criam uma conta de correio eletrónica para a receção, respetivamente, das reclamações ou dos recursos que para si sejam interpostos das operações de votação, contagem de votos e apuramento de resultados que se realizem no estrangeiro.
