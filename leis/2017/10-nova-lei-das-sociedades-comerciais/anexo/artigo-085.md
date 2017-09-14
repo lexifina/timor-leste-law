@@ -1,0 +1,7 @@
+# Artigo 85.º — (Responsabilidade solidária do sócio)
+
+1. O sócio que, só por si ou conjuntamente com outros a quem esteja ligado por acordos parassociais, tenha, por força de disposições dos estatutos, o direito de designar administrador sem que todos os sócios deliberem sobre essa designação responde solidariamente com a pessoa por ele designada, sempre que esta for responsável, nos termos desta lei, para com a sociedade ou os sócios e se verifique culpa na escolha da pessoa designada.
+
+2. O sócio que, pelo número de votos de que dispõe, só por si ou por outros a quem esteja ligado por acordos parassociais, tenha a possibilidade de fazer eleger administrador ou membro do órgão de fiscalização responde solidariamente com a pessoa eleita, havendo culpa na escolha desta, sempre que ela for responsável, nos termos desta lei, para com a sociedade ou os sócios, contando que a deliberação tenha sido tomada pelos votos desse sócio e dos acima referidos e de menos de metade dos votos dos outros sócios presentes ou representados na assembleia.
+
+3. O sócio que tenha possibilidade, ou por força de disposições estatutárias ou pelo número de votos de que dispõe, só por si ou conjuntamente com pessoas a quem esteja ligado por acordos parassociais, de destituir ou fazer destituir administrador ou membro do órgão de fiscalização e pelo uso da sua influência determine essa pessoa a praticar ou omitir um ato responde solidariamente com ela, caso esta, por tal ato ou omissão, incorra em responsabilidade para com a sociedade ou os sócios, nos termos desta lei.

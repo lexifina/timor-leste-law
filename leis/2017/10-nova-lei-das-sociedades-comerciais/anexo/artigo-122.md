@@ -1,0 +1,7 @@
+# Artigo 122.º — (Efeitos do registo)
+
+Com o registo da fusão:
+
+a) Extinguem-se as sociedades incorporadas ou, no caso de constituição de nova sociedade, todas a sociedades fundidas, transmitindo-se os seus direitos e obrigações para a sociedade incorporante ou para a nova sociedade;
+
+b) Os sócios das sociedades extintas tornam-se sócios da sociedade incorporante ou da nova sociedade.
