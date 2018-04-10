@@ -1,0 +1,3 @@
+# Artigo 5.º — (Manutenção de benefícios às entidades empregadoras)
+
+Sem prejuízo do referido no artigo 2º, as entidades empregadoras que tenham procedido à inscrição e entregue as respetivas “Declarações de Remunerações”, embora com incorreções e lacunas, continuam a beneficiar do direito às dispensas e reduções contributivas aplicáveis, nos termos do artigo 86.º do Decreto-Lei n.º 20/2017, de 24 de Maio, do artigo 3.º do Decreto-Lei n.º 27/2017, de 26 de Julho, e da alínea a) do n.º 2 do artigo 4.º do presente diploma, desde que regularizem a sua situação, junto da segurança social, com retroativos, até 30 de Junho de 2018.
