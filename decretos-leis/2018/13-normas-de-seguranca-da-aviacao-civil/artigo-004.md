@@ -1,0 +1,5 @@
+# Artigo 4.º — (Autoridade competente)
+
+1. A Autoridade competente em matéria de segurança da aviação civil, é a Autoridade da Aviação Civil de Timor-Leste, adiante designada por “Autoridade”, a quem cabe, nomeadamente, elaborar, implementar, coordenar e manter o Programa Nacional de Segurança da Aviação Civil (PNSAC), o Programa Nacional de Controlo da Qualidade da Segurança da Aviação Civil (PNCQSAC) e o Programa Nacional de Formação em Segurança da Aviação Civil (PNFSAC), sendo ainda responsável pela coordenação e pelo controlo da aplicação das normas referidas no artigo 17.º e no anexo ao presente decreto-lei e pela protecção de operações de aviação civil contra actos de interferência ilícita.
+
+2. A Autoridade coordena o Comité Nacional de Segurança da Aviação Civil, organismo composto por representantes dos ministérios relevantes, criado por diploma específico, destinado a articular as actividades de segurança entre departamentos, agências e outras organizações do Estado, operadores de aeroporto e aeronaves e outras entidades envolvidas ou responsáveis pela implementação de vários aspectos do Programa Nacional de Segurança da Aviação Civil.

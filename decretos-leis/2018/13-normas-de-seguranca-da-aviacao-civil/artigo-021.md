@@ -1,0 +1,3 @@
+# Artigo 21.º — (Custos de segurança)
+
+Os custos das medidas de segurança tomadas nos termos do presente decreto-lei para proteger a aviação civil contra actos de interferência ilícita são suportados pelo Estado, pelas entidades aeroportuárias, pelas transportadoras aéreas, por outros serviços responsáveis ou pelos utilizadores e os encargos ou transferências de custos de segurança que daí resultem são determinados através de diploma específico, devendo estes, sempre que possível, estar directamente relacionados com os custos da prestação dos serviços de segurança em causa e corresponder apenas aos custos realmente incorridos.
