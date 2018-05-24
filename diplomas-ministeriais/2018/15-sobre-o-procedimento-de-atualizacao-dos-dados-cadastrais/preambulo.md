@@ -1,0 +1,27 @@
+DIPLOMA MINISTERIAL N.º 15 / 2018
+
+de 23 de 2018
+
+SOBRE O PROCEDIMENTO DE ATUALIZAÇÃO DOS DADOS CADASTRAIS RECOLHIDOS NO ÂMBITO DE LEVANTAMENTOS CADASTRAIS ANTERIORES
+
+O presente diploma define o procedimento de atualização da informação cadastral (dados geométricos, alfanuméricos, fotográficos ou documentais) dos prédios que tenham sido objeto de levantamentos cadastrais anteriores realizados pela DNTPSC, incluindo através do “ITA NIA RAI”.
+
+Num momento em que o levantamento cadastral em curso se prepara para avançar nas áreas de coleção onde, anteriormente, já foram realizadas operações de levantamento, nomeadamente no âmbito do ITA NIA RAI, torna-se necessário agrupar num único sistema de informação, toda a informação cadastral disponível e, assim, permitir a existência de uma base de dados única de suporte à definição da titularidade dos bens imóveis e ao registo de propriedades. Por outro lado, importa garantir um tratamento informático e uma gestão uniforme da informação cadastral e a sua atualização contínua.
+
+Essa garantia fundamental da uniformidade do cadastro é alcançada através do procedimento de atualização dos dados cadastrais recolhidos no âmbito de levantamentos cadastrais anteriores.
+
+Este procedimento sustenta-se nos princípios da legalidade, da igualdade, da transparência e da publicidade, e tem como ponto de partida o princípio do respeito pelas situações jurídicas declaradas anteriormente e o princípio da validade das reclamações e das declarações de titularidade anteriores.
+
+Na verdade, a validade de direitos não pode depender de operações de mediação ou de geometria, ainda que idealmente se deseje ver estabelecida essa correspondência. Nesse sentido, tal como decorre da Lei n.º 13/2017, de 5 de junho, o princípio da validade das reclamações anteriores apresentadas ao abrigo da Lei n.º 1/2003, de 10 de março, bem como das declarações de titularidade anteriores apresentadas no âmbito do ITA NIA RAI e ao abrigo do Decreto-Lei n.º 27/2011, de 6 de julho, obriga à sua consideração e inclusão imediata no cadastro em curso. Neste sentido, não se questionando a sua validade, sujeita-se a informação cadastral que lhe serve de base a um procedimento de atualização, tendo em vista a sua conformação com as metodologias e técnica usadas atualmente e permitindo a correção, atualização, completude e consistência lógica, nomeadamente topológica, alfanumérica e conceptual, posicional, de conteúdo ou relativa à nomenclatura dos dados.
+
+Com efeito, importa garantir a validação técnica da informação cadastral e assim assegurar a uniformidade interna e externa do sistema de informação cadastral, dotando o processo de regularização dos direitos de propriedade de transparência, segurança e certeza jurídicas.
+
+Tendo esse objetivo em vista, desde 2014, a Direção Nacional de Terras e Propriedades e Serviços Cadastrais (DNTPSC), apoiada pelo Sistema Nacional de Cadastro (SNC), encetou um processo informático de migração para a base de dados cadastral, da informação cadastral recolhida anteriormente, em particular, durante o projeto do “ITA NIA RAI”. E, não obstante as dificuldades encontradas, foi possível integrar cerca de 87,5% dos dados do “ITA NIA RAI” na base de dados do cadastro nacional de propriedades, correspondendo, hoje, a cerca de 54.967 registos dessa base de dados. Contudo, muita da informação cadastral não se apresenta completa ou está em desconformidade com a metodologia usada atualmente, criando desfasamentos e incongruências que importa corrigir, quer quanto aos dados alfanuméricos, quer sobretudo quanto à geometria. Por outro lado, não foi possível migrar cerca de 12,5% da informação cadastral anterior, devido a problemas e inconsistências técnicas de vária ordem, nomeadamente, repetições ou insuficiência de informação.
+
+Assim, importa promover um mecanismo de atualização da informação cadastral referente às reclamações ou às declarações anteriores validamente apresentadas, tendo em vista a sua correção, atualização e conformação técnica.
+
+Nesta conformidade, a atualização da informação cadastral anterior traduz um procedimento pautado pela transparência e publicidade e pela proximidade às comunidades interessadas, abrangendo as áreas de coleção previamente definidas pelo “ITA NIA RAI”, tendo início por despacho ministerial e por uma ampla campanha de informação pública. Uma vez concluída a atualização, a informação cadastral é objeto de novo período de publicação, nos termos da Lei n.º 13/2017, de 5 de junho, sendo admitida a apresentação de novas declarações de titularidade por todo e qualquer interessado. Prevê-se, também, a possibilidade de os interessados apresentarem reclamações e recursos dos atos de atualização do cadastro.
+
+O procedimento de atualização termina com a confirmação dos dados, após o que se considera a área cadastrada e integrada no Cadastro Nacional de Propriedades, nos termos da Lei n.º 13/2017, de 5 de junho. Os prédios cuja informação cadastral não tenha sido possível atualizar, são mantidos em situação de cadastro pendente, havendo lugar à notificação pessoal dos seus titulares para que promovam os atos necessários, sob pena de não poderem integrar a base de dados do Cadastro Nacional de Propriedades, nos termos e com os efeitos previstos na lei.
+
+O Governo, pela Ministra da Justiça, manda, ao abrigo do previsto nos artigos 30.º, n.º 2, 33.º, 79.º e 80.º da Lei n.º 13/2017, de 5 de junho, que define o Regime Especial para a Definição da Titularidade dos Bens imóveis, publicar o seguinte diploma:
