@@ -1,0 +1,7 @@
+# Artigo 5.º — (Transferências do Fundo Petrolífero)
+
+1. Nos termos e para os efeitos do disposto no artigo 7.º da Lei n.º 9/2005, de 3 de agosto, Lei do Fundo Petrolífero, na redação que lhe foi dada pela Lei n.º 12/2011, de 28 de setembro, o montante das transferências do Fundo Petrolífero para 2018 não excede 982,5 milhões de dólares americanos, correspondendo 550,4 milhões de dólares americanos a transferências até ao valor do rendimento sustentável estimado e 432,1 milhões de dólares a transferências de valor superior ao rendimento sustentável estimado.
+
+2. Entre o dia seguinte ao da publicação da presente lei e o dia 31 de dezembro de 2018, o montante das transferências do Fundo Petrolífero para esse período não excede 772,5 milhões de dólares americanos, correspondendo a transferência de 340,4 milhões de dólares a transferências até ao valor do rendimento sustentável estimado e a transferência de 432,1 milhões de dólares americanos a transferência superior ao rendimento sustentável estimado.
+
+3. Os montantes transferidos do Fundo Petrolífero, durante o corrente ano financeiro e até à data de publicação da presente lei, são integrados no Orçamento Geral do Estado de 2018, em conformidade com o disposto no artigo 4.º da Lei n.o 13/2009, de 21 de outubro, alterada pela Lei n.o 9/2011, de 17 de agosto e pela Lei n.o 3/2013, de 11 de setembro, exclusivamente para efeitos de consolidação das contas do Estado e sem prejuízo da eventual responsabilidade política, financeira, civil e criminal a que possa haver lugar.
