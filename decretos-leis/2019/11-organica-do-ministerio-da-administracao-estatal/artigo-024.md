@@ -1,0 +1,3 @@
+# Artigo 24.º — (Definição)
+
+A direção-geral da descentralização administrativa é o serviço central do ministério da administração estatal que, na dependência do ministro, assegura apoio técnico e administrativo aos órgãos e serviços deste departamento governamental nos domínios da instalação dos órgãos do poder local, da descentralização administrativa, da desconcentração administrativa, do apoio à gestão administrativa das autoridades e das administrações municipais, da modernização da administração local, do apoio às organizações comunitárias, do desenvolvimento local e da promoção da higiene e organização urbana.
