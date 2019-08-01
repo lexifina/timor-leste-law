@@ -1,0 +1,15 @@
+# Artigo 3.º — (Competências)
+
+Compete à UCAE, designadamente :
+
+a) Assegurar o expediente dos processos de atribuição de bolsas de estudo a estudantes que frequentem estabelecimentos do ensino superior em Timor-Leste ou no estrangeiro, bem como os relativos à atribuição de outros apoios financeiros aos estudantes, em coordenação com os demais serviços legalmente competentes nestes domínios;
+
+b) Apoiar a participação dos órgãos do Ministério nos órgãos colegiais de que aqueles façam parte e que tenham competência na administração dos apoios financeiros relativos às bolsas de estudo, de acordo com o regime jurídico aplicável;
+
+c) Coordenar, com os órgãos e serviços do Ministério dos Negócios Estrangeiros e Cooperação, a realização das diligências inerentes à colocação dos estudantes timorenses em estabelecimentos de ensino superior no estrangeiro;
+
+d) Supervisionar as atividades dos Adidos do Ensino Superior e dos Assistentes dos Adidos do Ensino Superior que sejam colocados junto das missões diplomáticas de Timor-Leste;
+
+e) Assegurar, em coordenação com a Direção Nacional de Planeamento, Parcerias e Estatística, a execução de atividades de cooperação, com entidades estrangeiras ou internacionais, nomeadamente para efeitos de atribuição de bolsas de estudo ou de outros apoios financeiros a serem concedidos a estudantes timorenses que frequentem estabelecimentos de ensino superior no território nacional e/ou no estrangeiro;
+
+f) Realizar as demais tarefas que para a mesma se encontrem previstas em lei ou regulamento, bem como as que lhe sejam determinadas superiormente.
