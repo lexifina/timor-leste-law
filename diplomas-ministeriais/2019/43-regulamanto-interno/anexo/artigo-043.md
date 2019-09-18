@@ -1,0 +1,3 @@
+# Artigo 43.º
+
+Quer os três Chefes dos Departamentos ou os três Pontos Focais no exercício das suas funções devem assegurar, entre eles, estreitas coordenações, respeitando a área de incumbência de cada entidade com o objetivo único de avançar os serviços da Direção Nacional e atingir os sucessos e a meta desejada.
