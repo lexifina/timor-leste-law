@@ -1,0 +1,3 @@
+# Artigo 3.º — (Missão)
+
+O INCT tem por missão a promoção contínua do avanço do conhecimento científico e tecnológico em Timor-Leste, explorando oportunidades que se revelem em todos os domínios científicos e tecnológicos com potencial para atingir os mais elevados padrões internacionais de criação de conhecimento, e estimular a sua difusão e aplicação prática enquanto fator de desenvolvimento e de melhoria do bemestar da população.
