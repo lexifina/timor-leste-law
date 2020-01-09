@@ -1,0 +1,13 @@
+# Artigo 4.º — (Estrutura Geral)
+
+1. Integram a estrutura da Direção-Geral de Pecuária e Veterinária as seguintes direções nacionais:
+
+a) Direção Nacional de Pecuária;
+
+b) Direção Nacional de Veterinária.
+
+2. As direções nacionais mencionadas no número anterior estão na direta dependência da Direção-Geral e são dirigidas por um diretor nacional subordinado hierarquicamente ao Diretor-Geral.
+
+3. As direções nacionais mencionadas no número 1 regem-se pelo princípio da especialização dos serviços da administração pública e colaboram entre si e com os demais órgãos e serviços do MAP, articulando as respetivas atividades de forma a promover uma atuação harmoniosa unitária, integrada e coerente da Direção-Geral de Pecuária e Veterinária.
+
+4. Junto da Direção-Geral funciona um gabinete de apoio administrativo ao Diretor-Geral que é coordenado por um chefe de gabinete equiparado, para efeitos salariais de Departamento.
