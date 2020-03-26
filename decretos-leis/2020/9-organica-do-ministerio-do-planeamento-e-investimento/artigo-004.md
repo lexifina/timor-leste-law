@@ -1,0 +1,3 @@
+# Artigo 4.º — (Direção)
+
+O MPIE é superiormente dirigido pelo Ministro do Planeamento e Investimento Estratégico, que propõe, coordena e executa as políticas públicas, definidas e aprovadas em Conselho de Ministros, para as áreas da promoção do desenvolvimento económico e social do País, através do planeamento estratégico e integrado, da racionalização dos recursos financeiros disponíveis, assumindo responsabilidades específicas sobre a implementação do Plano Estratégico de Desenvolvimento, em especial no que se refere a infraestruturas, petróleo e recursos minerais, e do planeamento e ordenamento do território, e por elas responde perante o Primeiro-Ministro.
