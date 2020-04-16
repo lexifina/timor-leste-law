@@ -1,0 +1,23 @@
+DECRETO-LEI N.º 13 /2020
+
+de 15 de Abril
+
+REGULAMENTO DO FUNDO DE DESENVOLVIMENTO DO CAPITAL HUMANO
+
+O Fundo de Desenvolvimento do Capital Humano foi criado pela Lei n.º 1/II, de 14 de Fevereiro de 2011, que aprovou o Orçamento Geral do Estado (OGE) para 2011, enquanto um Fundo especial, ao abrigo do disposto no artigo 32.º da Lei n.º 13/2009, de 21 de Outubro, sobre Orçamento e Gestão Financeira.
+
+A criação deste Fundo fundamentou-se na necessidade de capacitar e desenvolver os recursos humanos nacionais à medida das necessidades de Timor-Leste, permitindo um investimento sério e adaptado, com a possibilidade de planear, gerir e executar programas plurianuais, uma necessidade para o desenvolvimento de programas de formação de longa duração e para a continuidade dos programas ao longo do ano.
+
+A regulamentação deste Fundo foi assegurada, até agora, pelo Decreto-Lei n.º 12/2011, de 23 de março, o qual sofreu apenas uma alteração pelo Decreto-Lei n.º 11/2015, de 3 de junho.
+
+O presente diploma mantém algumas disposições da regulamentação anterior, é o caso das normas relativas aos fins e objetivos e das normas respeitantes a orçamento, receitas, despesas e execução do Fundo.
+
+No entanto, este Decreto-Lei procede a alterações profundas e à introdução de novas disposições que justificam uma nova regulamentação. Assim, o presente diploma procede a uma alteração da composição do Conselho de Administração do Fundo, com vista a integrar nesse órgão o Ministro do Ensino Superior, Ciência e Cultura, e responde a diversas lacunas do ponto de vista orgânico, criando novas normas relativas ao funcionamento do Conselho de Administração e ao Secretariado Técnico do Fundo, enquanto estrutura de apoio daquele órgão. O presente diploma visa, ainda, estabelecer regras e critérios mais exigentes e mais transparentes para os programas, projetos e atividades objeto de financiamento do Fundo, e definir um papel mais ativo por parte do Governo, ao qual caberá estabelecer as prioridades em matéria de capacitação de recursos humanos nacionais, de acordo com as linhas gerais da política governamental.
+
+Destacam-se as seguintes novas normas: a previsão das competências dos órgãos como o Diretor Executivo, as Direções Nacionais do Secretariado Técnico, assim como os cargos de direção respetivos, adequando a estrutura já existente à legislação aplicável, nomeadamente em matéria de estrutura e de recursos humanos da Administração Pública. O capítulo III introduz o maior conjunto de novidades neste diploma. Assim, estabelece-se uma clara distinção entre os programas de capacitação dos funcionários da Administração Pública, cuja coordenação pertence à Comissão da Função Pública e ao Instituto Nacional de Administração Pública, em conformidade com a legislação aplicável a essas entidades, e os demais programas de desenvolvimento de capital humano, nomeadamente as bolsas de estudo para cidadãos nacionais, cuja responsabilidade deve caber ao Secretariado Técnico do Fundo. No que diz respeito à formação dos funcionários públicos consagra-se a ideia subjacente à necessidade da criação de meios para a sua capacitação, que só pode ser entendida como a formação dos mesmos para benefício do serviço público que desenvolvem. Também, ao encontro das necessidades de capacitação dos recursos de acordo com as necessidades de desenvolvimento de Timor-Leste, se definem as áreas prioritárias para a atribuição de bolsas de estudo. Estabelecem-se, ainda, critérios que devem ser observados por todos os programas, projetos e atividades de desenvolvimento de recursos humanos e que se consideram de interesse vital para o país.
+
+O novo diploma introduz, ainda, a previsão de mecanismos de responsabilização de todos os que beneficiarem de formação por via do Fundo, evidenciando, novamente, o interesse público no desenvolvimento dos recursos humanos do país. Assim, em regra, os funcionários públicos devem permanecer um período mínimo nos serviços para os quais beneficiaram de formação, enquanto que, para os beneficiários de bolsas de estudo que não tenham vínculo com a Administração Pública é criada uma norma transitória que deverá contribuir para o aproveitamento dos mesmos, só assim se permitindo obter um retorno com o investimento nessas formações.
+
+Crê-se que este diploma representa uma nova viragem e a oportunidade do país conseguir maximizar o retorno do investimento que tem sido feito e que continuará a ser feito em matéria de desenvolvimento do capital humano.
+
+Assim, o Governo decreta, nos termos da alínea e) do n.º 1 do artigo 115.º da Constituição da República, e do n.º 7 do artigo 9.º Lei n.º 1/II, de 14 de Fevereiro de 2011, para valer como lei, o seguinte:
