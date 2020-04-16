@@ -1,0 +1,7 @@
+# Artigo 5.º — (Pedido de cabimentação)
+
+1. Os Ministérios, os OASRP e os SFA apresentam ao Fundo COVID-19 o pedido de cabimentação da despesa relativa a cada medida através da apresentação do Formulário de Pedido de Cabimentação (FPC), constante do Anexo I ao presente diploma e que dele faz parte integrante, assinado pelas pessoas devidamente autorizadas e aprovado pelo responsável máximo ou por quem disponha de competência delegada para o efeito, identificando a atividade de acordo com o plano de ação e o montante que se pretende cabimentar, assim como uma descrição detalhada da compra pública.
+
+2. Os pedidos de cabimentação são apresentados em papel nas instalações do Fundo COVID-19, no edifício do Ministério das Finanças, podendo o Fundo COVID-19 definir que a apresentação dos pedidos seja feita através de meios informáticos.
+
+3. O Fundo COVID-19 comunica ao Ministério, OASRP ou SFA a existência de cabimento da despesa para que este possa realizar o procedimento de aprovisionamento, a celebração do contrato, acordo ou memorando de entendimento, ou a preparação e aprovação ou submissão para aprovação do ato normativo necessários à execução da medida, após verificação da conformidade da medida com o plano de ação, o cumprimento das recomendações da Comissão Interministerial de Coordenação da Implementação das Medidas de Prevenção e Controlo do Surto do Novo Coronavírus e o cumprimento das obrigações legais.
