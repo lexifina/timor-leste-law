@@ -1,0 +1,8 @@
+# Decreto-Lei n.º 15/2020, de 30 de abril
+
+Apoio Monetário aos Agregados Familiares no Âmbito da Pandemia de Covid-19
+
+- Tipo / kind: Decreto-Lei (Decree-Law)
+- Publicado / published: 2020-04-30, Jornal da República (<https://www.mj.gov.tl/jornal/public/docs/2020/serie_1/SERIE_I_NO_18_A.pdf>)
+- Em vigor / in force: 2020-05-01 — "entra em vigor no dia seguinte ao da sua publicação"
+- Texto / text: o texto publicado (as published), 18 ficheiros
