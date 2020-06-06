@@ -1,0 +1,3 @@
+# Artigo 2.º — (Âmbito)
+
+O presente diploma aplica-se aos contratos de concessão crédito, independentemente da sua finalidade, celebrados antes de 1 de março de 2020, em que o financiador seja um banco ou uma outra instituição recetora de depósitos, tal como definida na Resolução do Conselho de Administração n.º 11/2010, da então Autoridade Bancária e de Pagamentos de Timor-Leste, hoje Banco Central de Timor-Leste, publicada no Jornal da República, Série I, n.° 49, de 29 de dezembro de 2010, relativa à aprovação da Instrução Pública n.º 06/2010, sobre o licenciamento e supervisão de Outras Instituições Receptoras de Depósitos (OIRD).

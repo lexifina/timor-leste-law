@@ -1,0 +1,19 @@
+DECRETO-LEI N.º 22 /2020
+
+de 5 de Junho
+
+MORATÓRIA NO CUMPRIMENTO DE OBRIGAÇÕES EMERGENTES DE CONTRATOS DE CONCESSÃO DE CRÉDITO NO ÂMBITO DA POLÍTICA ECONÓMICA DE RESPOSTA AO COVID-19
+
+Ainda que se tratasse apenas de um “caso importado”, e não obstante a eficácia das medidas de contenção epidemiológica entretanto tomadas, o conhecimento da primeira infeção pelo Covid-19 em Timor-Leste deu origem a um temor generalizado entre a população, gerador, por seu turno, de um imediato abrandamento da atividade económica, que se manifestou, com particular evidência, no encerramento de inúmeros estabelecimentos comerciais.
+
+Para além do impacto direto resultante daquela reação espontânea da população, os efeitos de desaceleração da economia conexos ao surto de COVID-19 foram também potenciados pelas proibições e restrições impostas pelo Decreto do Governo n.º 3/2020, de 28 de março, referente às medidas de execução da declaração do estado de emergência, efetuada pelo Decreto do Presidente da República n.º 29/2020, de 27 de março.
+
+A redução da atividade económica teve como consequência, entre outras, a diminuição de rendimentos e de receitas das famílias e das empresas, daí derivando inevitáveis constrangimentos financeiros e dificuldades no cumprimento tempestivo das suas obrigações pecuniárias. Dentre estas, assumem especial relevância aquelas que emergem de contratos de concessão de crédito celebrados com instituições financeiras, designadamente os bancos. Por um lado, porque o incumprimento das obrigações que neles têm a sua fonte tende a limitar ainda mais o acesso ao crédito e, por essa via, a agravar a situação financeira do devedor, privando-o de níveis mínimos de liquidez. Por outro lado, porque a acumulação de situações de incumprimento pode também gerar efeitos sistémicos negativos no sistema financeiro, suscetíveis, por sua vez, de se repercutirem, em efeito de ricochete, na economia real.
+
+A moratória estabelecida no presente diploma, que consiste no alargamento dos prazos de cumprimento das obrigações de capital e de juros, visa, precisamente, aliviar as dificuldades financeiras a que, por efeito do surto de COVID-19, estão sujeitos os devedores em contratos de concessão de crédito e, por outro lado, sustar a progressão de espirais de incumprimento e os seus efeitos negativos no sistema financeiro, em particular o rompimento dos canais de financiamento da economia.
+
+Trata-se de medida que, destinando-se a minorar o impacto económico negativo do surto de COVID-19, especialmente as suas repercussões financeiras nas empresas e nas famílias, se insere no quadro da execução da Resolução do Governo n.º 12/2020, de 31 de março, e da “Política Económica de Resposta à COVID-19”, aprovada, na sua reunião de 17 de abril, pela Comissão Interministerial de Coordenação da Implementação das Medidas de Prevenção e Controlo do Surto do Novo Coronavírus. A moratória instituída pelo presente diploma partilha, portanto, dos mesmos fundamentos, finalidades e natureza das medidas de apoio monetário entretanto aprovadas pelo Decreto-Lei n.º 15/2020, de 30 de abril, e pelo Decreto-Lei n.º 16/2020, também de 30 de abril. Justifica-se, nesse sentido, que seja igualmente financiada pelo Fundo COVID-19.
+
+Embora não se trate de medidas sanitárias ou epidemiológicas diretamente dirigidas ao combate do surto de COVID-19, a sua implementação, na medida em que reduz e mitiga as dificuldades financeiras resultantes do decréscimo de rendimentos e receitas, facilita e promove a adoção pela população de comportamentos potenciadores da prevenção do agravamento do surto e do seu eventual ressurgimento, tais como a observância das regras de distanciamento social e o reforço das medidas de higienização. Também por esta razão se justifica o financiamento pelo Fundo COVID-19.
+
+Assim, o Governo decreta, ao abrigo das alíneas a), n) e o) do n.º 1 do artigo 115.º da Constituição da República, para valer como lei, o seguinte:
