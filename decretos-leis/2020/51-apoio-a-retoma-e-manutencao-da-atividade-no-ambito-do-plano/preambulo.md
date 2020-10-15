@@ -1,0 +1,25 @@
+DECRETO-LEI N.º 51 /2020
+
+de 14 de Outubro
+
+APOIO À RETOMA E MANUTENÇÃO DA ATIVIDADE NO ÂMBITO DO PLANO DE RECUPERAÇÃO ECONÓMICA
+
+Após o período inicial de emergência de saúde pública internacional, que motivou a declaração de pandemia pela Organização Mundial de Saúde, em razão da propagação do novo coronavírus designado por SARS-CoV-2 e da doença que lhe está associada, a COVID-19, verifica-se que os efeitos económicos negativos resultantes da crise sanitária e a consequente retração da atividade económica mundial tendem a manter-se, não obstante todos os esforços empreendidos para contrariar esta realidade.
+
+Assim, a crise económica internacional já anteriormente prevista assume agora uma proporção histórica em razão da pandemia. As primeiras estimativas da Organização Internacional do Trabalho previam uma quebra de 8% no produto interno bruto (PIB) mundial e uma subida nas taxas de desemprego, que se traduzia na eliminação de 25 milhões de empregos por todo o mundo.
+
+Deste modo, atenta a necessidade de gestão da crise sanitária e da crise económica que lhe é inerente, o VIII Governo Constitucional não só pretende garantir a manutenção da prestação de serviços essenciais e o abastecimento de produtos, suprindo as necessidades básicas da população, mas igualmente, atendendo a todo o cenário macroeconómico que inevitavelmente se verifica, pretende reduzir os efeitos nefastos da crise, contrariando assim a tendência para um severo abrandamento do crescimento económico.
+
+A Resolução do Governo n.º 12/2020, de 31 de março, que aprovou a “Política para a redução do impacto económico negativo e a recuperação económica consequentes à pandemia de COVID-19”, veio desde logo definir quais as principais medidas de política económica a adotar e incumbiu o Ministro Coordenador dos Assuntos Económicos, nos termos do disposto no n.º 3 da referida resolução, de promover a coordenação, o acompanhamento e a monitorização da execução dessas medidas, previstas no n.º 1, assim como da realização das tarefas necessárias à sua implementação, tendo ficado os Ministros mandatados, nos termos do n.º 2, para, no âmbito das atribuições dos respetivos ministérios, darem início a todos os procedimentos necessários à implementação das medidas enumeradas.
+
+Por outro lado, considerando a Resolução do Governo n.º 18/2020, de 10 de junho, que criou a Comissão para a Elaboração do Plano de Recuperação Económica, importa ir ao encontro das medidas propostas ao Governo por esta comissão.
+
+Considerando que o MCAE se encontrava já mandatado para coordenar a implementação das medidas e a realização das tarefas descritas na Resolução do Governo n.º 12/2020, de 31 de março, a promover pelos diversos ministérios, e tendo em conta a existência de uma clara convergência entre a estratégia aí delineada pelo Governo, em particular da prevista na alínea
+
+h) do n.º 1, e aquela em que assentam as medidas propostas pela Comissão para a Elaboração do Plano de Recuperação Económica, que foram aprovadas através da Resolução do Governo n.º 28/2020, de 19 de Agosto, sobremedidas de curto prazo para mitigação dos impactos da crise económica resultante da pandemia de COVID-19 no âmbito do Plano de Recuperação Económica, vem o Governo criar os apoios que agora se mostram necessários à recuperação económica, intervindo no sentido de estimular os empregadores a retomarem as suas atividades, no âmbito do Plano de Recuperação Económica.
+
+Estes apoios destinam-se, por isso, a todos os que se encontrem em condições de retomar a atividade, garantindo-se a liquidez necessária a tal desiderato, mas também àqueles que não o possam fazer pela natureza das circunstâncias, quer por não ser legalmente possível, quer por as atividades em causa estarem diretamente relacionadas com outras que estão verdadeiramente impedidas de retomar a atividade, como será o caso das agências de viagens. De facto, os reduzidos casos em que se verifique um real impedimento de retorno à atividade normal serão, igualmente, beneficiados pelos apoios, pois, se assim não sucedesse, a obrigação de retoma, a recair sobre entidades empregadoras, implicaria onerá-las com um esforço desproporcional e desnecessário vedando-lhes o acesso a um auxílio do Estado que redundaria numa desigualdade real entre as entidades que conseguem retomar a atividade e as que não conseguem fazê-lo. Destarte cumpre assegurar que estas últimas, por serem afetadas pela crise pandémica de forma mais severa, são apoiadas pelo Estado de maneira a preservar a sua sobrevivência no mercado. Quanto aos trabalhadores por conta própria, como os profissionais liberais, que terão visto os seus rendimentos diminuir, de forma generalizada, em razão da paralisação de todo o mercado, são agora apoiados pela intervenção do Estado, que anteriormente incidiu principalmente nos trabalhadores por conta de outrem e que agora se estende aos que criam e são responsáveis pelo seu próprio posto de trabalho.
+
+Foi ouvido o Instituto Nacional da Segurança Social.
+
+O Governo decreta, ao abrigo das alíneas j), m), n) e o) do n.º 1 do artigo 115.º da Constituição da República, para valer como lei, o seguinte:
