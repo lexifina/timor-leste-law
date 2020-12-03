@@ -1,0 +1,3 @@
+# Artigo 39.º — (Requisitos de elegibilidade)
+
+São elegíveis para os órgãos das federações desportivas, os maiores de idade, não afetados por qualquer incapacidade de exercício, que não sejam devedores da federação respetiva, nem hajam sido punidos por infrações de natureza criminal, contraordenacional ou disciplinar em matéria de violência, dopagem, corrupção, racismo e xenofobia, até cinco anos após o cumprimento da pena, nem tenham sido punidos por crimes praticados no exercício de cargos dirigentes em federações desportivas ou por crimes contra o património destas, até cinco anos após o cumprimento da pena, salvo se sanção diversa lhe tiver sido aplicada por decisão judicial.
