@@ -1,0 +1,3 @@
+# Artigo 23.º — (Lista definitiva de ordenação das ações a subvencionar)
+
+Findo o prazo de apresentação de reclamação à lista provisória de ordenação das ações a subvencionar sem que hajam sido apresentadas quaisquer reclamações ou, tendo-o sido, após decisão das mesmas, a Comissão Permanente para a Avaliação de Propostas de Subvenções Públicas do Gabinete do Primeiro-Ministro propõe ao Chefe do Gabinete do Primeiro-Ministro, por intermédio do Coordenador do Gabinete de Apoio à Sociedade Civil, a aprovação e publicação, no Jornal da República, no Portal do Governo na internet e através de afixação no quadro de avisos do Gabinete de Apoio à Sociedade Civil, a lista definitiva de ordenação das ações a subvencionar.
