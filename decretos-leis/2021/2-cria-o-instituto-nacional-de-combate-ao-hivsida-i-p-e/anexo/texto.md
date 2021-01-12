@@ -1,0 +1,5 @@
+ANEXO
+
+(a que se refere o artigo 6.o )
+
+ESTATUTOS DO INSTITUTO NACIONAL DE COMBATE AO HIV–SIDA, I.P. (INCSIDA)
