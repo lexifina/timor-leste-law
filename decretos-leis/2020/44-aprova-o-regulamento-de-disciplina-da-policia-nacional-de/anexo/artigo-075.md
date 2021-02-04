@@ -1,0 +1,3 @@
+# Artigo 75.º — (Participação por factos diretamente constatados por superior hierárquico)
+
+Quando a participação disciplinar for elaborada pelo superior hierárquico do suspeito, relativa a factos que tenham sido praticados e diretamente presenciados nos serviços sob o seu comando, direção ou chefia, e nenhuma diligência de prova tenha sido requerida ou deva ser ordenada, o instrutor, após a instauração do processo disciplinar, constitui o suspeito como arguido e deduz a acusação no prazo máximo de cinco dias seguidos, contados da data de início da instrução do processo disciplinar, seguindo-se a fase da defesa e os demais termos até à decisão final.
