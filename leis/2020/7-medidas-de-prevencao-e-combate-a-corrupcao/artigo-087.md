@@ -1,0 +1,3 @@
+# Artigo 87.º — (Conflito de interesses)
+
+O agente público, ou um seu familiar próximo ou um seu associado, que tenha um interesse privado direto ou indireto em relação a uma pessoa singular ou uma pessoa coletiva que tem uma pretensão face à entidade pública onde o agente público presta serviço, a qualquer título, de obter emprego ou contrato, ou de comprar ou tomar em arrendamento, ou qualquer outro negócio, deve declarar por escrito à entidade pública a natureza do seu interesse e deve abster-se de tomar parte em qualquer procedimento ou decisão concernente àquela pretensão, sob pena de ser punido com pena de prisão de 2 a 8 anos.
