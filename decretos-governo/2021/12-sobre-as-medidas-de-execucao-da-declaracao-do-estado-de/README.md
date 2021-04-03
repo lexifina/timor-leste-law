@@ -1,0 +1,8 @@
+# Decreto do Governo n.º 12/2021, de 1 de abril
+
+Sobre as medidas de execução da declaração do estado de emergência efetuada pelo Decreto do Presidente da República N. O 17/2021, de 31 de março
+
+- Tipo / kind: Decreto do Governo (Government Decree)
+- Publicado / published: 2021-04-01, Jornal da República (<https://www.mj.gov.tl/jornal/public/docs/2021/serie_1/SERIE_I_NO_14_D.pdf>)
+- Em vigor / in force: 2021-04-03 — "entra em vigor às 00:00 horas do dia 3 de abril de 2021"
+- Texto / text: o texto publicado (as published), 27 ficheiros
