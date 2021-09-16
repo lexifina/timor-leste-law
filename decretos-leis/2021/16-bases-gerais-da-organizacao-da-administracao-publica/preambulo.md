@@ -1,0 +1,19 @@
+DECRETO-LEI N.º 16 /2021
+
+de 15 de Setembro
+
+BASES GERAIS DA ORGANIZAÇÃO DA ADMINISTRAÇÃO PÚBLICA
+
+A Lei n.º 4/2021, de 10 de março, autorizou o Governo a legislar sobre as bases da organização da administração pública. A aprovação das bases gerais da organização da administração pública é uma imposição da alínea e) do n.º 1 do artigo 96.º da Constituição, que a inclui na reserva relativa do Parlamento Nacional. A solução constitucional que permite ao Parlamento Nacional autorizar o Governo a definir as bases da organização da administração pública é a melhor forma de garantir a unidade e coerência da legislação em matéria de organização administrativa, considerando a competência legislativa exclusiva do Governo relativamente à organização e funcionamento da Administração direta e indireta, nos termos do n.º 3 do artigo 115.º da Constituição, e o seu papel superior na organização da Administração Pública, nos termos do artigo 103.º da Constituição.
+
+A definição das bases gerais da organização administrativa pretende promover a coerência da legislação adotada em matéria administrativa, assim favorecendo a unidade, eficiência e eficácia da sua ação. As bases gerais são, formalmente, o pressuposto da legislação subsequente de desenvolvimento sobre determinada matéria e, materialmente, delimitam os princípios e orientações gerais a adotar nessa regulamentação. Assim, espera-se que a consagração num decreto-lei autorizado pelo Parlamento Nacional não seja derrogada ou revogada por ulterior intervenção legislativa governamental, em especial sobre a organização administrativa.
+
+Este desígnio deveria ter sido prosseguido no dealbar do ordenamento jurídico, mas apenas agora foi possível concretizá-lo, pelo que terá de se tomar em conta a realidade já estabelecida, tanto quanto as necessidades de sua alteração de forma exequível e eficiente. Relativamente à organização da administração direta e indireta, entrou em vigor o Decreto-Lei n.º 30/2020, de 29 de julho, sobre a Organização da Administração Direta e Indireta do Estado, considerando a competência legislativa exclusiva do Governo sobre esta matéria, nos termos do artigo 115.º, n.º 3, da Constituição. Não sendo fácil compatibilizar a previsão da alínea e) do n.º 1 do artigo 96.º da Constituição, relativamente à reserva relativa do Parlamento Nacional sobre as bases da administração pública, e do n.º 3 do artigo 115.º da Constituição, sobre a reserva legislativa exclusiva do Governo para a sua própria organização e funcionamento, a melhor solução parece preferir um conceito adequado de bases a que se sujeitará toda a Administração Pública.
+
+De outra forma, a reserva absoluta do Parlamento Nacional sobre a Administração independente e autónoma e do Governo sobre a Administração direta e indireta deixaria sem qualquer conteúdo a presente intervenção legislativa, o que é insustentável de uma perspetiva sistematicamente adequada da hermenêutica constitucional. A forma de decreto-lei facilita a compatibilização desta com a legislação adotada pelo Governo sobre a sua própria organização e funcionamento, garantindo a necessária coerência entre este diploma e o Decreto-Lei n.º 30/2020, de 29 de julho, agora com a vantagem do reforço do caráter dirigente do presente decreto-lei.
+
+O mesmo objetivo disciplinador se procura cumprir relativamente às bases do setor empresarial do Estado, que é ulteriormente concretizado por decreto-lei, neste caso enformado pelo disposto no presente decreto-lei autorizado.
+
+Relativamente aos demais setores da organização administrativa nacional, pretende-se lançar as suas bases, sem prejuízo para as respetivas especificidades a regular em legislação especial.
+
+Assim, o Governo decreta, nos termos da alínea e) do n.º 1 do artigo 96.º da Constituição da República e da Lei n.º 4/2021, de 10 de março, para valer como lei, o seguinte:
