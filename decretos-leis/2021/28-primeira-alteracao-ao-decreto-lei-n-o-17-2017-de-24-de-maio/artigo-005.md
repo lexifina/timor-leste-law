@@ -1,0 +1,3 @@
+# Artigo 5.º — (Fórmula de cálculo das pensões de sobrevivência dos beneficiários do regime transitório integrados no regime geral)
+
+O montante mensal da pensão estatutária de sobrevivência dos beneficiários do regime transitório de segurança social, criado pela Lei n.º 6/2012, de 29 de fevereiro, integrados no regime geral, nos termos do n.º 1 do artigo 67º da Lei nº 12/2016, de 14 de novembro, é determinado pelas regras gerais de cálculo definidas nos termos dos artigos 15.º e 16.º do Decreto-Lei n.º19/2017, de 24 de maio, aplicando-se para determinação do montante da pensão de velhice e invalidez, conforme os casos, as fórmulas de cálculo definidas no artigo 4.º.
