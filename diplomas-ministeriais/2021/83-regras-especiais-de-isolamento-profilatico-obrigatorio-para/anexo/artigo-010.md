@@ -1,0 +1,7 @@
+# Artigo 10.º — (Competências do Presidente da Autoridade Municipal ou do Administrador Municipal ou do Presidente da Autoridade da Região Administrativa Especial de Oe-Cusse Ambeno)
+
+1. O Presidente da Autoridade Municipal, o Administrador Municipal ou o Presidente da Autoridade da Região Administrativa Especial de Oe-Cusse Ambeno, dependendo da circunscrição administrativa territorialmente competente em que o Suco se encontra estabelecido, após a receção do Anexo I, nos termos do n. º1 do artigo 8.º do presente diploma, autoriza o levantamento através da Autorização de Levantamento, que consta do Anexo II.
+
+2. Compete ao Presidente da Autoridade Municipal, ao Administrador Municipal ou ao Presidente da Autoridade da Região Administrativa Especial de Oe-Cusse Ambeno enviar os relatórios mensais dos pagamentos executados com contrapartida no incentivo extraordinário atribuído pelo Decreto-Lei n.º 11/2021, de 21 de julho, efetuado por cada um dos sucos, juntando os comprovativos de todos os pagamentos efetuados, nos termos das alíneas do n.º 1 do artigo seguinte do presente diploma, para a Direção-Geral do Desenvolvimento Rural, através de carta, cujo modelo consta do Anexo VI.
+
+3. Compete ao Presidente da Autoridade Municipal, ao Administrador Municipal ou ao Presidente da Autoridade da Região Administrativa Especial de Oe-Cusse Ambeno notificar o Chefe de Suco da recusa da receção do relatório mensal e da necessidade de completar o relatório nos termos do presente diploma, sob pena do Suco ser obrigado a restituir os montantes indevidamente pagos.
