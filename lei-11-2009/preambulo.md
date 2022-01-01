@@ -10,7 +10,7 @@ A presente lei estabelece as unidades de Poder Local, os municípios, com base n
 
 - Promoção de uma oferta de serviços mais efetiva, eficiente e equitativa para o desenvolvimento social e económico do país.
 
-As atuais jurisdições administrativas, isto é, a presente divisão territorial informal que inclui os níveis subdistritais e distritais serão fundidas para formarem novas unidades administrativas consolidadas e eficientes ao nível distrital, com assembleias de representantes, que podem prestar serviços adequados aos cidadãos e têm suficiente capacidade para desempenhar as suas funções.
+As atuais jurisdições administrativas, isto é, a presente divisão territorial informal que inclui os níveis subdistritais e distritais, serão fundidas para formarem novas unidades administrativas consolidadas e eficientes ao nível distrital, com assembleias de representantes, que podem prestar serviços adequados aos cidadãos e têm suficiente capacidade para desempenhar as suas funções.
 
 Os municípios estão a ser estabelecidos com base na garantia de que cada um:
 

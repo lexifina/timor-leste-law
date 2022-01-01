@@ -2,17 +2,18 @@
 
 - preambulo.md
 
-## CAPÍTULO I — Princípios gerais
+## CAPÍTULO I — PRINCÍPIOS GERAIS
 
 - artigo-001.md
 - artigo-002.md
 - artigo-003.md
 
-## CAPÍTULO II — Identificação das circunscrições administrativas
+## CAPÍTULO II — IDENTIFICAÇÃO DAS CIRCUNSCRIÇÕES ADMINISTRATIVAS
 
 - artigo-004.md
 - artigo-005.md
 - artigo-006.md
+- artigo-006-A.md
 - artigo-007.md
 - artigo-008.md
 - artigo-009.md
@@ -26,7 +27,7 @@
 - artigo-017.md
 - artigo-018.md
 
-## CAPÍTULO III — Criação, modificação e extinção de circunscrições administrativas
+## CAPÍTULO III — CRIAÇÃO, MODIFICAÇÃO E EXTINÇÃO DE CIRCUNSCRIÇÕES ADMINISTRATIVAS
 
 - artigo-019.md
 - artigo-020.md
@@ -36,7 +37,7 @@
 - artigo-024.md
 - artigo-025.md
 
-## CAPÍTULO IV — Disposições finais e transitórias
+## CAPÍTULO IV — DISPOSIÇÕES FINAIS E TRANSITÓRIAS
 
 - artigo-026.md
 - artigo-027.md

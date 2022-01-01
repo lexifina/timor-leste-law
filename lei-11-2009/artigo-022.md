@@ -20,13 +20,13 @@ a) Projeto de lei quando exercida pelos Deputados ao Parlamento Nacional e Banca
 
 b) Proposta de lei quando exercida pelo Governo;
 
-c) Petição ao Parlamento Nacional, subscrita por, pelo menos, trinta por cento dos eleitores recenseados nas unidades geográficas de recenseamento eleitoral compreendida nas circunscrições administrativas abrangidas pela iniciativa, quando subscrita pelos cidadãos;
+c) Petição ao Parlamento Nacional, subscrita por, pelo menos, trinta por cento dos eleitores recenseados nas unidades geográficas de recenseamento eleitoral compreendidas nas circunscrições administrativas abrangidas pela iniciativa, quando subscrita pelos cidadãos;
 
 d) Petição ao Parlamento Nacional, apresentada pelo órgão deliberativo da Região Administrativa Especial de Oe-Cusse Ambeno, na sequência de deliberação aprovada pela maioria absoluta dos membros em efetividade de funções;
 
 e) Petição ao Parlamento Nacional, apresentada pelos órgãos deliberativos do Poder Local, na sequência de deliberação aprovada pela maioria absoluta dos seus membros em efetividade de funções.
 
-3. A iniciativa deve dispor sobre a delimitação territorial da circunscrição administrativa, o nome desta, bem como sobre o respetivo centro administrativo.
+3. A iniciativa deve dispor sobre a delimitação territorial da circunscrição administrativa e o nome desta, bem como sobre o respetivo centro administrativo.
 
 4. A modificação ou criação de circunscrições administrativas não pode ocorrer nos seis meses que antecedam as eleições nacionais ou municipais.
 
