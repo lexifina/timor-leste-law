@@ -1,0 +1,3 @@
+# Artigo 1.º — (Objeto)
+
+O presente diploma procede à criação da Administração Municipal de Ataúro, à terceira alteração ao Decreto-Lei n.º 3/2016, de 16 de março, sobre o Estatuto das Administrações Municipais, das Autoridades Municipais e do Grupo Técnico Interministerial para a Descentralização Administrativa, alterado pelos Decretos-Leis n.ºs 9/2018, de 9 de abril, e 54/2020, de 28 de outubro, este retificado pela Declaração de Retificação n.º 4/2020, de 16 de dezembro, e à segunda alteração ao Decreto-Lei n.º 11/2019, de 14 de junho, sobre a Orgânica do Ministério da Administração Estatal, alterado pelo Decreto-Lei n.º 53/2020, de 28 de outubro.
