@@ -1,0 +1,7 @@
+# Artigo 112.º — (Responsabilidade)
+
+1. Os titulares dos cargos políticos respondem política, financeira, civil e criminalmente pelos atos e omissões que pratiquem no âmbito do exercício das suas funções de execução orçamental, nos termos do disposto na Constituição da República, na presente lei e na demais legislação aplicável, que estabelecem os pressupostos e termos da responsabilidade política e civil e tipificam as infrações criminais e financeiras, bem como as respetivas sanções.
+
+2. Os titulares de cargos de direção e chefia e os trabalhadores dos serviços e entidades do Setor Público Administrativo respondem disciplinar, financeira, civil e criminalmente pelos atos e omissões que pratiquem no âmbito do exercício das suas funções de execução orçamental, nos termos do disposto na Constituição da República, na presente lei e na demais legislação aplicável, que estabelecem os pressupostos e termos da responsabilidade civil e tipificam as infrações criminais, financeiras e disciplinares, bem como as respetivas sanções.
+
+3. Sem prejuízo das formas próprias de efetivação das restantes modalidades de responsabilidade a que se referem os números anteriores, a responsabilidade financeira é efetivada pela Câmara de Contas do Tribunal Superior Administrativo, Fiscal e de Contas, nos termos dos artigos 42.º a 55.º da Lei n.º 9/2011, de 17 de agosto, alterada pela Lei n.º 3/2013, de 7 de agosto, e pela Lei n.º 1/2017, de 18 de janeiro, e demais legislação aplicável.
