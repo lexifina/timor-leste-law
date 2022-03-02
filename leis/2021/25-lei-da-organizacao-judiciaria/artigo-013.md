@@ -1,0 +1,3 @@
+# Artigo 13.º — (Publicidade das audiências)
+
+As audiências dos tribunais são públicas, salvo quando a lei ou o próprio tribunal decidir o contrário, em despacho fundamentado, para salvaguarda da dignidade das pessoas e da moral pública ou para garantir o seu normal funcionamento.
