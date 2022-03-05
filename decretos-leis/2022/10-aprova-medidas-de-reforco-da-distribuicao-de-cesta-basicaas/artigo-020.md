@@ -1,0 +1,3 @@
+# Artigo 20.º — (Elaboração e apresentação de relatórios)
+
+Sem prejuízo de informações intercalares que, semanal, quinzenal ou mensalmente produza e sejam solicitados, o Secretariado Técnico elabora e apresenta trimestralmente ao Ministro Coordenador dos Assuntos Económicos, com conhecimento dos demais membros do Governo intervenientes, um relatório sobre a implementação da distribuição da cesta básica e a execução orçamental da sua distribuição, o qual é remetido ao Primeiro-Ministro para apreciação e avaliação do Governo, sem prejuízo da remessa do relatório final global após a conclusão da distribuição da cesta básica.
