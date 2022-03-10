@@ -1,0 +1,3 @@
+# Artigo 6.º — (Regime transitório até à instalação dos órgãos do Poder Local)
+
+Até à instalação dos órgãos do Poder Local criados pela Lei n.º 23/2021, de 10 de novembro, que aprova a Lei do Poder Local e da Descentralização Administrativa, as responsabilidades e competências administrativas cometidas pelo presente diploma aos órgãos e serviços dos municípios são exercidas pelos órgãos e serviços das Administrações e Autoridades Municipais nos termos do Decreto-Lei n.º 3/2016, de 16 de março, com a redação atual, que aprova o Estatuto das Administrações Municipais, das Autoridades Municipais e do Grupo Técnico Interministerial para a Descentralização Administrativa.
