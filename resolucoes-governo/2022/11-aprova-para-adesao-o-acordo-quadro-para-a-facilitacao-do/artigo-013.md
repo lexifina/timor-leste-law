@@ -1,0 +1,5 @@
+# Artigo 13.º — (Projetos-piloto e partilha de informações)
+
+1. As Partes devem esforçar-se por iniciar e lançar projetospiloto sobre o intercâmbio transfronteiriço de dados e documentos relacionados com o comércio em formato eletrónico, em particular entre as alfândegas e outras agências reguladoras. As Partes devem colaborar em tais projetos-piloto por meio das soluções institucionais estabelecidas no presente Acordo-Quadro.
+
+2. As Partes devem apresentar relatórios ao Comité Permanente sobre o andamento dos projetos-piloto para facilitar a troca de experiências e progressos realizados e para estabelecer uma coleção das melhores práticas para a interoperabilidade do intercâmbio transfronteiriço de dados e documentos relacionados com o comércio em formato eletrónico. A troca de experiências e progressos deve estender-se além das Partes do presente Acordo-Quadro, na medida do possível e conforme apropriado, num esforço para promover a implementação do comércio sem papel em toda a região.

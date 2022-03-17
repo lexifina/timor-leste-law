@@ -1,0 +1,3 @@
+# Artigo 15.º — (Implementação do presente Acordo-Quadro)
+
+Cada Parte deve empenhar-se em implementar as disposições do presente Acordo-Quadro, criando um ambiente legal propício e desenvolvendo a infraestrutura técnica necessária para facilitar o intercâmbio transfronteiriço de dados e documentos relacionados com comércio em formato eletrónico. As Partes reconhecem que os países em desenvolvimento e os países menos desenvolvidos e sem litoral podem precisar de assistência técnica e financeira para desenvolver a infraestrutura técnica e criar um ambiente legal favorável, essenciais para facilitar o intercâmbio transfronteiriço de dados e documentos relacionados com o comércio em formato eletrónico.
