@@ -1,0 +1,3 @@
+# Artigo 2.º — (Natureza)
+
+O Programa Mão de Obra do Posto Administrativo (PMOPA) consiste na transferência de subvenções públicas para os Postos Administrativos destinadas a realizar pequenos trabalhos de manutenção ou melhoria nas sedes do Posto Administrativo, nos jardins, nas infraestruturas de saneamento e outras de utilização comum e das demais intervenções decorrentes de situações que coloquem em risco a segurança de pessoas e bens, a segurança ambiental, florestal e de higiene, as infraestruturas rurais, culturais e turísticas, situadas dentro da área de circunscrição do respetivo Posto Administrativo.
