@@ -1,0 +1,5 @@
+# Artigo 52.º — (Autoridades Municipais e Administrações Municipais)
+
+1. As Autoridades Municipais e Administrações Municipais podem receber e encaminhar aos órgãos e serviços da Administração Central competentes os requerimentos de pedidos de informação prévia e de concessão das autorizações e licenças previstos no presente diploma, assim como as notificações e outras comunicações emergentes dos respetivos procedimentos destinadas aos particulares, nos termos a aprovar por diploma ministerial conjunto dos membros do Governo responsáveis pelas áreas do plano e ordenamento, das obras públicas e do poder local e da descentralização administrativa.
+
+2. Os órgãos e serviços da Administração Central podem delegar o exercício de competências previstas no presente diploma nos órgãos e serviços das Autoridades Municipais e Administrações Municipais mediante a celebração de contratos interorgânicos de delegação de competências, nos termos do artigo 19.º do Decreto-Lei n.º 3/2016, de 16 de março, com a redação atual, que aprova o Estatuto das Autoridades Municipais, das Administrações Municipais e do Grupo Técnico Interministerial para a Descentralização Administrativa.
