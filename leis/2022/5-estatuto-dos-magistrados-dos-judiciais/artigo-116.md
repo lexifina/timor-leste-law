@@ -1,0 +1,7 @@
+# Artigo 116.º — (Multa)
+
+1. A sanção de multa é fixada em quantia certa e não pode exceder o valor correspondente a uma remuneração base diária e como limite máximo o valor correspondente a seis remunerações base diárias.
+
+2. A pena de multa implica o desconto no vencimento do magistrado da importância correspondente ao número de dias de multa aplicados.
+
+3. No caso de cúmulo de sanções de multa, a multa aplicável não pode ultrapassar 90 remunerações base diárias.
