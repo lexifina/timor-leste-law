@@ -1,0 +1,7 @@
+# Artigo 4.º — (Desenvolvimento rural)
+
+1. Segundo os princípios gerais cooperativos, e com vista a inserção das cooperativas agrícolas no desenvolvimento das comunidades rurais e a intercooperação com estruturas locais, regionais, nacionais e internacionais, as cooperativas agrícolas podem ainda realizar outras atividades complementares ou conexas.
+
+2. Como atividades complementares ou conexas das atividades agrícolas definidas no artigo 2.º, podem as cooperativas agrícolas realizar atividades de apoio às explorações agrícolas, ao desenvolvimento de produtos de qualidade, ao desenvolvimento sustentável das florestas, ao desenvolvimento tecnológico e experimentação agroflorestal, ao desenvolvimento de serviços agro-rurais, à requalificação ambiental e valorização do ambiente e do património rural e à promoção de ações e projetos integrados de desenvolvimento agrícola e rural.
+
+3. Para a realização das atividades constantes do número anterior, podem as cooperativas agrícolas participar em programas de intercooperação e estabelecer parcerias com organismos públicos ou particulares de economia social, nomeadamente cooperativas, ou com organismos municipais, para o que podem criar ou integrar-se em estruturas locais, regionais, nacionais ou internacionais que potenciem ou executem ações de desenvolvimento sustentável das suas comunidades, constantes de políticas aprovadas pelos seus membros.

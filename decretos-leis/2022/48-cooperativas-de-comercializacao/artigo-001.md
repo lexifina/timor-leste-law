@@ -1,0 +1,3 @@
+# Artigo 1.º — (Âmbito)
+
+As cooperativas de comercialização eas suas organizações de grau superior regem-se pelas disposições do presente diploma e, em tudo o que não estiver especialmente regulado, pelas do regime jurídico geral das cooperativas.
