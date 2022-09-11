@@ -1,0 +1,3 @@
+# Artigo 19.º — (Dispensa em audiência)
+
+Por razões de segurança, pode ser dispensada a comparência em audiência de discussão e julgamento do funcionário de investigação criminal ou do terceiro que atuou com ocultação de identidade nos termos da Lei n.º 2/2009, de 6 de maio, que regula a aplicação de medidas para a proteção de testemunhas, em processo civil e penal, quando a vida, a integridade física ou psíquica, a liberdade ou bens patrimoniais de valor consideravelmente elevado da testemunha sejam postos em perigo por causa do seu contributo para a prova dos factos ou descoberta da verdade material que constituam objeto do processo.
