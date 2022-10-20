@@ -1,0 +1,3 @@
+# Artigo 1.º — (Objeto)
+
+O presente diploma define e regula o procedimento administrativo e os critérios aplicáveis à atribuição de bolsas de mérito aos melhores alunos nos níveis do Ensino Básico e Secundário Geral e Técnico-Vocacional, conforme determinado no n.° 3 do artigo 4.° do Decreto-Lei n.° 35/2022, de 19 de maio, sobre medida de apoio aos estabelecimentos de educação préescolar, Ensinos Básico e Secundário público e particular integrados na rede de oferta de serviço público para acesso à internet, atribuição de uma bolsa aos melhores alunos, implementação do projeto piloto “Escola Iha Uma ou Homeschooling” e financiamento do estudo de viabilidade do estabelecimento de escola de raiz.
