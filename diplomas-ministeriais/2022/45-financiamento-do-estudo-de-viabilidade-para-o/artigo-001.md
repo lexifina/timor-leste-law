@@ -1,0 +1,3 @@
+# Artigo 1.º — (Objeto)
+
+O presente diploma define a regulamentação aplicável ao financiamento do estudo de viabilidade para o estabelecimento de uma Escola Superior de Educação, abreviadamente designada “Escola de Raiz”, previsto no artigo 11.o do Decreto-Lei n.° 35/2022, de 19 de maio, sobre medida de apoio aos estabelecimentos de educação pré-escolar, ensinos básico e secundário público e particular integrados na rede de oferta de serviço público para acesso à internet, atribuição de uma bolsa aos melhores alunos, implementação do projeto piloto “Escola Iha Uma” ou “Homeschooling” e financiamento do estudo de viabilidade do estabelecimento de Escola de Raiz.
