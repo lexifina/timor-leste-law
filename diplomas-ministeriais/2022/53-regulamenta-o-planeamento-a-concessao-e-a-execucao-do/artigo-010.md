@@ -1,0 +1,7 @@
+# Artigo 10.º — (Atividades de divulgação do programa UKL ao nível municipal, regional e de posto administrativo)
+
+1. Findo o processo de seleção de aldeias previsto no artigo 8.º, oST-PNDS, através dos serviços centrais e de equipas de nível municipal,regional e de posto administrativo, realiza sessões de informação sobre o programa UKL ao nível do município, região e posto administrativo.
+
+2. As sessões têm por objetivo transmitir informação sobre o programa UKLaos Presidentes das Autoridades Municipais, Administradores Municipais, Presidente da Autoridade daRegião Administrativa Especial de Oe-cusse Ambeno, Administradores de Posto Administrativo, Chefes de Suco, representantes dos ministérios e secretarias de estado ao nível municipal e regional e demais entidades públicas relevantes para a implementação do programa UKL, e representantes de organizações da sociedade civil.
+
+3. A informação a transmitir aos destinatários indicados no número anterior compreende, nomeadamente, objetivos do programa UKL, enquadramento normativo, critérios de seleção das aldeias, informação sobre as aldeias escolhidas para a atribuição dos apoios, o número de habitações a construir ou reconstruir em cada aldeia, os critérios de elegibilidade e inelegibilidade de beneficiários, regras de verificação, avaliação e classificação de agregados familiares,regras de financiamento do programa UKL, entre outra informação relevante.
