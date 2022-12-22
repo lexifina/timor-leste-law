@@ -1,0 +1,3 @@
+# Artigo 17-A.º — (Região Administrativa Especial de Oe-Cusse Ambeno)
+
+A Região Administrativa Especial de Oe-Cusse Ambeno, na qualidade de pessoa coletiva de direito público e no âmbito da sua autonomia regional, participa, em articulação com o Governo, na definição e na execução da política de saúde nacional e regional, através da elaboração e aprovação do seu plano de desenvolvimento regional, constituindo-se como um elemento do sistema de saúde suscetível de canalizar para a região investimentos públicos e privados, nomeadamente em áreas como a saúde pública, instalações hospitalares, clínicas de referência e polos de investigação médica.
