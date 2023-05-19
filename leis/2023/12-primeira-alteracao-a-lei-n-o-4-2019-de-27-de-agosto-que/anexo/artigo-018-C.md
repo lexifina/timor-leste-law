@@ -1,0 +1,13 @@
+# Artigo 18-C.º — (Disposições específicas sobre a imposição de Impostos Aduaneiros)
+
+1. Os bens e equipamentos que entrem em Timor-Leste para fins relacionados com Atividades Petrolíferas na Antiga Área Conjunta de Desenvolvimento Petrolífero não estão sujeitos a impostos aduaneiros, incluindo, mas não se limitando a, direitos aduaneiros de importação, imposto sobre vendas, imposto seletivo de consumo, e outros direitos aduaneiros.
+
+2. Os bens e equipamentos que saírem de uma Área do Contrato localizada na Antiga Área Conjunta de Desenvolvimento Petrolífero e sejam transferidos para qualquer Localização Designada em Timor-Leste para realização de Atividades Petrolíferas autorizadas pelo Ministério ao abrigo do plano de desmantelamento aprovado, não estão sujeitos a impostos aduaneiros, incluindo, mas não se limitando a, direitos aduaneiros de importação, imposto sobre vendas, imposto seletivo de consumo e outros direitos aduaneiros.
+
+3. Os bens e equipamentos que entrem em Timor-Leste para fins relacionados com Atividades Petrolíferas referidas nos n.ºs 1 e 2, realizadas na Localização Designada em Timor-Leste, mas não na Antiga Área Conjunta de Desenvolvimento Petrolífero não estão sujeitos a impostos aduaneiros, incluindo, mas não se limitando a, direitos aduaneiros de importação, imposto sobre vendas, imposto seletivo de consumo e outros direitos aduaneiros.
+
+4. Os bens e equipamentos que entrem em Timor-Leste e aos quais se aplique o disposto nos n.ºs 2 e 3, ficam sujeitos ao regime de importação temporária com suspensão total do pagamento dos direitos aduaneiros ou demais imposições ao abrigo do regime geral aduaneiro, nos termos dos artigos 183º e seguintes, do Decreto-Lei nº 14/2017, de 5 de abril, independentemente do seu valor comercial, valor consumível e duração da sua permanência temporária em Timor-Leste, durante a execução das Atividades Petrolíferas em questão, ficando isentos de obrigação de prestação de uma garantia ou caução.
+
+5. Os bens e equipamentos que sejam isentos de direitos aduaneiros, conforme o disposto nos n.ºs 1, 2 ou 3, e que deixem de ser utilizados nas Atividades Petrolíferas e sejam transferidos, a título definitivo, para Timor-Leste podem, nesse momento, ser sujeitos ao pagamento de impostos aduaneiros, incluindo, mas não se limitando a, direitos aduaneiros de importação, imposto sobre vendas, imposto seletivo de consumo e outros direitos aduaneiros.
+
+6. O disposto nos números anteriores aplica-se a bens e equipamentos importados tanto por Contratantes como por Subcontratantes para fins relacionados com Atividades Petrolíferas.
