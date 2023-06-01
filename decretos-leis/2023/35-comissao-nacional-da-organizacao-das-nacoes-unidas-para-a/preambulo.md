@@ -1,0 +1,15 @@
+DECRETO-LEI N.º 35/2023
+
+de 31 de Maio
+
+COMISSÃO NACIONAL DA ORGANIZAÇÃO DAS NAÇÕES UNIDAS PARA A EDUCAÇÃO, A CIÊNCIA E A CULTURA DE TIMOR-LESTE
+
+Com a entrada em vigor do Decreto-Lei n.º 30/2020, de 29 de julho, que define as regras relativas à organização da Administração direta e indireta do Estado, e do Decreto-Lei n.º 16/2021, de 15 de setembro, que delimita as bases gerais da organização da administração pública, surgiu a necessidade de se atualizar os diplomas legais relativos aos diferentes organismos da Administração direta de Timor-Leste e diversas pessoas coletivas criadas no ordenamento jurídico nacional.
+
+Igualmente, com a entrada em vigor da Lei n.º 2/2022, de 10 de fevereiro, relativa ao enquadramento do Orçamento Geral do Estado e da gestão financeira pública, é agora previsto um novo regime financeiro para os serviços e entidades do setor público administrativo, com especial destaque para o regime denominado de regime de autonomia financeira alargada, que permite a capacidade de um serviço ou entidade ter mais autonomia financeira, ainda que integrado na Administração direta do Estado.
+
+Volvidos cerca de oito anos após a criação da pessoa coletiva Comissão Nacional da Organização das Nações Unidas para a Educação, a Ciência e a Cultura de Timor-Leste, foram vários os programas e atividades desenvolvidos por esta pessoa coletiva com vista à promoção e desenvolvimento das áreas da educação, ciência e cultura no País. Contudo, e tendo em vista permitir a contínua participação da Comissão Nacional no crescimento e desenvolvimento das áreas acima enumeradas, é necessário trazer mudanças para o futuro tendo em vista a sua simplificação e redução da despesa necessária ao seu funcionamento, sem que tal opção prejudique a prossecução das suas atribuições, preenchimento dos seus objetivos e obtenção dos desejados resultados, em garantia do interesse nacional.
+
+Desta forma, este novo diploma, que sucede ao Decreto-Lei n.º 29/2014, de 24 de setembro, extingue a pessoa coletiva Comissão Nacional da Organização das Nações Unidas para a Educação, a Ciência e a Cultura de Timor-Leste, para criar um novo serviço público central da Administração direta do Estado subordinado ao membro do Governo responsável pela área da cultura, definindo-se uma nova organização da estrutura orgânica interna e possibilitando-se um maior envolvimento do órgão executivo constitucional – o Governo – no funcionamento e atividade da entidade, seguido da existência de um órgão executivo e serviços administrativos internos mais dinâmicos e no número mínimo necessário para que seja possível alcançar os objetivos e resultados com uma estrutura mais simplificada, ainda que em respeito das regras definidas pela Lei n.º 2/2022, de 10 de fevereiro, bem como pelos Decretos-Leis n.os 30/2020, de 29 de julho, e 16/2021, de 15 de setembro.
+
+Assim, o Governo decreta, nos termos da alínea g) do n.º 1 e do n.º 3 do artigo 115.º da Constituição da República, para valer como lei, o seguinte:
