@@ -1,0 +1,3 @@
+# Artigo 92.º — (Atribuição de apoio financeiro público aos estabelecimentos de educação pré-escolar particulares e cooperativos integrados na rede de ofertas educativas de serviço público)
+
+A atribuição de apoio financeiro público aos estabelecimentos de educação pré-escolar particulares e cooperativos integrados na rede de ofertas educativas de serviço público é aprovada até ao dia 30 de junho de 2023, de forma a auxiliar o planeamento da expansão da rede da educação pré-escolar através da integração de estabelecimentos de educação particulares e cooperativos na rede de ofertas educativas de serviço público.
