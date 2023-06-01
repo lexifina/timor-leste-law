@@ -1,0 +1,3 @@
+# Artigo 35.º
+
+[Revogado]
