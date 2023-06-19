@@ -1,0 +1,7 @@
+# Artigo 59.º — (Obrigações do autor)
+
+1. O autor obriga-se a proporcionar ao editor os meios necessários para cumprimento do contrato, devendo, nomeadamente, entregar, nos prazos convencionados, o original da obra objeto da edição em condições de poder fazer-se a reprodução.
+
+2. O original referido no número anterior pertence ao autor, que tem o direito de exigir a sua restituição logo que esteja concluída a edição.
+
+3. Se o autor demorar injustificadamente a entregar o original, de modo a comprometer a expectativa do editor, pode este resolver o contrato, sem prejuízo do pedido de indemnização por perdas e danos.
