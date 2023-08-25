@@ -1,0 +1,5 @@
+# Artigo 30.º — (Instituto de Gestão de Equipamentos e Apoio ao Desenvolvimento de Infraestruturas, I.P.)
+
+1. O Instituto de Gestão de Equipamentos e Apoio ao Desenvolvimento de Infraestruturas, abreviadamente designado IGEADI, I.P., é um instituto público dotado de autonomia administrativa e financeira e património próprio que tem por fim assegurar uma boa gestão, exploração e conservação dos veículos pesados, das máquinas e dos equipamentos em geral que constituam o seu património e promover a existência das condições necessárias para a sua rentabilização e utilização e, ainda, através da celebração de contratos interadministrativos realizar atividades de limpeza, manutenção e reabilitação de vias rodoviárias e infraestruturas conexas, de desassoreamento e limpeza de rios, ribeiras, de estabilização de margens e taludes e de manutenção de infraestruturas de irrigação no cumprimento efetivo da política de infraestruturas definida pelo Governo e em articulação com órgãos da administração pública.
+
+2. O IGEADI, I.P., rege-se por estatuto próprio, aprovado por decreto-lei.
