@@ -1,0 +1,3 @@
+# Artigo 42.º — (Duração das medidas de colocação)
+
+As medidas previstas nas alíneas e) e f) do n.o 1 do artigo 20.º têm a duração estabelecida no acordo ou na decisão judicial.
