@@ -1,0 +1,27 @@
+# Artigo 17.º — ([…])
+
+1. Compete às autoridades municipais, no domínio dos registos, do notariado e dos serviços cadastrais:
+
+a) […];
+
+b) […];
+
+c) […];
+
+d) […];
+
+e) […];
+
+f) […];
+
+g) […];
+
+h) […];
+
+i) […].
+
+2. O exercício das competências previstas no n.º 1 depende da celebração de contratos interadministrativos entre os membros do Governo responsáveis pela justiça e pela administração estatal e os presidentes das autoridades municipais, homologados pelo Primeiro-Ministro sob a forma de diploma ministerial.
+
+3. Os contratos interadministrativos previstos no número anterior incluem o plano de formação dos recursos humanos que desempenham funções nos serviços municipais de registos, notariado e serviços cadastrais.
+
+4. O membro do Governo responsável pela justiça pode delegar o exercício de outras competências, no domínio dos registos, notariado e serviços cadastrais, nas autoridades municipais através da celebração de contratos interadministrativos nos termos previstos no n.º 2.
