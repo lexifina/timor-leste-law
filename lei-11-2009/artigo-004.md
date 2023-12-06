@@ -2,32 +2,32 @@
 
 1. O território da República Democrática de Timor-Leste compreende as seguintes divisões administrativas de primeiro escalão:
 
-a) O Município de Aileu;
+a) Ataúro;
 
-b) O Município de Ainaro;
+b) Município de Aileu;
 
-c) O Município de Ataúro;
+c) Município de Ainaro;
 
-d) O Município de Baucau;
+d) Município de Baucau;
 
-e) O Município de Bobonaro;
+e) Município de Bobonaro;
 
-f) O Município de Covalima;
+f) Município de Covalima;
 
-g) O Município de Díli;
+g) Município de Díli;
 
-h) O Município de Ermera;
+h) Município de Ermera;
 
-i) O Município de Lautém;
+i) Município de Lautém;
 
-j) O Município de Liquiçá;
+j) Município de Liquiçá;
 
-k) O Município de Manatuto;
+k) Município de Manatuto;
 
-l) O Município de Manufahi;
+l) Município de Manufahi;
 
-m) O Município de Viqueque;
+m) Município de Viqueque;
 
-n) A Região Administrativa Especial de Oe-Cusse Ambeno.
+n) Região Administrativa Especial de Oe-Cusse Ambeno.
 
 2. Os postos administrativos identificados nos artigos 5.º a 17.º são divisões administrativas do território de segundo escalão.

@@ -11,6 +11,7 @@
 ## CAPÍTULO II — IDENTIFICAÇÃO DAS CIRCUNSCRIÇÕES ADMINISTRATIVAS
 
 - artigo-004.md
+- artigo-004-A.md
 - artigo-005.md
 - artigo-006.md
 - artigo-006-A.md
@@ -37,7 +38,7 @@
 - artigo-024.md
 - artigo-025.md
 
-## CAPÍTULO IV — DISPOSIÇÕES FINAIS E TRANSITÓRIAS
+## CAPÍTULO IV — DISPOSIÇÕES FINAIS
 
 - artigo-026.md
 - artigo-027.md
