@@ -1,0 +1,3 @@
+# Artigo 1.º — (Natureza)
+
+O Conselho Consultivo e de Coordenação da Juventude, Desporto, Arte e Cultura, abreviadamente designado por Conselho Consultivo, é o órgão de consulta interna alargada do Ministro da Juventude, Desporto, Arte e Cultura ao qual cabe velar pela coerência administrativa, pela coordenação das atividades dos serviços do ministério, pelo desenvolvimento e aplicação uniforme dos procedimentos e pela procura de solução dos problemas regulares na execução das competências dos órgãos do ministério, de maneira colaborativa, bem como pela eficiência na transmissão e execução das políticas superiormente definidas.
