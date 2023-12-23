@@ -1,0 +1,21 @@
+DIPLOMA MINISTERIAL N.º 81/2023
+
+de 22 de Dezembro
+
+REGULAMENTO PARA A MATRÍCULA DO ENSINO SECUNDÁRIO NOS ESTABELECIMENTOS DE ENSINO SECUNDÁRIO PÚBLICOS
+
+O ensino secundário assume um papel crucial no fortalecimento da personalidade das crianças e dos jovens para uma cidadania ativa e a sua futura integração no mercado de trabalho, sendo o último nível de ensino que culmina na certificação da educação a nível não superior. A taxa de matrícula bruta no ensino secundário tem crescido consistentemente, tendo atingido cerca de 85% em 2021, comparado com os 62,4% registados em 2015. Este aumento reflete os esforços contínuos dos Governos para ampliar gradualmente o acesso ao nível mais elevado de educação não superior. Embora exista uma rede de ofertas educativas de serviço público no ensino secundário, incluindo cursos gerais e técnicos-vocacionais, esta oferta ainda é insuficiente para assegurar o acesso universal.
+
+Conforme previsto no n.º 2 do artigo 14.º da Lei de Bases da Educação, aprovada pela Lei n.º 14/2008, de 29 de outubro, a frequência no ensino secundário é facultativa. No entanto, cumpre salientar que é neste nível que os jovens se preparam para o mercado de trabalho ou para a continuação dos estudos a nível superior. A frequência do ensino secundário exige a conclusão do ensino básico, e, com isto, para a formalização da matrícula, considerando a oferta ainda não universal, o resultado do exame nacional do ensino básico pode vir a ser considerado como fator decisivo em situações de vagas limitadas.
+
+Até à data não existe regulamentação para os requisitos e o processo de matrícula no ensino secundário, o que resulta numa falta de uniformização nos requisitos e procedimentos de matrícula nos diversos estabelecimentos escolares dispersos no território nacional. Essa ausência levou a que alguns estabelecimentos matriculassem mais alunos do que a sua capacidade permite, enquanto outros acabam por ter um número inferior à sua capacidade. Além disso, regista-se uma mobilidade interna para Díli, colocando desafios inerentes à residência em áreas mais remotas e, muitas vezes, decorrentes de uma visão errónea de que os estabelecimentos de ensino em Díli oferecem um ensino secundário de melhor qualidade.
+
+É, pois, essencial regulamentar os requisitos e procedimentos para a matrícula neste nível de ensino. O presente diploma estabelece, pela primeira vez, um processo claro, objetivo, simples e descentralizado para a matrícula no ensino secundário, prevendo normas específicas para a matrícula em estabelecimentos de ensino públicos, o procedimento para assegurar o registo das crianças e jovens durante esta fase escolar, bem como regras práticas para a determinação das consequências quando os preceitos previstos neste diploma forem violados. Prevê, ainda, regras relevantes para a constituição de turmas de alunos no ensino secundário.
+
+De especial relevância, tendo em conta o dever do Estado de assegurar o gozo progressivo do direito da educação, o regime adotado assegura a manutenção da mesma taxa de matrícula, evitando retrocessos nas conquistas, esforçando-se para diminuir as assimetrias e promover a igualdade de oportunidades, nomeadamente, a inclusão de crianças e jovens com necessidades educativas especiais.
+
+O presente diploma, do mesmo modo, exige a publicação do número de vagas em cada estabelecimento escolar e contém normas para garantir uma distribuição mais eficaz das crianças e jovens entre diferentes estabelecimentos de ensino público, evitando deslocações desnecessárias que poderiam resultar em aglomerações prejudiciais para a qualidade do ensino. No que respeita à determinação das vagas nos diversos estabelecimentos escolares, o presente diploma promove, ainda, um reforço da oferta no âmbito do programa técnicovocacional, tendo este grande importância para o desenvolvimento dos diversos setores produtivos no país e na oferta de trabalho no estrangeiro.
+
+Assim,
+
+O Governo, pela Ministra da Educação, manda, ao abrigo no previsto no n.º 2 do artigo 14.º da Lei n.º 14/2008, de 29 de outubro, Lei de Bases da Educação, conjugado com os artigos 23.º e 24.º do Decreto-Lei n.º 33/2023, de 31 de maio, Regime Jurídico do Sistema Nacional de Ensino Secundário, publicar o seguinte diploma:
