@@ -1,0 +1,5 @@
+# Artigo 30.º — (Registo de docentes colocados)
+
+1. O Ministério da Educação deve assegurar que as colocações dos docentes referidas no presente diploma sejam inscritas no SIGAP, enquanto situação ativa, atualizando os dados individuais de cada docente de modo a facilitar a identificação do estabelecimento onde estava na situação de excedente e o estabelecimento para onde é transferido.
+
+2. O registo da colocação do docente no SIGAP referido no número anterior serve como base para determinar o direito do docente transferido aos incentivos ou subsídios relevantes, nomeadamente o subsídio de colocação nos termos dos artigos 51.º e seguintes do Estatuto da Carreira Docente, aprovado pelo Decreto-Lei n.º 23/2010, de 9 de dezembro, com as alterações introduzidas pelo Decreto-Lei n.º 31/2023, de 31 de maio, bem como o suplemento por trabalho em local remoto ou de difícil acesso, previsto no Regime dos Suplementos Remuneratórios da Administração Pública, aprovado pelo Decreto-Lei n.º 20/2010, de 1 de dezembro, com as alterações introduzidas pelo Decreto-Lei n.º 23/2019, de 7 de agosto.
