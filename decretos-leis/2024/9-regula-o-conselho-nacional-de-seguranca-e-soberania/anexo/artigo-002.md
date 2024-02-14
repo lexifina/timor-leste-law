@@ -1,0 +1,5 @@
+# Artigo 2.º — (Âmbito de aplicação)
+
+1. O presente diploma aplica-se às medidas de salvaguarda contra práticas desleais de comércio, nomeadamente o dumping e a subsidiação de produtos de origem estrangeira ocorridas no território nacional.
+
+2. O Estado só pode aplicar uma medida de salvaguarda a um produto importado para o território de Timor-Leste se tiver determinado, na sequência de um inquérito efetuado em conformidade com as disposições do presente diploma e sua regulamentação, que, em resultado de acontecimentos imprevistos e do efeito das obrigações assumidas por Timor-Leste no âmbito do Acordo Geral sobre Pautas Aduaneiras e Comércio (GATT) de 1994, o produto objeto de inquérito está a ser importado em quantidades de tal modo elevadas, em termos absolutos ou em relação à produção nacional, em condições tais que causam ou ameaçam causar prejuízo grave à indústria nacional que fabrica produtos similares ou diretamente concorrentes, e que a aplicação de tais medidas é do interesse público.
