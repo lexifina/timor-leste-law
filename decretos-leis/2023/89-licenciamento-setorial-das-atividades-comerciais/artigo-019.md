@@ -1,0 +1,5 @@
+# Artigo 19.º — (Suspensão da licença e medidas cautelares)
+
+1. Sempre que seja detetada uma situação de perigo grave para a saúde pública, para a segurança de pessoas e bens, para a higiene e segurança nos locais de trabalho, ou para o ambiente, os serviços da entidade competente devem, de imediato, tomar as medidas cautelares adequadas para eliminar ou prevenir a situação de perigo, podendo, designadamente, determinar a suspensão da licença e da atividade, ou o encerramento preventivo do estabelecimento, no todo ou em parte, bem como a apreensão de todo ou parte do equipamento, mediante selagem, por prazo que não pode ultrapassar os três meses, sem prejuízo da instauração do competente processo de contraordenação.
+
+2. Nos casos de condenação do administrador ou gerente da empresa comercial em medida de interdição do exercício da atividade económica, a licença setorial concedida pode ser suspensa, até à regularização da situação da empresa, nos termos previstos na decisão condenatória.
