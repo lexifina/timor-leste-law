@@ -1,0 +1,27 @@
+# Artigo 32.º — (Direção Nacional do Comércio Externo)
+
+1. A Direção Nacional do Comércio Externo (DNCE) é o serviço da Direção-Geral do Comércio responsável pela regulamentação e pela execução das políticas de desenvolvimento do comércio externo e, bem assim, apoiar a coordenação das relações internacionais no âmbito da atuação do MCI, com as entidades competentes, nos termos definidos pelo Ministro.
+
+2. Cabe à Direção Nacional do Comércio Externo:
+
+a) Promover estudos e acompanhar as questões relativas ao comércio internacional, nomeadamente as propostas e projetos de normas internacionais em discussão no âmbito de organizações internacionais de âmbito global ou regional, em estreita colaboração com outras estruturas relevantes do ministério;
+
+b) Contribuir para a definição da posição de Timor-Leste nas negociações bilaterais, regionais e multilaterais ou sob a égide de organizações internacionais, bem como a negociação de acordos de comércio livre, articulando a posição do ministério;
+
+c) Participar nas comissões e grupos de trabalho constituídos no quadro das organizações internacionais, sempre que tal se revelar útil para a prossecução das atribuições do Ministério do Comércio Indústria em matéria de comércio externo;
+
+d) Promover a implementação de medidas de simplificação e de desburocratização dos procedimentos administrativos relativos à realização do comércio externo, em colaboração com a Agência de Promoção de Investimento e Exportação de Timor-Leste, I.P. (TradeInvest) e as demais entidades relevantes;
+
+e) Diligenciar e promover protocolos de cooperação com o Banco Central, com os serviços aduaneiros e com o INETL, com vista à monitorização da evolução do comércio externo;
+
+f) Emitir certificado de origem dos produtos para exportação;
+
+g) Administrar e manter atualizada uma base de dados, de informação e de documentação relacionadas com o comércio externo e promover a divulgação dos mesmos, de acordo com os temas superiormente definidos;
+
+h) Realizar ações de formação dos recursos humanos do ministério em matéria de comércio externo, em coordenação com a Direção Nacional de Recursos Humanos;
+
+i) Tomar as medidas preventivas necessárias para salvaguardar que as mercadorias importadas respeitem os padrões nacionais estabelecidos em matéria de normalização e metrologia;
+
+j) Apoiar o Governo nas negociações e decisões em instâncias internacionais nas áreas da sua responsabilidade, de maneira a adequá-las aos interesses da política nacional, quando para isso for solicitada;
+
+k) Realizar as demais tarefas que lhe sejam atribuídas por lei, regulamento ou determinação superior.
