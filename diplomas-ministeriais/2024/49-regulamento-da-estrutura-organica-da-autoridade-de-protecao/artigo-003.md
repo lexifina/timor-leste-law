@@ -1,0 +1,7 @@
+# Artigo 3.º — (Nomeação dos órgãos da APC)
+
+1. O Presidente da APC é nomeado por resolução do Governo, sob proposta do membro do Governo responsável pela área da segurança interna e da proteção civil, em comissão de serviço, para um mandato de três anos, renovável uma única vez por igual período, nomeado de entre indivíduos que possuam competência técnica, aptidão e experiência profissional relevantes.
+
+2. O Diretor Executivo da APC é nomeado, em comissão de serviço, para um mandato de três anos, renovável uma única vez, pelo mesmo período, por despacho do membro do Governo responsável pela área da segurança interna e da proteção civil, equiparado, para todos os efeitos a Diretor-Geral e escolhido de entre indivíduos que possuam competência técnica, aptidão, experiência profissional e formação adequadas ao exercício das respetivas funções, sendo no mínimo detentor de uma licenciatura.
+
+3. O Comandante Nacional de Operações de Proteção Civil é nomeado, em comissão de serviço, para um mandato de três anos, renovável uma única vez, por igual período, por despacho do membro do Governo responsável pela área da segurança interna e da proteção civil, equiparado, para todos os efeitos a Diretor-Geral e escolhido de entre indivíduos que possuam competência técnica, aptidão, experiência profissional e formação adequadas ao exercício das respetivas funções, ou por oficiais superiores militares ou oficiais superiores das forças e serviços de segurança, ou de entre indivíduos que tenham exercido funções de direção, no mínimo detentor de uma licenciatura.
