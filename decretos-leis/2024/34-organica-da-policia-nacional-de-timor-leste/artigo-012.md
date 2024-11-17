@@ -1,0 +1,5 @@
+# Artigo 12.º — (Medidas de polícia e meios de coerção)
+
+1. No âmbito das suas atribuições, a PNTL utiliza as medidas de polícia legalmente previstas, não podendo impor restrições ou fazer uso dos meios de coerção para além do estritamente necessário e justificado.
+
+2. Quem faltar à obediência devida a ordem ou a mandado legítimos, regularmente comunicados e emanados de autoridade de polícia ou agente de autoridade, é punido com a pena legalmente prevista para a desobediência qualificada.
