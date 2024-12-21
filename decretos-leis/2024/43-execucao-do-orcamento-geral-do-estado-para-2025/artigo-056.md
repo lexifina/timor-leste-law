@@ -1,0 +1,5 @@
+# Artigo 56.º — (Regras de execução do orçamento das autoridades municipais e da autoridade administrativa de Ataúro)
+
+1. A execução do orçamento das autoridades municipais e da autoridade administrativa de Ataúro segue as regras previstas no Decreto-Lei n.º 3/2016, de 16 de março, que estabelece o Estatuto das Autoridades Municipais e do Grupo Técnico Interministerial para a Descentralização Administrativa, alterado pelo Decreto-Lei n.º 9/2018, de 9 de abril, pelo Decreto-Lei n.º 54/2020, de 28 de outubro, pelo Decreto-Lei n.º 4/2022, de 12 de janeiro, e pelo Decreto-Lei n.º 84/2023, de 23 de novembro.
+
+2. O orçamento das autoridades municipais e da autoridade administrativa de Ataúro destina-se a financiar a despesa executada pelos serviços de apoio técnico, administração e recursos humanos, de finanças, de património e logística, de aprovisionamento, de planeamento integrado e desenvolvimento, de apoio às organizações nãogovernamentais e às organizações comunitárias e às agências de planeamento e de fiscalização municipal.
