@@ -1,0 +1,11 @@
+# Artigo 72.º — (Despesas com remunerações)
+
+1. O ministério com atribuições na área das finanças públicas é competente para efetuar o pagamento das remunerações, bem como dos impostos, das contribuições sociais da responsabilidade da entidade empregadora e do trabalhador e de outras contribuições e retenções associadas, relativamente aos titulares de cargos políticos, de órgãos sociais e de cargos de direção e chefia e aos trabalhadores dos serviços e entidades do Setor Público Administrativo, após autorização do respetivo órgão de direção e com base nas dotações inscritas nos respetivos orçamentos.
+
+2. As verbas para despesas com remunerações, bem como dos impostos, das contribuições sociais da responsabilidade da entidade empregadora e do trabalhador e de outras contribuições e retenções associadas, são inscritas em dotações próprias no orçamento do respetivo serviço ou entidade do Setor Público Administrativo, sendo as verbas dos ministérios, das secretarias de Estado não integradas em ministérios e dos serviços sem autonomia financeira inscritas no capítulo relativo ao departamento responsável pela gestão financeira do ministério ou secretaria de Estado.
+
+3. O órgão com competências executivas do INSS é competente para efetuar o pagamento das remunerações, bem como dos impostos, das contribuições sociais da responsabilidade da entidade empregadora e do trabalhador e de outras contribuições e retenções associadas, relativamente aos titulares de órgãos sociais e cargos de direção e chefia e aos trabalhadores dos serviços e entidades do subsetor da Segurança Social com base nas dotações inscritas no orçamento da Segurança Social.
+
+4. O órgão com competências executivas da RAEOA é competente para efetuar o pagamento das remunerações, bem como dos impostos, das contribuições sociais da responsabilidade da entidade empregadora e do trabalhador e de outras contribuições e retenções associadas, relativamente a titulares de órgãos sociais e cargos de direção e chefia e aos trabalhadores dos serviços e entidades do subsetor da RAEOA com base nas dotações inscritas no orçamento da RAEOA.
+
+5. O atraso no pagamento da remuneração não desobriga os trabalhadores do cumprimento integral dos seus deveres legais e contratuais.
