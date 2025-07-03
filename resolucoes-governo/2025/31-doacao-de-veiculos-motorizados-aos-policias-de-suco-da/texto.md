@@ -1,0 +1,1043 @@
+RESOLUÇÃO DO GOVERNO N.º 31/2025
+
+de 2 de Julho
+
+DOAÇÃO DE VEÍCULOS MOTORIZADOS AOS POLÍCIAS DE SUCO DA POLÍCIA NACIONAL DE TIMOR-LESTE
+
+Considerando que a Polícia Nacional de Timor-Leste (PNTL) conta com os Polícias de Suco (PS) como elementos fundamentais para a implementação da estratégia de polícia comunitária e aproximação às populações locais, no âmbito das suas atribuições e competências para garantir a segurança e manutenção da ordem pública;
+
+Atendendo a que para o eficaz cumprimento da sua missão, os PS foram equipados com veículos motorizados que lhes permitem deslocar-se nas respetivas áreas de jurisdição, tendo, no entanto, ficado com a responsabilidade de assumirem os custos com o combustível e a manutenção destes;
+
+Considerando que alguns destes veículos motorizados atualmente distribuídos aos PS, num total de 453 (quatrocentas e cinquenta e três) unidades, têm geralmente uma idade superior a sete anos, pelo que, por um lado, a desvalorização contabilística patrimonial desses veículos atingiu o seu valor máximo, e por outro, são veículos que pela sua idade e intensidade de utilização encontram-se em mau estado de conservação, pelo que a sua reparação e/ou recuperação tem custos superiores ao valor patrimonial dos respetivos veículos;
+
+Tendo em consideração que a boa gestão pública deste património coloca ao Estado duas opções, o abate desses veículos ou a sua doação;
+
+Considerando o Governo que a opção da doação é mais adequada, e que os destinatários devem ser os PS utilizadores dos veículos motorizados, por representar a justa compensação pelos custos incorridos com o combustível e manutenção destes e valorizar o seu empenho e a dedicação no exercício da sua missão de garantir a segurança e a manutenção da ordem pública nas respetivas áreas de jurisdição;
+
+Assim,
+
+o Governo resolve, nos termos da alínea p) do n.º 1 do artigo 115.º da Constituição da República, o seguinte:
+
+1. Doar a título definitivo, a cada Polícia de Suco, de acordo com a lista em anexo à presente Resolução, o veículo motorizado que lhe está distribuído, para o exercício das respetivas funções, num total de 453 unidades;
+
+2. As despesas relativas à transferência do registo de propriedade do veículo motorizado e todos os demais encargos são assumidos pelo Polícia de Suco beneficiário da doação;
+
+3. A presente resolução entra em vigor no dia seguinte ao da sua publicação.
+
+Aprovado em Conselho de Ministros em 25 de junho de 2025.
+
+O Primeiro-Ministro
+
+_____________________
+
+Kay Rala Xanana Gusmão Anexo
+
+(a que se refere o n.º 1)
+
+N.º Modelo Matrícula Chassis Motor
+
+1 Honda Megapro 0877 GA MH1KC6119FK041728 KC61E1041662
+
+2 Honda Megapro 0878 GA MH1KC6112FK041294 KC61E1041104
+
+3 Honda Megapro 0879 GA MH1KC6111FK041724 KC61E1041724
+
+4 Honda Megapro 0880 GA MH1KC6111FK041707 KC61E1041674
+
+5 Honda Megapro 0881 GA MH1KC6113FK041675 KC61E1041648
+
+Honda Mega Pro 6 9593 G MH1KC6115EK025577 KC61E1025613 New Honda Mega Pro 7 9590 G MH1KC6117EK025400 KC6E1025144 New Honda Mega Pro 8 9591 G MH1KC6114E025547 KC61E1025644 New Honda Mega Pro 9 9592 G MH1KC611EK025568 KC61E1025562 New Honda Supra X 10 9576 G MH1JB115E1465336 JBG1E1165171 125 Honda Supra X 11 9577 G MH1JBG115EK165644 JBG1E116538 125 Honda Supra X 12 9564 G MH1JBK114EK164730 JBG1E1634542 125 Honda Supra X 13 9581 G MH1JB119EK165677 JBG1E1165350 125
+
+14 Honda Megapro F.7668 TLS MH1KC3112DK307134 KC31E1305613
+
+15 Honda Mega Pro 1557 GA MH1KC6119GK044310 KC61E1044167 New 16 Honda Mega Pro 1558 GA MH1KC6118GK045089 KC61E1045046 New 17 Honda Mega Pro 1560 GA MH1KC6111GK045225 KC61E1045185 New 18 Honda Mega Pro 1564 GA MH1KC6118GK045058 KC61E1045034 New 19 Honda Mega Pro 0473 GA MH1KC6118FK040439 KC61E1040400 New 20 Honda Mega Pro 0474 GA MH1KC6117FK040006 KC61E1040031 New 21 Honda Mega Pro 0475 GA MH1KC6114FK040483 KC61E1040451 New 22 Honda Mega Pro 0476 GA MH1KC6111FK040119 KC61E1040109 New 23 Honda Mega Pro 0477 GA MH1KC6118FK040490 KC61E1040473 New 24 Honda Mega Pro 0478 GA MH1KC6114FK040017 KC61E1040078 New 25 Honda Mega Pro 0479 GA MH1KC6111FK040024 KC61E1040004 New 26 Honda Mega Pro 0480 GA MH1KC6115FK040494 KC61E1040452 New 27 Honda Mega Pro 0481 GA MH1KC6114FK040129 KC61E1040092 New 28 Honda Mega Pro 0482 GA MH1KC6112FK040422 KC61E1040395 New 29 Honda Mega Pro 0483 GA MH1KC6111FK040475 KC61E1040440 New 30 Honda Mega Pro 0484 GA MH1KC6114FK040020 KC61E1040021 New 31 Honda Mega Pro 0485 GA MH1KC6117FK040433 KC61E1040389 New 32 Honda Mega Pro 0486 GA MH1KC611XFK040457 KC61E1040435 New 33 Honda Mega Pro 0487 GA MH1KC6118FK040473 KC61E1040466 New 34 Honda Mega Pro 0488 GA MH1KC6110FK040015 KC61E1040070 New 35 Honda Mega Pro 0489 GA MH1KC6110FK040127 KC61E1040088 New 36 Honda Mega Pro 0490 GA MH1KC6114FK040454 KC61E1040433 New
+
+Ano de Antiguidade Municipio Nome Aquisição
+
+2015 10 Atauro Pedro Tome
+
+2015 10 Atauro Rogerio Soares
+
+2015 10 Atauro Felis Soares
+
+2015 10 Atauro Jonas Pereira
+
+2015 10 Atauro Joao Cabesas de Aroujo
+
+2014 11 Aileu Joao da Conceicao
+
+2014 11 Aileu Domingos Ximenes
+
+2014 11 Aileu Duarte Barros
+
+2014 11 Aileu Marcos Alves Freitas
+
+Livadores Abrantes 2014 11 Aileu Coreia
+
+2014 11 Aileu Jose Mesquita
+
+2014 11 Aileu Domingos Araoujo
+
+2014 11 Aileu Jose Maulere
+
+2014 11 Aileu Januario Lopes
+
+2016 9 Aileu Nelson Mendonca
+
+Francisco Gaspar d. 2016 9 Aileu Rego
+
+2016 9 Aileu Afonso Monis
+
+2016 9 Aileu Antonio Mendonca
+
+2015 10 Aileu Pedro Soares
+
+2015 10 Aileu Manuel M.da Silva
+
+2015 10 Aileu Sucarno Vila Nova
+
+2015 10 Aileu Mateus Amaral
+
+2015 10 Aileu Abel de Jesus
+
+2015 10 Aileu Jose Alves Araujo
+
+2015 10 Aileu Joao Pereira
+
+2015 10 Aileu Feliz de Jesus
+
+2015 10 Aileu Tobias da Silva
+
+2015 10 Aileu Jose Madeira
+
+2015 10 Aileu Afonso S.Naicoli
+
+2015 10 Aileu Saturnino da Costa
+
+2015 10 Aileu Armando A. Martins
+
+2015 10 Aileu Casimiro de Andrade
+
+2015 10 Aileu Jose Lopes
+
+2015 10 Aileu Manuel Ximenes
+
+2015 10 Aileu Martinho da Cunha
+
+2015 10 Aileu Ernesto Mau-ico 37 Honda Versa 3894 GA MH1KC0218KK075584 KC02E1076071
+
+38 Honda Versa 3896 GA MH1KC0215KK075333 KC02E1075822
+
+39 Honda Megapro 9670 G/OPS-01 MH1KC3111DK310767 KC1E1309556
+
+40 Honda Megapro 4199 G MH1KC3112DK310759 KC31E1309579
+
+41 Honda Megapro 9678 G/OPS 03 MH1KC318DK310782 KC31E1309599
+
+42 Honda Megapro 9667 G/OPS 04 MH1KC3119DK310869 KC31E1309619
+
+43 Honda Megapro 9663 G/OPS 05 MH1KC3117DK310773 KC31E1309575
+
+44 Honda Megapro 9695 G/OPS 06 MH1KC3116DK310800 KC31E1309542
+
+45 Honda Megapro 4198 G MH1KC3111DK310719 KC31E1309534
+
+46 Honda Megapro 9665 G/OPS-08 MH1KC3112DK310714 KC31E1309540
+
+47 Honda Megapro 9658 G/OPS 09 MH1KC3112DK310726 KC31E1309518
+
+48 Honda Megapro 9659 G/OPS10 MH1KC3113DK310771 KC31E1309533
+
+49 Honda Megapro 9655 G/OPS 11 MH1KC3112DK310731 KC31E1309584
+
+50 Honda Megapro 9664 G/OPS 12 MH1KC3112DK310728 KC31E1309567
+
+51 Honda Megapro 9677 G/OPS 13 MH1KC3115DK310674 KC31E1309431
+
+52 Honda Megapro 9674 G/OPS 14 MH1KC3115DK310741 KC31E1309524
+
+53 Honda Megapro 9668 G/OPS 15 MH1KC3119DK10872 KC31E1309678
+
+54 Honda Megapro 9660 G/OPS 16 MH1KC3119DK310872 KC31E1309577
+
+55 Honda Megapro 9662 G/OPS 17 MH1KC3114DK310729 KC31E1309570
+
+56 Honda Megapro 9654 G/OPS 18 MH1KC3112DK310776
+
+57 Honda Megapro 9681 G/OPS 19 MH1KC3110DK310776 KC31E1309551
+
+58 Honda Megapro 9669 G/OPS 20 KC31E3109660
+
+59 Honda Megapro 9661 G/OPS 21 MH1KC3113DK310768 KC31E1309400
+
+60 Honda Megapro 2190 GA MH1KC6113FK033690 KC61E1033627
+
+61 Honda Megapro TEST MHIKC3112DK310703 KC31E1904587
+
+62 Honda Megapro 1611 GA MH1KC6115GK044361 KC61E1044312
+
+63 Honda Megapro TEST MH1KC3118DK310829 KC31E1309606
+
+64 Honda Mega Pro 9611 G MH1KC6114EK025354 KC61E1025420 New 65 Honda Mega Pro 9612 G MH1KC6115EK025380 KC61E1025410 New 66 Honda Mega Pro 9613 G MH1KC6118EK025342 KC61E1025332 New 67 Honda Mega Pro 9614 G MH1KC6113EK025345 KC61E1025295 New Honda Supra X 68 9627 G MH1JBG11XEK125104 JBG1E1174737 125 Honda Supra X 69 9634 G MH1JBG115EK175199 JBG1E1174612 125 Honda Supra X 70 9649 G MH1JBG115EK165630 JBG1E1165352 125 Honda Supra X 71 9632 G MH1JBG113EK175198 JBG1E1174622 125 72 Honda Mega Pro 0858 GA MH1KC6112FK041733 KC61E1041680 New 73 Honda Mega Pro 0865 GA MH1KC6115FK041709 KC61E1041723 New 74 Honda Mega Pro 0864 GA MH1KC6113FK041708 KC61E1041669 New 75 Honda Mega Pro 0863 GA MH1KC6118FK041252 KC61E1041117 New 76 Honda Mega Pro 0826 GA MH1KC6119FK041745 KC61E1041638 New 77 Honda Mega Pro 0860 GA MH1KC6116FK041735 KC61E1041671 New 78 Honda Mega Pro 0861 GA MH1KC6110FK041357 KC61E1041238 New 79 Honda Mega Pro 0834 GA MH1KC6119FK041678 KC61E1041644 New 80 Honda Mega Pro 0833 GA MH1KC6111FK041741 KC61E1041641 New 2019 6 Aileu Diniz Aleixo Moniz
+
+2019 6 Aileu Pedro Julito
+
+2013 12 Ainaro Sergio F.da C
+
+2013 12 Ainaro Ananias C.Pereira
+
+2013 12 Ainaro Bartolomeu de Araujo
+
+2013 12 Ainaro Antonio da C. Araujo
+
+2013 12 Ainaro Armindo da Silva
+
+2013 12 Ainaro Luis Magno
+
+2013 12 Ainaro Justino M.Carvalho
+
+2013 12 Ainaro Serafin Nunes
+
+2013 12 Ainaro Valente S. Amaral
+
+2013 12 Ainaro Saturnino dos reis
+
+2013 12 Ainaro Geraldo Pacheco.M
+
+2013 12 Ainaro Moises J. Lopes
+
+2013 12 Ainaro Antonio Lopes
+
+2013 12 Ainaro Antonio da Silva
+
+2013 12 Ainaro Joao F.da Costa Freitas
+
+2013 12 Ainaro Antonio A.da Silva
+
+2013 12 Ainaro Agapito de Araujo
+
+Hermenegildo da Costa 2013 12 Ainaro Silva
+
+2013 12 Ainaro Felipe Magno
+
+2013 12 Ainaro Cipriano de O.Nunes
+
+2013 12 Ainaro Eurico Gomes
+
+2013 12 Baucau Norberta ximenes belo
+
+2013 12 Baucau Manuel Belo
+
+Moises de Fatima 2013 12 Baucau Sarmento
+
+12 2013 Baucau Hermenegildo Ximenes
+
+2014 11 Baucau Filomeno Soares Gama
+
+2014 11 Baucau Tomas Ximenes
+
+Mario dos Santos 2014 11 Baucau Humberto
+
+2014 11 Baucau Mario Filipe
+
+2014 11 Baucau Nelson Carlos Amaral
+
+2014 11 Baucau Marcal Alcino Borges
+
+2014 11 Baucau Maria Teresa Alves
+
+2014 11 Baucau Domingos Magno
+
+2015 10 Baucau Joao Bosco Freitas
+
+Americo Antonio 2015 10 Baucau Ximenes Juliao Sebastiao 2015 10 Baucau Guterres Eusebio de Deus 2015 10 Baucau Ximenes
+
+2015 10 Baucau Matias Pinto
+
+2015 10 Baucau Justino Boromeu
+
+Rofino Sebastiao 2015 10 Baucau Boavida Carlos Fernando 2015 10 Baucau Sarmento
+
+2015 10 Baucau Alberto Gusmao 81 Honda Mega Pro 0831 GA MH1KC6116FK041704 KC61E1041722 New 82 Honda Mega Pro 0830 GA MH1KC6114FK041703 KC61E1041670 New 83 Honda Mega Pro 0829 GA MH1KC611XFK041723 KC61E1041677 New 84 Honda Mega Pro 0828 GA MH1KC6110FK041715 KC61E1041715 New 85 Honda Mega Pro 0827 GA MH1KC6114FK041748 KC61E1041639 New 86 Honda Mega Pro 0837 GA MH1KC6110FK041732 KC61E1041729 New 87 Honda Mega Pro 0836 GA MH1KC6119FK041731 KC61E1041679 New 88 Honda Mega Pro 0835 GA MH1KC6117FK041291 KC61E1041126 New 89 Honda Mega Pro 0841 GA MH1KC6114FK041667 KC61E1041631 New 90 Honda Mega Pro 0840 GA MH1KC6117FK041727 KC61E1041728 New 91 Honda Mega Pro 0839 GA MH1KC6118FK041765 KC61E1041700 New 92 Honda Mega Pro 0838 GA MH1KC6112FK041697 KC61E1041661 New 93 Honda Mega Pro 0843 GA MH1KC6115FK041693 KC61E1041703 New 94 Honda Mega Pro 0842 GA MH1KC6117FK041677 KC61E1041693 New 95 Honda Mega Pro 0847 GA MH1KC6112FK041747 KC61E1041682 New 96 Honda Mega Pro 0846 GA MH1KC6119FK041664 KC61E1041701 New 97 Honda Mega Pro 0845 GA MH1KC6113FK041692 KC61E1041704 New 98 Honda Mega Pro 0844 GA MH1KC611XFK041737 KC61E1041634 New 99 Honda Mega Pro 0853 GA MH1KC6112FK041716 KC61E1041720 New 100 Honda Mega Pro 0852 GA MH1KC6116FK041718 KC61E1041719 New 101 Honda Mega Pro 0850 GA MH1KC6110FK041746 KC61E1041689 New 102 Honda Mega Pro 0849 GA MH1KC6114FK041717 KC61E1041667 New 103 Honda Mega Pro 0848 GA MH1KC6114FK041720 KC61E1041668 New 104 Honda Mega Pro 0859 GA MH1KC6117FK041663 KC61E1041649 New 105 Honda Mega Pro 0857 GA MH1KC6112FK041683 KC61E1041660 New 106 Honda Mega Pro 0856 GA MH1KC6112FK041702 KC61E1041663 New 107 Honda Mega Pro 0855 GA MH1KC6113FK041725 KC61E1041726 New 108 Honda Mega Pro 0854 GA MH1KC6115FK041256 KC61E1041092 New 109 Honda Mega Pro 1597 GA MH1KC6115GK042778 KC61E1042704 New 110 Honda Mega Pro 1599 GA MH1KC611XGK045207 KC61E1045202 New 111 Honda Mega Pro 1600 GA MH1KC6118GK045075 KC61E1045053 New 112 Honda Mega Pro 1604 GA MH1KC6113GK044318 KC61E1044267 New 113 Honda Mega Pro 1605 GA MH1KC6114GK044330 KC61E1044278 New 114 Honda Mega Pro 1606 GA MH1KC6115GK042893 KC61E1042803 New 115 Honda Mega Pro KC61E1042271 1607 GA MH1KC6111GK042762 New 116 Honda Mega Pro 1609 GA MH1KC6114GK044344 KC61E1044304 New 117 Honda Mega Pro 1610 GA MH1KC6115GK044370 KC61E1044351 New 2015 10 Baucau Avelino da Costa
+
+2015 10 Baucau Armindo Da CLuz
+
+2015 10 Baucau Ilidio Claudio
+
+2015 10 Baucau Aquelina Guterres
+
+Martinha Da Costa 2015 10 Baucau Ximenes
+
+2015 10 Baucau Felix dos Reis
+
+Salvador da Silva 2015 10 Baucau Guterres
+
+2015 10 Baucau Agustinho Ornay Neto
+
+2015 10 Baucau Carlos Miguel
+
+Francisco de Jesus X.da 2015 10 Baucau Silva Domingos Alexandre 2015 10 Baucau Correia Faustino Francisco 2015 10 Baucau Soares Dominicos Valente 2015 10 Baucau Amaral
+
+2015 10 Baucau Henrique Correia Matos
+
+2015 10 Baucau Benigno Manuel Pires
+
+2015 10 Baucau Abrao M.S.Belo
+
+2015 10 Baucau Luis Jose Pereira
+
+2015 10 Baucau Domingos do Carmo
+
+2015 10 Baucau Jose Antonio Soares
+
+2015 10 Baucau Cristiano Efrem Soares
+
+2015 10 Baucau Teofilho Osmenio Belo
+
+2015 10 Baucau Jose Filipe
+
+2015 10 Baucau Paugusto Ximenes
+
+2015 10 Baucau Belarmino Gusmao
+
+Eugenio Florindo 2015 10 Baucau Correia Kamis Miguel 2015 10 Baucau Mewndonca Paulino Antonio 2015 10 Baucau Ximenes
+
+2015 10 Baucau Manuel Gusmao
+
+2016 9 Baucau Rui Ivo Freitas De Sa
+
+2016 9 Baucau Gastao da Silva
+
+2016 9 Baucau Augusto da Silva
+
+2016 9 Baucau Aleixo B.M.Siqueira
+
+Alberto Martins dos 2016 9 Baucau Santos
+
+2016 9 Baucau Paulo Bendito
+
+Antonio Fernandes 2016 9 Baucau 0 Alves
+
+2016 9 Baucau Paulino Menezes
+
+2016 9 Baucau Ermelinda Mali 118 Honda Mega Pro 1612 GA MH1KC6110GK042896 KC61E1042845 New 119 Honda Mega Pro 9603 G MH1KC6111EK025389 KC61E1025387 New 120 Honda Mega Pro 9604 G MH1KC6110EK025352 KC61E1025251 New 121 Honda Mega Pro 9605 G MH1KC6113EK025555 KC61E1025606 New 122 Honda Mega Pro 9606 G MH1KC6111EK025392 KC61E1025435 New Honda Supra X 123 9562 G MH1JBG111EK165639 JBG1E1165364 125 Honda Supra X 124 9563 G MH1JBG116EK165684 JBG1E1165362 125 Honda Supra X 125 9644 G MH1JBG117EK174863 JBG1E1174412 125 Honda Supra X 126 9640 G MH1JBG114EK175070 JBG1E1174583 125 127 Honda Mega Pro 0920 GA MH1KC611XFK041379 KC61E1041252 New 128 Honda Mega Pro 0921 GA MH1KC6112FK041263 KC61E1041086 New 129 Honda Mega Pro 0922 GA MH1KC6116FK041380 KC61E1041250 New 130 Honda Mega Pro 0925 GA MH1KC611XFK043351 KC61E1041263 New 131 Honda Mega Pro 0926 GA MH1KC6114FK041300 KC61E1041103 New 132 Honda Mega Pro 0928 GA MH1KC6116FK041394 KC61E1041259 New 133 Honda Mega Pro 0929 GA MH1KC6110FK041276 KC61E1041100 New 134 Honda Mega Pro 0930 GA MH1KC6113FK041689 KC61E1041664 New 135 Honda Mega Pro 0932 GA MH1KC6113FK041370 KC61E1041242 New 136 Honda Mega Pro 0933 GA MH1KC6111FK041397 KC61E1041258 New 137 Honda Mega Pro 0935 GA MH1KC6110FK041682 KC61E1041709 New 138 Honda Mega Pro 0936 GA MH1KC6112FK041392 KC61E1041268 New 139 Honda Mega Pro 0939 GA MH1KC6117FK041372 New 140 Honda Mega Pro 0941 GA MH1KC611XFK041284 KC61E1041110 New 141 Honda Mega Pro 0942 GA MH1KC6113FK041286 KC61E1041047 New 142 Honda Mega Pro 0943 GA MH1KC6115FK041368 KC61E1041262 New 143 Honda Mega Pro 0944 GA MH1KC6114FK041278 KC61E1041098 New 144 Honda Mega Pro 0945 GA MH1KC611XFK041253 KC61E1041088 New 145 Honda Mega Pro 0946 GA MH1KC6111FK041299 KC61E1041127 New 146 Honda Mega Pro 0947 GA MH1KC6113FK041367 KC61E1041248 New 147 Honda Mega Pro 0948 GA MH1KC611XFK041396 KC61E1041234 New 148 Honda Mega Pro 0949 GA MH1KC6118FK041283 KC61E1041122 New 149 Honda Mega Pro 0950 GA MH1KC6110FK041262 KC61E1041087 New 150 Honda Mega Pro 0951 GA MH1KC6113FK041269 KC61E1041081 New 151 Honda Mega Pro 0953 GA MH1KC6117FK041369 KC61E1041247 New 152 Honda Mega Pro 0954 GA MH1KC6111FK041254 KC61E1041130 New 153 Honda Mega Pro 0955 GA MH1KC6112FK041280 KC61E1041128 New 154 Honda Mega Pro 0956 GA MH1KC6112FK041358 KC61E1041239 New 2016 9 Baucau Pascoal da Costa Belo
+
+2014 11 Bobonaro Joao Barreto
+
+2014 11 Bobonaro Alvano Marcal
+
+2014 11 Bobonaro Inacio M. Mau
+
+2014 11 Bobonaro Mariano Moniz Leite
+
+2014 11 Bobonaro Martinho Mau Loko
+
+2014 11 Bobonaro Rui Tai Dao
+
+2014 11 Bobonaro Lucas Pereira
+
+2014 11 Bobonaro Domingos G. Leite
+
+2015 10 Bobonaro Simao Lopes
+
+2015 10 Bobonaro Mirandolina S. Torejao
+
+2015 10 Bobonaro Rogerio Maia Pereira
+
+2015 10 Bobonaro Anita Albertina Cou
+
+2015 10 Bobonaro Lidia Ferraz
+
+2015 10 Bobonaro Filipe Pereira da Silva
+
+2015 10 Bobonaro Jasinta Guteres Ena
+
+2015 10 Bobonaro Antonio Leto D.S.
+
+2015 10 Bobonaro Celina borges
+
+2015 10 Bobonaro Carlito Carvalheira
+
+2015 10 Bobonaro Calistro D. C. Soares
+
+2015 10 Bobonaro Diniz Lelo Mali
+
+2015 10 Bobonaro Serafin Loe Lori
+
+2015 10 Bobonaro Adelino Jorge
+
+2015 10 Bobonaro Januario Bere Tai
+
+2015 10 Bobonaro Olivio de Deus
+
+2015 10 Bobonaro Aleixo Freitas
+
+2015 10 Bobonaro Feliciano M.Verdial
+
+2015 10 Bobonaro Victorino soares
+
+2015 10 Bobonaro Abel Joao Pereira
+
+2015 10 Bobonaro Carlos de Jesus
+
+2015 10 Bobonaro Julio Perreira Soares
+
+2015 10 Bobonaro Vicente G. de Jesus
+
+2015 10 Bobonaro Rogerio Noronha
+
+2015 10 Bobonaro Fauto T. B. Marques
+
+2015 10 Bobonaro Atanacio Barreto
+
+2015 10 Bobonaro Leopoldo Goveia Leite
+
+2015 10 Bobonaro Francisco dos Reis 155 Honda Mega Pro 0957 GA MH1KC6113FK041272 KC61E1041121 New 156 Honda Mega Pro 0958 GA MH1KC6112FK040808 KC61E1040786 New 157 Honda Mega Pro 0959 GA MH1KC6119FK041356 New 158 Honda Mega Pro 0960 GA MH1KC6115FK041371 KC61E1041275 New 159 Honda Mega Pro 1587 GA MH1KC6116GK045057 KC61E1045029 New 160 Honda Mega Pro 1569 GA MH1KC6118GK044346 KC61E1044261 New 161 Honda Mega Pro 1570 GA MH1KC6110GK044356 KC61E1044349 New 162 Honda Mega Pro 1572 GA MH1KC6118GK045206 KC61E1045178 New 163 Honda Mega Pro 1575 GA MH1KC6119GK045053 KC61E1044942 New 164 Honda Mega Pro 1577 GA MH1KC6118GK044329 KC61E1044296 New 165 Honda Mega Pro 1579 GA MH1KC6111GK044320 KC61E1044298 New 166 Honda Mega Pro 1580 GA MH1KC6115GK044319 KC61E1044283 New 167 Honda Mega Pro 1581 GA MH1KC6115GK045227 KC61E1045170 New 168 Honda Mega Pro 1586 GA MH1KC6114GK045140 KC61E1045077 New 169 Honda Mega Pro 9599 G MH1KC6118EK025325 KC61E1025372 New 170 Honda Mega Pro 9600 G MH1KC6119EKo25317 KC61E1025444 New 171 Honda Mega Pro 9601 G MH1KC6112EK025398 KC61E1025140 New 172 Honda Mega Pro 9602 G MH1KC6118EK025373 KC61E1025310 New Honda Supra X 173 9560 G MH1JBG116EK165636 JBG1E1165309 125 Honda Supra X 174 9559 G MH1JBG112EK165696 JBG1E11665334 125 Honda Supra X 175 9580 G JBG1E1165327 125 Honda Supra X 176 9561 G MH1JBG11EK165642 JBG1E1165332 125 177 Honda Mega Pro 0809 GA MH1KC6116FK041296 KC61E1041091 New 178 Honda Mega Pro 0810 GA MH1KC6115FK041290 KC61E1041096 New 179 Honda Mega Pro 0811 GA MH1KC6110FK041259 KC61E1041082 New 180 Honda Mega Pro 0813 GA MH1KC6113FK041661 KC61E1041699 New 181 Honda Mega Pro 0814 GA MH1KC6113FK041398 KC61E1041235 New 182 Honda Mega Pro 0815 GA MH1KC6113FK041742 KC61E1041642 New 183 Honda Mega Pro 0816 GA MH1KC6115FK041712 KC61E1041718 New 184 Honda Mega Pro 0817 GA MH1KC6118FK041722 KC61E1041675 New 185 Honda Mega Pro 0818 GA MH1KC6118FK041736 KC61E1041685 New 186 Honda Mega Pro 0819 GA MH1KC6117FK041260 KC61E1041084 New 187 Honda Mega Pro 0820 GA MH1KC611XFK041706 KC61E1041655 New 188 Honda Mega Pro 0821 GA MH1KC6119FK041714 KC61E1041665 New 189 Honda Mega Pro 0822 GA MH1KC6115FK041743 KC61E1041692 New 190 Honda Mega Pro 0823 GA MH1KC611XFK041365 KC61E1041274 New 191 Honda Mega Pro 0824 GA MH1KC6111FK041271 KC61E1041083 New 2015 10 Bobonaro Feliciano Hornai
+
+2015 10 Bobonaro Apolonia M. Marques
+
+2015 10 Bobonaro Luis Clara Afonso
+
+2015 10 Bobonaro Delio Soares Babo
+
+2015 10 Bobonaro Manuel da Silva Branco
+
+2015 10 Bobonaro Moises Lopes
+
+2015 10 Bobonaro Gulhermino Henriques
+
+2015 10 Bobonaro Manuel Luis Machedo
+
+2015 10 Bobonaro Abel Fatima da Cruz
+
+2015 10 Bobonaro Aguida Soares Martins
+
+2015 10 Bobonaro Lorenso Soares
+
+2015 10 Bobonaro Rogerio da Cubha
+
+2015 10 Bobonaro Raul Lopes
+
+2015 10 Bobonaro Paulino de Proficacao
+
+2014 11 Covalima Domingos Ferreira
+
+2014 11 Covalima Julio Tilman
+
+2014 11 Covalima Mariano de J.Manek
+
+2014 11 Covalima Simplicio Gusmao
+
+2014 11 Covalima Marcelino Cardoso
+
+2014 11 Covalima Balbino de Jesus
+
+2014 11 Covalima Angelino Perreira
+
+2014 11 Covalima Domingos A.Relvas
+
+2015 10 Covalima Anito da Conceiçoa
+
+2015 10 Covalima Carlindo do Nascimento
+
+2015 10 Covalima Armindo de Andrade
+
+2015 10 Covalima Castro Amaral
+
+2015 10 Covalima Januario Amaral
+
+2015 10 Covalima Maria Dos Santos
+
+2015 10 Covalima Americo Afonso
+
+2015 10 Covalima Antonio dos Santos
+
+2015 10 Covalima Mario de Andrade
+
+2015 10 Covalima Justinho Gusmao
+
+2015 10 Covalima Deonicio da Silva A.
+
+2015 10 Covalima Roque de A.Cardoso
+
+2015 10 Covalima Henricus Mandela
+
+2015 10 Covalima Vasco Gusmao
+
+2015 10 Covalima Hilario Cardoso 192 Honda Mega Pro 0825 GA MH1KC611XFK041270 KC61E1041118 New 193 Honda Mega Pro 0866 GA MH1KC6113FK041711 KC61E1041714 New 194 Honda Mega Pro 1613 GA MH1KC6119GK042783 KC61E1042684 New 195 Honda Mega Pro 1614 GA MH1KC6117GK042880 KC61E1042838 New 196 Honda Mega Pro 1617 GA MH1KC6111GK045203 KC61E1045191 New 197 Honda Mega Pro 1618 GA MH1KC6111GK045072 KC61E1045055 New 198 Honda Mega Pro 1621 GA MH1KC6110GK044339 KC61E1044273 New 199 Honda Mega Pro D.7499 TL MH1KC211XCK056582 KC21E1056437 New 200 Honda Mega Pro 9387 G MH1KC6117EK02533 KC61E1025297 New 201 Honda Mega Pro 9388 G MH1KC611CEK025329 KC61E1025433 New 202 Honda Mega Pro 9451 G MH1KC6111EK025330 KC61E1025428 New Honda Supra X 203 9568 G MH1JBG111EK161834 JBG1E1161529 125 Honda Supra X 204 9572 G MH1JBG113EK161835 JBG1E1161504 125 Honda Supra X 205 9646 G MHJJBG11EK171874 JBG1E1174399 125
+
+206 Honda Megapro 0812 GA MH1KC6117FK041750 KC61E1041633
+
+207 Honda Megapro 0832 GA MH1KC6117FK041744 KC61E1041646
+
+208 Honda Megapro 0851 GA MH1KC6113FK041658 KC61E1041684
+
+209 Honda Megapro 0862 GA MH1KC6116FK041749 KC61E1041683
+
+210 Honda Megapro 0867 GA MH1KC6110FK041701 KC61E1041717
+
+211 Honda Megapro 0868 GA MH1KC6111FK041738 KC61E1041725
+
+212 Honda Megapro 0869 GA MH1KC6110FK041729 KC61E1041687
+
+213 Honda Megapro 0870 GA MH1KC6117FK041713 KC61E1041666
+
+214 Honda Megapro 0871 GA MH1KC6116FK041721 KC61E1041678
+
+215 Honda Megapro 0872 GA MH1KC6116FK041685 KC61E1041710
+
+216 Honda Megapro 0873 GA MH1KC6111FK041710 KC61E1041721
+
+217 Honda Megapro 0874 GA MH1KC6114FK041698 KC61E1041712
+
+218 Honda Megapro 0875 GA MH1KC6117FK041730 KC61E1041688
+
+219 Honda Megapro 0876 GA MH1KC6113FK041759 KC61E1041635
+
+220 Honda Mega Pro 1590 GA MH1KC6114GK045318 KC61E1045201 New 221 Honda Mega Pro 1591 GA MH1KC6116GK045088 KC61E1045045 New 222 Honda Mega Pro 1593 GA MH1KC6116GK045060 KC61E1045027 New 223 Honda Mega Pro 1595 GA MH1KC611XGK045238 KC61E1045192 New 224 Honda Mega Pro 1596 GA MH1KC6116GK045091 KC61E1045093 New
+
+225 Honda Versa 3897 GA MH1KC0217KK075589 KC02E1076075
+
+226 Honda Versa 3898 GA MH1KC0213KK075329 KC02E1075818
+
+227 Honda Versa 3899 GA MH1 KC0217KK075596 KC02E1075990
+
+228 Honda Versa 3902 GA MH1KC0218KK075374 KC02E1075819
+
+229 Honda Versa 3903 GA MH1KC0212KK075588 KC02E1076074
+
+230 Honda Mega Pro 9586 G MH1KC6118EK025597 KC61E1025502 New 231 Honda Mega Pro 9652 G MH1KC6113EK025331 KCG1E1025094 New 232 Honda Mega Pro 4183 GA MH1KC3113DK306651 KC31E1307557 New 2015 10 Covalima Natalino da Costa
+
+2015 10 Covalima Agustinho Maia
+
+2015 10 Covalima Bernadino Amaral
+
+2015 10 Covalima Paulo Pires
+
+Belmiro de Araujo 2015 10 Covalima Alves
+
+2015 10 Covalima Rafael Moniz
+
+2015 10 Covalima Ilidio Martins do Rego
+
+2014 11 Dili Luciano Morais Gusmao
+
+2014 11 Dili Antonio Martins
+
+2014 11 Dili Agapito Soares
+
+2014 11 Dili Jose Fatima de Araujo
+
+2014 11 Dili Cipriano da C. Oliveira
+
+2014 11 Dili Tomas Aparicio G.
+
+2014 11 Dili Anita da Costa
+
+2015 10 Dili Joao de Jesus Carvalho
+
+2015 10 Dili Francisco da Silva
+
+2015 10 Dili Jose Barros
+
+Aquilis Pinto 2015 10 Dili A.M.Coreia
+
+2015 10 Dili Vasco de Jesus
+
+Duman Ribeiro 2015 10 Dili F.E.Silva
+
+2015 10 Dili Zelio Rodriques Pereira
+
+2015 10 Dili Carmerico Ribeiro
+
+2015 10 Dili Lino da Silva
+
+2015 10 Dili Octavio da Costa Lima
+
+2015 10 Dili Casmiro L.B. Placido
+
+2015 10 Dili Domingos Asa Bere
+
+2015 10 Dili Marcos Gomes Soares
+
+Frangelino da C. 2015 10 Dili Oliveira
+
+2015 10 Dili Goncalo da C. Dias
+
+2015 10 Dili Tomas dos Santos
+
+2015 10 Dili Anselmo Ataide
+
+2015 10 Dili Fenando da Silva
+
+Zelio Rodriques P. 2015 10 Dili Quintao
+
+2019 6 Dili Adao Pinto
+
+2019 6 Dili Francisco Da Silva
+
+2019 6 Dili Fernando Soares
+
+2019 6 Dili Bento Soares
+
+Guido da Silva 2019 6 Dili Monteiro
+
+2014 11 Ermera Clementino Soares Babo
+
+2014 8 Ermera Virgilio da Silva
+
+2014 11 Ermera Abrao Borromeu 233 Honda Mega Pro 9588 G MH1KC611EK025372 KC61E1025422 New 234 Honda Mega Pro 9589 G MH1KC6114EK025581 KC61E1025625 New Honda Supra X 235 9630 G MHIJBG115EK175073 JBG1E1174632 125 Honda Supra X 236 9566 G MH1JBE114EK165635 JBG1E1165351 125 Honda Supra X 237 9575 G MH1JBG119EK165632 125 Honda Supra X 238 9569 G MH1JBG113EK165303 JBG1E1164911 125 239 Honda Mega Pro 0982 GA MH1KC611XFK041267 KC61E1041120 New 240 Honda Mega Pro 0981 GA MH1KC6113FK041353 KC61E1041270 New 241 Honda Mega Pro 0980 GA MH1KC6110FK041293 KC61E1041109 New 242 Honda Mega Pro 0979 GA MH1KC6119FK041258 KC61E1041113 New 243 Honda Mega Pro 0978 GA MH1KC6111FK042291 KC61E1042290 New 244 Honda Mega Pro 0977 GA MH1KC6118FK041297 KC61E1041107 New 245 Honda Mega Pro 0976 GA MH1KC6112FK041361 KC61E1041264 New 246 Honda Mega Pro 0975 GA MH1KC6118FK041395 KC61E1041256 New 247 Honda Mega Pro 0974 GA MH1KC6110FK041388 KC61E1041257 New 248 Honda Mega Pro 0973 GA MH1KC6112FK041375 KC61E1041280 New 249 Honda Mega Pro 0972 GA MH1KC6112FK041277 KC61E1041099 New 250 Honda Mega Pro 0971 GA MH1KC6110FK041679 KC61E1041647 New 251 Honda Mega Pro 0970 GA MH1KC6112FK041389 KC61E1041266 New 252 Honda Mega Pro 0969 GA MH1KC6119FK041289 KC61E1041105 New 253 Honda Mega Pro 0968 GA MH1KC6115FK041273 KC61E1041094 New 254 Honda Mega Pro 0967 GA MH1KC6114FK041393 KC61E1041190 New 255 Honda Mega Pro 0966 GA MH1KC6117FK041257 KC61E1041123 New 256 Honda Mega Pro 0965 GA MH1KC6115FK041676 KC61E1041694 New 257 Honda Mega Pro 0964 GA MH1KC6115FK041399 KC61E1041243 New 258 Honda Mega Pro 0963 GA MH1KC6119FK041261 KC61E1041138 New 259 Honda Mega Pro 0962 GA MH1KC6116FK041265 KC61E1041154 New 260 Honda Mega Pro 0961 GA MH1KC6116FK041363 KC61E1041261 New 261 Honda Mega Pro 0952 GA MH1KC6114FK041359 KC61E1041254 New 262 Honda Mega Pro 0937 GA MH1KC6111FK041268 KC61E1061116 New 263 Honda Mega Pro 0934 GA MH1KC6119FK042295 KC61E1042090 New 264 Honda Mega Pro 0931 GA MH1KC6116FK041251 KC61E1041115 New 265 Honda Mega Pro 0927 GA MH1KC6110FK041374 KC61E1041279 New 266 Honda Mega Pro 0924 GA MH1KC6119FK041681 KC61E1041716 New 267 Honda Mega Pro 0923 GA MH1KC6113FK042261 KC61E1042275 New 268 Honda Mega Pro 0912 GA MH1KC6119FK041387 KC61E1041260 New 269 Honda Mega Pro 0911 GA MH1KC6115FK041662 KC61E1041651 New 2014 11 Ermera Cornelio M. Salsinha
+
+Hermano Soares 2014 11 Ermera Martins
+
+2014 11 Ermera Domingos do Rosario
+
+2014 11 Ermera Adelberto Soares
+
+2014 11 Ermera Elias Nobre Mouzinho
+
+2014 11 Ermera Martinho da Conceicao
+
+2015 10 Ermera Tomas Maia Soares
+
+Abilio Dos Santos 2015 10 Ermera Martins
+
+2015 10 Ermera Jose dos Santos Castro
+
+2015 10 Ermera Antonio de Jesus
+
+2015 10 Ermera Paulo de Deus
+
+2015 10 Ermera Agostino de Deus
+
+2015 10 Ermera Francisco Brito
+
+Herculano Soares 2015 10 Ermera Trindade Angelino de Jesus 2015 10 Ermera Saldanha
+
+2015 10 Ermera Filomena de Fatima
+
+2015 10 Ermera Abilio da Silva Pereira
+
+2015 10 Ermera Marcelino de Araujo
+
+2015 10 Ermera Jose Araujo
+
+2015 10 Ermera Joao Fatima Martins
+
+2015 10 Ermera Miguel Soares Martins
+
+Manuel S. Ximenes 2015 10 Ermera Silva
+
+2015 10 Ermera Hermenegildo Soares
+
+2015 10 Ermera Horacio marsal
+
+2015 10 Ermera Antonio de Deus
+
+Armenia Tavares 2015 10 Ermera Martins
+
+2015 10 Ermera Tito Dos Santos
+
+2015 10 Ermera Marcelino de Araujo
+
+Henrique Soares 2015 10 Ermera Martins
+
+2015 10 Ermera Reinaldo Salsinha
+
+2015 10 Ermera Joselito Marcal Soares
+
+2015 10 Ermera Ijino Dos Santos
+
+2015 10 Ermera Pedro Exposto
+
+2015 10 Ermera Fernando M. Soares
+
+2015 10 Ermera Mateus Avelar Martins
+
+2015 10 Ermera Maunel Soares
+
+2015 10 Ermera Aderito Soares Babo 270 Honda Mega Pro 0908 GA MH1KC6111FK041285 KC61E1041085 New 271 Honda Mega Pro 0907 GA MH1KC6117FK041694 KC61E1041706 New 272 Honda Mega Pro 0904 GA MH1KC6118FK041672 KC61E1041697 New 273 Honda Mega Pro 0890 GA MH1KC6117FK041274 KC61E1041111 New 274 Honda Mega Pro 1518 GA MH1KC6110GK045099 KC61E1045042 New 275 Honda Mega Pro 1523 GA MH1KC6115GK045051 KC61E1045010 New 276 Honda Mega Pro 1524 GA MH1KC6114GK045090 KC61E1045020 New 277 Honda Mega Pro 1529 GA MH1KC6113GK045081 KC61E1045040 New 278 Honda Mega Pro 1530 GA MH1KC6155GK045082 KC61E1045015 New 279 Honda Mega Pro 1534 GA MH1KC6113GK045064 KC61E1045031 New 280 Honda Mega Pro 1537 GA MH1KC6110GK045149 KC61E1045094 New 281 Honda Mega Pro 1538 GA MH1KC6119GK044338 KC61E1044293 New 282 Honda Mega Pro 9619 G MH1KC6117EK025574 KC61E1025620 New 283 Honda Mega Pro 9620 G MH1KC6119EK025575 KC61E1025618 New 284 Honda Mega Pro 9621 G MH1KC6110EK052321 KC61E1025431 New 285 Honda Mega Pro 9622 G MH1KC6111EK025361 KC61E1025376 New 286 Honda Mega Pro 9623 G MH1KC6114EK025399 KC61E1025046 New Honda Supra X 287 9633 G MH1JBG119EK175187 JBG1E1174613 125 Honda Supra X 288 9626 G MH1JBG114EK165649 JBG1E165327 125 Honda Supra X 289 9635 G MH1JBG11XEK175090 125 Honda Supra X 290 9628 G MH1JBG111EK175152 JBG1E1174723 125 291 Honda Mega Pro 0403 GA MH1KCM113FK04016 KC61E1040179 New 292 Honda Mega Pro 0432 GA MH1KC6118FK040019 KC61E1040071 New 293 Honda Mega Pro 0433 GA MH1KC6118FK040022 KC61E1039998 New 294 Honda Mega Pro 0435 GA MH1KC6111FK040461 KC61E1040463 New 295 Honda Mega Pro 0436 GA MH1KC6118FK040120 KC61E1040115 New 296 Honda Mega Pro 0437 GA MH1KC6119FK040014 KC61E1040024 New 297 Honda Mega Pro 0438 GA MH1KC6118FK040117 KC61E1040108 New 298 Honda Mega Pro 0439 GA MH1KC6115FK040141 KC61E1040153 New 299 Honda Mega Pro 0440 GA MH1KC6116FK040102 KC61E1040081 New 300 Honda Mega Pro 0441 GA MH1KC6118FK040185 KC61E1040073 New 301 Honda Mega Pro 0442 GA MH1KC6114FK040132 KC61E1040138 New 302 Honda Mega Pro 0443 GA MH1KC6113FK040022 New 303 Honda Mega Pro 0444 GA MH1KC6112FK040016 KC61E1040030 New 304 Honda Mega Pro 0445 GA MH1KC6114FK040468 KC61E1040460 New 305 Honda Mega Pro 0446 GA MH1KC6117FK090027 KC61E1040052 New 306 Honda Mega Pro 0447 GA MH1KC6116FK040021 KC61E1040032 New 2015 10 Ermera Teofilho Martins
+
+2015 10 Ermera Marcelino de Deus
+
+2015 10 Ermera Jorge Soares
+
+2015 10 Ermera Carlos de Jesus
+
+Costodio do Ceo 2015 10 Ermera Martins
+
+2015 10 Ermera Julio Lopes Xavier
+
+2015 10 Ermera Julio dos Santos
+
+2015 10 Ermera Noe Faria Babo
+
+2015 10 Ermera Andre Martins
+
+2015 10 Ermera Mario de Jesus Alves
+
+2015 10 Ermera Manuel da Silva
+
+2015 10 Ermera Amelita Soares
+
+2014 11 Lautém Gil Tolentino
+
+2014 11 Lautém Nazario Cabral
+
+2014 11 Lautém Mario Dos santos
+
+2014 11 Lautém Sabino Oliveira Cruz
+
+2014 11 Lautém Fernando Gama
+
+2014 11 Lautém Ernesto Gonsalves
+
+2014 11 Lautém Pedro Monteiro
+
+2014 11 Lautém Eligio Diaz Quintas
+
+2014 11 Lautém Rita da C. Fernandes
+
+2015 10 Lautém Estevao da Silva
+
+2015 10 Lautém Costantino Rodrigues
+
+2015 10 Lautém Leuro Jeca do Carmo
+
+2015 10 Lautém Abilio Fernandes
+
+2015 10 Lautém Filomeno da C.
+
+2015 10 Lautém Oracio Ramos
+
+2015 10 Lautém Lirio Quadros
+
+2015 10 Lautém Adolfo da C.
+
+2015 10 Lautém Clemente da Costa
+
+2015 10 Lautém Ermundo Ruas
+
+2015 10 Lautém Martino Viera
+
+2015 10 Lautém Jeca Do Carmo
+
+2015 10 Lautém Agapito da Costa
+
+2015 10 Lautém Adao Rosa
+
+2015 10 Lautém Patricio de Jesus
+
+2015 10 Lautém Fernando da Costa 307 Honda Mega Pro 0448 GA MH1KC6113FK040039 KC61E1040055 New 308 Honda Mega Pro 0449 GA MH1KC6115FK060009 KC61E1040080 New 309 Honda Mega Pro 0450 GA MH1KC6116FK040499 KC61E1040470 New 310 Honda Mega Pro 0451 GA MH1KC6114FK040115 KC61E1040165 New 311 Honda Mega Pro 0463 GA MH1KC6118FK040411 KC61E1040409 New 312 Honda Mega Pro 1508 GA MH1KC6117GK044323 KC61E1044265 New 313 Honda Mega Pro 1511 GA MH1KC6110GK044308 KC61E1044292 New 314 Honda Mega Pro 1513 GA MH1KC6113GK044366 KC61E1044352 New 315 Honda Mega Pro 1516 GA MH1KC6111GK044322 KC61E1044313 New 316 Honda Mega Pro 1517 GA MH1KC6115GK044322 KC61E1044289 New
+
+317 Honda Megapro 0882 GA MH1KC6119FK041255 KC61E1041433
+
+Honda Supra X 318 9649 G MHIJBG1111EK174793 JBGIE1174315 125 319 Honda Mega Pro 9583 G MH1KC6113EK025569 KC61E1025610 New 320 Honda Mega Pro 9582 G MH1KC6112EK025560 KC61E1025577 New
+
+321 Honda Megapro 0973 G MH1KC6116FK041282 KC61E1041124
+
+322 Honda Mega Pro 1506 GA MH1KC6119GK045201 KC61E1045165 New 323 Honda Mega Pro 0884 GA MH1KC6112FK041652 KC61E1041691 New Honda Supra X 324 9639 G MH1JBG115EK175090 JBG1E1174505 125
+
+325 Honda Megapro 9587 G GL15C2LA07MLTCPLOCAS KC61E1025534
+
+Honda Supra X 326 9579 G MHIJBG11XEK161900 JBGIE1161425 125 327 Honda Mega Pro 0938 GA MH1KC6116FK041668 KC61E1041698 New 328 Honda Mega Pro 1504 GA MH1KC6111GK045063 KC61E1045032 New 329 Honda Mega Pro 9584 G MH1KC6119EK025589 KC61E1025624 New 330 Honda Mega Pro 9585 G MH1KC611XEK025374 KC61E1025434 New 331 Honda Mega Pro 0886 GA MH1KC6113FK041255 KC61E1041114 New 332 Honda Mega Pro 0987 GA MH1KC6111FK041383 KC61E1041269 New 333 Honda Mega Pro 0984 GA KC61E1041246 New Honda Supra X 334 9573 G MH1JBG112EK164709 JBGIE1164540 125 335 Honda Mega Pro 0985 GA MH1KC6113FK0413844 KC61E1041232 New 336 Honda Mega Pro 0885 GA MH1KC611XFK041740 KC61E1041676 New 337 Honda Mega Pro 0883 GA MH1KC6111FK041691 KC61E1041656 New
+
+338 Honda Megapro 2210 GA MH1KC111GK045094 KC61E1033510
+
+339 Honda Mega Pro 0986 GA MH1KC6119FK041275 KC61E1041093 New 340 Honda Mega Pro 9607 G MH1KC6112EK025370 KC61E1025423 New 341 Honda Mega Pro 9608 G MH1KC6110EK025402 KC61E1025426 New 342 Honda Mega Pro 9609 G MH1KC6114EK025558 KC61E1025609 New 343 Honda Mega Pro 9610 G MH1KC6111EK025327 KC61E1025393 New Honda Supra X 344 9641 G MH1JBG114EK175078 JBG1E1174573 125 2015 10 Lautém Alfredo Da Gama
+
+2015 10 Lautém Francisco D. C.
+
+2015 10 Lautém Rosa Fernandes
+
+2015 10 Lautém Geraldo Da C.
+
+2015 10 Lautém Fernando Baptista
+
+2015 10 Lautém Tomas da Costa
+
+2015 10 Lautém Joanico M. Branco
+
+2015 10 Lautém Ameno da Gama
+
+2015 10 Lautém Vicente Reis
+
+2015 10 Lautém Delfin de Almeida
+
+2014 11 Liquiçá Mateus Correia
+
+2014 11 Liquiçá Afonso Vidigal
+
+2014 11 Liquiçá Felipe dos Santos
+
+2014 11 Liquiçá Costodio da Silva
+
+2014 11 Liquiçá Agosto C. Moniz
+
+2015 10 Liquiçá Angelina Varela
+
+2015 10 Liquiçá Manuel da Silva R.
+
+2015 10 Liquiçá Roberto Vidigal
+
+2015 10 Liquiçá Pedro da Costa Xavier
+
+2015 10 Liquiçá Victor da Costa
+
+2015 10 Liquiçá Felix Lobo
+
+2015 10 Liquiçá Salvador Alves
+
+2015 10 Liquiçá Americo Soares
+
+2015 10 Liquiçá Marculino A.D.S
+
+Hermenegildo Dos 2015 10 Liquiçá Santos
+
+2015 10 Liquiçá Agostu dos Santos
+
+2015 10 Liquiçá Jose Valenti Ramos
+
+2015 10 Liquiçá Leopoldino Dos Santos
+
+Constancio Maia Da 2015 10 Liquiçá Cruz
+
+2016 9 Liquiçá Augostu Correia Moniz
+
+Carlos Correia dos 2016 9 Liquiçá Santos
+
+2015 10 Liquiçá Mateus Pereira
+
+2015 10 Liquiçá Eusebio Dos Santos
+
+2014 11 Manatuto Diogo Barros Bento
+
+2014 11 Manatuto Pedro Nolasco
+
+2014 11 Manatuto Sidonio Lopes
+
+2014 11 Manatuto Agustinho Ximenes
+
+2014 11 Manatuto Paulino Abu Gusmao Honda Supra X 345 9643 G MH1JBG114EK174805 JBG1E1174435 125 Honda Supra X 346 9629 G MH1JBG11XEK175165 JBG1E1174683 125 Honda Supra X 347 9638 G MH1JBG118EK175080 125 348 Honda Mega Pro 0491 GA MH1KC6117FK640011 KC61E1040079 New 349 Honda Mega Pro 0492 GA MH1KC6117FK040013 KC61E1040074 New 350 Honda Mega Pro 0493 GA MH1KC6117FK040030 KC61E1040018 New 351 Honda Mega Pro 0494 GA MH1KC6114FK040450 KC61E1040459 New 352 Honda Mega Pro 0495 GA MH1KC6114FK040034 KC61E1039982 New 353 Honda Mega Pro 0496 GA MH1KC6112FK040128 KC61E1040136 New 354 Honda Mega Pro 0497 GA MH1KC6113FK040137 KC61E1040010 New 355 Honda Mega Pro 0498 GA MH1KC6113FK040462 KC61E1040469 New 356 Honda Mega Pro 0499 GA MH1KC6110FK040032 KC61E1039984 New 357 Honda Mega Pro 0500 GA MH1KC6113FK040042 KC61E1040066 New 358 Honda Mega Pro 0501 GA MH1KC6117FK040500 KC61E1040476 New 359 Honda Mega Pro 0502 GA MH1KC6112FK040047 KC61E1040025 New 360 Honda Mega Pro 0503 GA MH1KC6117FK040044 KC61E1040003 New 361 Honda Mega Pro 0504 GA MH1KC61117FK04002 KC61E1040065 New 362 Honda Mega Pro 0505 GA MH1KC6114FK040499 New 363 Honda Mega Pro 0506 GA MH1KC6112FK040002 KC61E1040072 New 364 Honda Mega Pro 0507 GA MH1KC6117FK040104 KC61E1040123 New 365 Honda Mega Pro 1539 GA MH1KC6113GK045212 KC61E1045207 New 366 Honda Mega Pro 1540 GA MH1KC6112GK045220 KC61E1045169 New 367 Honda Mega Pro 1542 GA MH1KC6113GK044321 KC61E1044266 New
+
+368 Honda Megapro 0803 G
+
+369 Honda Versa 3900 GA MH1KC0214KK075381 KC02E1075869
+
+370 Honda Versa 3901 GA MH1KC0212KK075550 KC02E1075879
+
+371 Honda Mega Pro 9594 G MH1KC6113EK025586 KC61E1025616 New 372 Honda Mega Pro 9595 G MH1KC6112EK025577 KC61E1025572 New 373 Honda Mega Pro 9596 G MH1KC6114EK025518 KC61E1025626 New 374 Honda Mega Pro 9597 G MH1KC6117EK025302 New 375 Honda Mega Pro 9598 G MH1KC6111EK025375 KC61E1025430 New Honda Supra X 376 9571 G MH1JBG119EK165646 JBG1E1165337 125 Honda Supra X 377 9575 G MH1JBG115EK165689 JBG1E1165304 125 Honda Supra X 378 9570 G MH1JBG118EK165640 JBG1E1165367 125 Honda Supra X 379 9565 G MH1JBG11XEK165395 JBG1E1165172 125 380 Honda Mega Pro 0453 GA MH1KC6111FK039987 KC61E1046029 New 381 Honda Mega Pro 0454 GA MH1KC6111FK040430 KC61E1040382 New 382 Honda Mega Pro 0455 GA MH1KC6114FK040003 KC61E1040076 New 2014 11 Manatuto Joao de Jesus
+
+2014 11 Manatuto Joao Soares
+
+JBG1174672 2015 10 Manatuto Luciano Soares
+
+2015 10 Manatuto Adriano da Silva
+
+2015 10 Manatuto Mario S. de Andrade
+
+2015 10 Manatuto Ani Joaquim
+
+Fernando G. de 2015 10 Manatuto Carvalho
+
+2015 10 Manatuto Gabriel Soares
+
+2015 10 Manatuto Mario Florindo Soares
+
+2015 10 Manatuto Tiago Lopes de Jesus
+
+2015 10 Manatuto Antonio da Cunha
+
+2015 10 Manatuto Lucinda de Jesus
+
+Cipriana da Costa 2015 10 Manatuto Oliveira
+
+2015 10 Manatuto Rui Alves
+
+2015 10 Manatuto Bernardo Sarmento
+
+2015 10 Manatuto Antonio M.do Carmo
+
+2015 10 Manatuto Belarmino Carceres
+
+2015 10 Manatuto Florentino
+
+2015 10 Manatuto Bernado da Silva
+
+2015 10 Manatuto Joao Pinto Pereira
+
+2015 10 Manatuto Laurentino Soares
+
+2015 10 Manatuto Antonio Ximenes
+
+2015 10 Manatuto Carlos de Jesus da Silva
+
+2016 9 Manatuto Delfim Alipio G.dias
+
+2019 6 Manatuto Anselmo Lopes
+
+2019 6 Manatuto Anastacio Pereira
+
+2014 11 Manufahi Agapito Soares
+
+2014 11 Manufahi Martins da Costa
+
+2014 11 Manufahi Tadeo Fernandes
+
+Kc611025100 2014 11 Manufahi Elias Quintao
+
+2014 11 Manufahi Romeo da Costa
+
+2014 11 Manufahi Berta da Costa
+
+2014 11 Manufahi Moises S. Pereira
+
+2014 11 Manufahi Antonio Nunes
+
+2014 11 Manufahi Fernando Do Santos
+
+2015 10 Manufahi Antonio das Regras
+
+2015 10 Manufahi Alfredo de Oliveira
+
+Aniceto da Costa 2015 10 Manufahi Pereira 383 Honda Mega Pro 0456 GA MH1KC6113FK040414 KC61E1040399 New 384 Honda Mega Pro 0457 GA MH1KC6113FK040025 KC61E1040053 New 385 Honda Mega Pro 0458 GA MH1KC6113FK040008 KC61E1040077 New 386 Honda Mega Pro 0459 GA MH1KC6117FK040495 KC61E1040480 New 387 Honda Mega Pro 0460 GA MH1KC6116FK040446 KC61E1040402 New 388 Honda Mega Pro 0461 GA MH1KC6115FK040446 KC61E1040319 New 389 Honda Mega Pro 0462 GA MH1KC6117FK040418 KC61E1040392 New 390 Honda Mega Pro 0464 GA MH1KC6117FK040108 KC61E1040178 New 391 Honda Mega Pro 0465 GA MH1KC6114FK040437 KC61E1040428 New 392 Honda Mega Pro 0466 GA MH1KC611xFK040426 KC61E1040397 New 393 Honda Mega Pro 0467 GA MH1KC6111FK040007 KC61E1039981 New 394 Honda Mega Pro 0468 GA MH1KC611XFK040443 KC61E1040417 New 395 Honda Mega Pro 0469 GA MH1KC6111FK040413 KC61E1040394 New 396 Honda Mega Pro 0470 GA MH1KC6119FK640403 KC61E1040403 New 397 Honda Mega Pro 0471 GA MH1KC6117FK040478 KC61E1040475 New 398 Honda Mega Pro 0472 GA MH1KC6115FK040429 KC61E1040426 New 399 Honda Mega Pro 1503 GA MH1KC6111GK045239 KC61E1045190 New 400 Honda Mega Pro 9624 G MH1KC6111EK025305 KC61E1025097 New 401 Honda Mega Pro 9625 G MH1KC6110EK025139 KC61E1025224 New 402 Honda Mega Pro 9653 G KC61E1025445 New Honda Supra X 403 9636 G MH1JBG11XEK175053 JBG1E1174594 125 Honda Supra X 404 9637 G MH1JBG110EK175075 JBG1E1174589 125 405 Honda Mega Pro 9673 G MHIKC3117DK310724 KC31E1309458 New 406 Honda Mega Pro 0778 GA MH1KC6119FK040109 KC61E1040174 New 407 Honda Mega Pro 0779 GA MH1KC611XFK041821 KC61E1041759 New 408 Honda Mega Pro 0780 GA MH1KC6111FK041835 KC61E1041822 New 409 Honda Mega Pro 0781 GA MH1KC611XFK041771 KC61E1041755 New 410 Honda Mega Pro 0512 GA MH1KC6119FK040045 KC61E1040069 New 411 Honda Mega Pro 0508 GA MH1KC6118FK040487 KC61E1040456 New 412 Honda Mega Pro 0510 GA MH1KC6116FK040407 KC61E1040410 New 413 Honda Mega Pro 0511 GA MH1KC6112FK040405 KC61E1040387 New 414 Honda Mega Pro 0509 GA MH1KC611XFK040118 KC61E1040105 New 415 Honda Mega Pro TEST MH1KC6119FK041390 New 416 Honda Mega Pro 1624 GA MH1KC6112GK045105 KC61E1045100 New 417 Honda Mega Pro 0452 GA MH1KC6118FK040421 KC61E1040419 New 418 Honda Mega Pro 9645 G MH1KC6119EK025396 KC61E1025141 New 419 Honda Mega Pro 9616 G MH1KC6116EK025517 KC61E1025335 New 2015 10 Manufahi Joao da Costa
+
+2015 10 Manufahi Leontino Bonaparte
+
+2015 10 Manufahi Benedito Fernandes
+
+2015 10 Manufahi Salvador da Costa
+
+2015 10 Manufahi Fernando Nunes
+
+2015 10 Manufahi Israel Pinto
+
+2015 10 Manufahi Antonio DC Rodrigues
+
+2015 10 Manufahi Victoria de Jesus
+
+2015 10 Manufahi Alberto de Deus
+
+2015 10 Manufahi Agustinho C. Lopes
+
+2015 10 Manufahi Adelino DJ Tilman
+
+2015 10 Manufahi Filipe de Jesus
+
+2015 10 Manufahi Manuel Nunes
+
+2015 10 Manufahi Hipolito de Andrade
+
+2015 10 Manufahi Filomeno Prego
+
+2015 10 Manufahi Fernando da Costa
+
+David Lino da Costa 2015 10 Manufahi Prego
+
+2014 11 Oecussi Salomao Soares
+
+2014 11 Oecussi Albino Bobi
+
+2014 11 Oecussi Antonio Lelan
+
+2014 11 Oecussi Firmino Tafin
+
+2014 11 Oecussi Manuel Guterres
+
+2014 11 Oecussi Joni M. Balo
+
+2016 9 Oecussi Lucio Saco
+
+2016 9 Oecussi Miguel Fallo
+
+2016 9 Oecussi Jose Bacun
+
+2015 10 Oecussi Domingos Neti
+
+2016 9 Oecussi Jose P. S. Bano
+
+2016 9 Oecussi Fernando Poto
+
+2016 9 Oecussi Pedro Taco Coa
+
+2016 9 Oecussi Natalia da Costa
+
+2016 9 Oecussi Joao Tolo
+
+2016 9 Oecussi Epifano da Costa Nunes
+
+2016 9 Oecussi Alberto dos Santos
+
+2016 9 Oecussi Batista Punef
+
+2014 11 Viqueque Agapito Damancio
+
+2014 11 Viqueque Lorenco de Jesus 420 Honda Mega Pro 9617 G MH1KC6113EK025314 KC61E1023326 New 421 Honda Mega Pro 9618 G MH1KC611XEK025314 KC61E1025570 New Honda Supra X 422 9647 G MH1JBG111EK174850 JBG1E1174364 125 Honda Supra X 423 9631 G MH1JBG114EK175017 JBG1E1174820 125 Honda Supra X 424 9642 G MH1JBG110EK174834 JBG1E1174482 125 Honda Supra X 425 9650 G MH1JBG114EK159186 JBG1E1158835 125 Honda Supra X 426 9651 G MH1JPG116EK165698 JPGCE1165328 125 427 Honda Mega Pro 0891 GA MH1KC6115FK041287 KC61E1041090 New 428 Honda Mega Pro 0892 GA MH1KC6119FK041292 KC61E1041119 New 429 Honda Mega Pro 0893 GA MH1KC6114FK041281 KC61E1041095 New 430 Honda Mega Pro 0894 GA MH1KC6118FK041378 KC61E1041231 New 431 Honda Mega Pro 0895 GA MH1KC6118FK041266 KC611041089 New 432 Honda Mega Pro 0896 GA MH1KC6116FK041654 KC61E1041640 New 433 Honda Mega Pro 0897 GA MH1KC610FK041360 KC61E1041240 New 434 Honda Mega Pro 0898 GA MH1KC6114FK041386 KC61E1041174 New 435 Honda Mega Pro 0899 GA MH1KC611FK041386 KC61E1041237 New 436 Honda Mega Pro 0900 GA MH1KC6118FK041364 KC61E1041212 New 437 Honda Mega Pro 0901 GA MH1KC6119FK041373 KC61E1041251 New 438 Honda Mega Pro 0902 GA MH1KC6110FK0411391 New 439 Honda Mega Pro 0903 GA MH1KC611XFK041391 KC61E1041129 New 440 Honda Mega Pro 0905 GA MH1KC6116FK041377 KC61E1041255 New 441 Honda Mega Pro 0906 GA MH1KC6117FK041288 KC61E1041125 New 442 Honda Mega Pro 0909 GA MH1KC6119FK041695 KC61E1041705 New 443 Honda Mega Pro 0910 GA MH1KC6115FK041001 KC61E1041007 New 444 Honda Mega Pro 0913 GA MH1KC6115FK041354 KC61E1041241 New 445 Honda Mega Pro 0914 GA MH1KC6111FK041366 KC61E1041249 New 446 Honda Mega Pro 0915 GA MH1KC6117FK041355 KC61E1041271 New 447 Honda Mega Pro 0917 GA MH1KC6114FK041376 KC61E1041278 New 448 Honda Mega Pro 0918 GA MH1KC6115FK041385 KC61E1041233 New 449 Honda Mega Pro 0919 GA MH1KC6111FK041657 KC61E1041599 New 450 Honda Mega Pro 1548 GA MH1KC6117GK042751 KC61E1042725 New 451 Honda Mega Pro 1550 GA MH1KC6119GK044307 KC61E1044172 New 452 Honda Mega Pro 1556 GA MH1KC6118GK044363 KC61E1044318 New
+
+453 Honda Versa 3893 GA MH1KC0210KK075594 KC02E1076079 2014 11 Viqueque Honorio da Silva
+
+2014 11 Viqueque Paul Pinto
+
+2014 11 Viqueque Francisco Menezes
+
+2014 11 Viqueque Zacarias da Silva
+
+2014 11 Viqueque Germano Soares
+
+2014 11 Viqueque Balbina da Costa
+
+2014 11 Viqueque Moises Soares
+
+2015 10 Viqueque Domingos Pinto
+
+2015 10 Viqueque Pedro C. O. Bento
+
+2015 10 Viqueque Eduardo R. Guteres
+
+2015 10 Viqueque Luis N. Amaral
+
+2015 10 Viqueque Deolindo Alves
+
+2015 10 Viqueque Manecas Pinto
+
+2015 10 Viqueque Paul Soares
+
+2015 10 Viqueque Cesario C. Guteres
+
+2015 10 Viqueque Mateus da Silva
+
+2015 10 Viqueque Lino da Costa
+
+2015 10 Viqueque Francisco da Silva
+
+2015 10 Viqueque Antonio Freitas
+
+2015 10 Viqueque Virgilio Monteiro
+
+2015 10 Viqueque Francisco da Costa
+
+2015 10 Viqueque Armindo Pinto
+
+2015 10 Viqueque Jeremias Amaral
+
+2015 10 Viqueque Miguel Menezes
+
+2015 10 Viqueque Jose M. Soares
+
+2015 10 Viqueque Teofilo Paulo
+
+2015 10 Viqueque Cipriano A. Fernades
+
+2015 10 Viqueque Filipe M. Tavares
+
+2015 10 Viqueque Thomas Ximenes
+
+2015 10 Viqueque Julio Calistro
+
+2015 10 Viqueque Aquilis da Silva
+
+2015 10 Viqueque Armindo Martins
+
+2015 10 Viqueque Lourenco da Silva
+
+2019 6 Viqueque Rui Manuel Freitas
