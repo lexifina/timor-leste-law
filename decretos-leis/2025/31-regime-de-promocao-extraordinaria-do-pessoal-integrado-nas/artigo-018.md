@@ -1,0 +1,3 @@
+# Artigo 18.º — (Norma subsidiária)
+
+Em tudo o que não esteja expressamente previsto no presente procedimento, é aplicável, com as necessárias adaptações, o Regime dos Concursos, Recrutamento, Seleção e Promoção do Pessoal para a Administração Pública, aprovado pelo Decreto-Lei n.º 34/2008, de 27 de agosto, alterado pelos Decretos-Leis n.ºs 22/2011, de 8 de junho, 44/2011, de 21 de setembro, e 1/2018, de 24 de janeiro; o Regime de Promoção do Pessoal das Carreiras da Administração Pública, aprovado pelo Decreto-Lei n.º 1/2018, de 24 de janeiro, e o Estatuto da Função Pública, aprovado pela Lei n.º 8/2004, de 16 de junho, alterado pela Lei n.º 5/2009, de 15 de julho, e pelo Decreto-Lei n.º 9/2025, de 30 de abril.
