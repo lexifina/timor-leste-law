@@ -1,0 +1,3 @@
+# Artigo 8.º
+
+Durante o período abrangido pelo presente Acordo, qualquer das Partes, se for necessário retomar esses direitos de utilização dos terrenos para fins económicos, culturais ou públicos ou devido a alterações no planejamento urbano, notificará a outra Parte com pelo menos um ano de antecedência e fornecerá, nesse prazo prévio, terrenos e edifícios alternativos de dimensão e qualidade semelhantes aos da outra Parte, a fim de assegurar a continuidade das funções diplomáticas e alojamento. O período de afetação dos solos do novo sítio será o remanescente do período dos terrenos e edifícios recuperados.
