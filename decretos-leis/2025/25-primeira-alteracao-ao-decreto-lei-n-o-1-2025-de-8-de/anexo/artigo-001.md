@@ -1,0 +1,13 @@
+# Artigo 1.º — (Objeto e âmbito)
+
+1. O presente decreto-lei aprova o regime jurídico de investigação científica marinha aplicável às atividades de investigação científica marinha no espaço marítimo nacional, quando realizadas a pedido de Estados estrangeiros ou organizações internacionais.
+
+2. As atividades de investigação científica marinha visam promover o conhecimento do oceano em Timor-Leste e formar quadros científicos timorenses, principalmente de jovens investigadores, fomentando a cooperação e o intercâmbio internacional do conhecimento sobre o oceano e em particular do espaço marítimo nacional.
+
+3. O disposto no presente decreto-lei não prejudica os direitos e as obrigações de Timor-Leste no âmbito dos acordos e convenções internacionais em vigor na ordem jurídica interna, ou dos regulamentos ou outros instrumentos aprovados no quadro de organizações internacionais de que Timor-Leste seja Estado-parte.
+
+4. A aplicação do presente decreto-lei deve ter em conta os direitos e as obrigações de Timor-Leste no âmbito do Acordo ao abrigo da Convenção das Nações Unidas sobre o Direito do Mar relativo à Conservação e Utilização Sustentável da Diversidade Biológica Marinha das Áreas fora da Jurisdição Nacional, incluindo, no que respeita à notificação ao Clearing-House Mechanism criado pelo referido instrumento, das atividades relacionadas com os recursos genéticos marinhos das áreas não sujeitas aÌ jurisdição nacional e as informações de sequências digitais relativas a esses recursos, e a salvaguarda do direito de informação, participação e envolvimento das comunidades locais, designadamente quando estiver em causa o Tara bandu ou qualquer outra prática tradicional, ou a partilha dos seus conhecimentos tradicionais associados aos recursos genéticos marinhos nas áreas não sujeitas aÌ jurisdição nacional, assim como a necessidade de obtenção do seu consentimento livre, prévio e informado.
+
+5. A aplicação do presente diploma deve, ainda, salvaguardar o disposto nos n.os 2 e 3 do artigo 47.º do Decreto-Lei n.º 6/2020, de 6 de fevereiro, relativamente aos programas de investigação científica e de desenvolvimento de tecnologias alternativas que sejam relevantes para a conservação da biodiversidade e uso sustentável dos seus componentes.
+
+6. A realização de atividades de investigação científica marinha não cria, altera, modifica ou prejudica qualquer reivindicação de soberania, direitos soberanos ou jurisdição, nomeadamente em relação a quaisquer disputas ou controvérsias, sobre qualquer parte do espaço marítimo nacional, ou sobre o estatuto legal de qualquer parte do território nacional terrestre e das respetivas áreas marítimas adjacentes, e não pode ser invocada como base para afirmar ou negar qualquer reivindicação.
