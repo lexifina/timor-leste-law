@@ -1,0 +1,3 @@
+# Artigo 11.º — (Estrutura do número de matrícula relativo a motociclos do Estado)
+
+A estrutura do número de matrícula relativo a automóveis do Estado é composta de quatro grupos de carateres, sendo o primeiro grupo constituído por uma sequência de quatro algarismos da base do sistema numérico decimal (0 a 9), o segundo grupo separado do anterior por um ponto, é constituído pelas letras GA, o terceiro, separado do anterior por um espaço, constituído pelo código de duas letras identificador da divisão administrativa do território onde a matrícula é efetuada e, o quarto grupo é constituído pelo acrónimo de Timor-Leste (TL).

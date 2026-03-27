@@ -1,0 +1,3 @@
+# Artigo 10.º — (Estrutura do número de matrícula relativo a automóveis do Estado)
+
+A estrutura do número de matrícula relativo a automóveis do Estado é composta de cinco grupos de carateres, o primeiro grupo constituído por uma sequência de dois algarismos da base do sistema numérico decimal (0 a 9), o segundo grupo, separado do anterior por um ponto, é constituído por uma sequência de três algarismos da base do sistema numérico decimal (0 a 9), o terceiro grupo, separado do anterior por um espaço, pelas letras GA, o quarto grupo constituído pelo código de duas letras identificador da divisão administrativa do território onde a matrícula é efetuada e o quinto grupo, separado do anterior por um espaço, é constituído pelo acrónimo de Timor-Leste (TL).
