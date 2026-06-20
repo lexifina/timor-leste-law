@@ -1,0 +1,19 @@
+# Artigo 86.º — (Reclamação de créditos)
+
+1. Dentro do prazo fixado para o efeito na declaração de abertura do processo, devem os credores, incluindo o Ministério Público na defesa dos interesses das entidades que represente, reclamar a verificação dos seus créditos por meio de requerimento, acompanhado de todos os documentos probatórios de que disponham, no qual indiquem:
+
+a) A sua proveniência, data de vencimento e montante de capital e de juros;
+
+b) As condições a que estejam subordinados, tanto suspensivas como resolutivas;
+
+c) A sua natureza subordinada, comum, privilegiada, garantida ou laboral e, no caso de garantida, os bens ou direitos objeto da garantia e respetivos dados de identificação registal, se aplicável;
+
+d) A existência de eventuais garantias pessoais, com identificação dos garantes;
+
+e) A taxa de juros moratórios aplicável.
+
+2. O requerimento é endereçado ao ARI e apresentado junto do BRI, por correio eletrónico ou por outra forma escrita.
+
+3. O BRI deve assinar no ato de entrega ou enviar ao credor reclamante, no prazo de três dias da receção, comprovativo do recebimento, pela mesma forma utilizada para o envio da reclamação.
+
+4. Para os efeitos previstos nos números anteriores, devem ser usados os formulários aprovados pelo BRI.
