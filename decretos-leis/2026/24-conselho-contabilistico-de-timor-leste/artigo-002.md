@@ -1,0 +1,3 @@
+# Artigo 2.º — (Natureza)
+
+O Conselho Contabilístico de Timor-Leste, adiante designado por CCTL, é um órgão técnico independente, no âmbito do ministério com atribuições na área das finanças, responsável pela preparação de normas e emissão de pareceres e instruções para implementação de procedimentos contabilísticos uniformes, harmonizados com as Normas Internacionais de Contabilidade, tendo em vista a melhoria da qualidade da informação financeira das entidades abrangidas pelo sistema contabilístico nacional, bem como por promover as ações necessárias para que tais normas sejam efetiva e adequadamente aplicadas pelas entidades a elas sujeitas.
