@@ -1,0 +1,27 @@
+Legal texts
+
+The texts are official acts of the Democratic Republic of Timor-Leste, taken from the Jornal da Republica published
+by the Ministry of Justice (https://www.mj.gov.tl/jornal/). No terms of use or licence were found on that site
+(checked 2026-10-28), and none is granted here. Reuse terms are unclear, so this repository is private. When quoting,
+cite: "Jornal da Republica, Republica Democratica de Timor-Leste, Ministerio da Justica" with the series, number and
+date of the issue (see the Published: and Source: trailers of each commit).
+
+Code and documentation
+
+The tools and documentation written by Lexifina (tools/, README.md, REPRODUCE.md, corpus.json, data/) may be used
+under the MIT licence:
+
+Copyright (c) 2026 Lexifina
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated
+documentation files (the "Software"), to deal in the Software without restriction, including without limitation the
+rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit
+persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the
+Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE
+WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
+COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR
+OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.

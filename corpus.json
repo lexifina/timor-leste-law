@@ -1,0 +1,43 @@
+{
+  "corpus": "tl/national/acts",
+  "name": "Timor-Leste: the Constitution (2002) and Lei n.º 11/2009, Divisão Administrativa do Território",
+  "label": "Timor-Leste",
+  "language": "pt",
+  "acts": [
+    "constituicao",
+    "lei-11-2009"
+  ],
+  "history_from": "2002-05-20",
+  "record_to": "2024-01-01",
+  "record_note": "The Constitution of 2002 (never amended) and Lei n.º 11/2009 in every version from 2009 to its fourth amendment (Lei n.º 19/2023) and the deferred third (Lei n.º 14/2023, in effect 2024-01-01). Every version of Lei 11/2009 is an official republication.",
+  "in_force_trailer": "In-force",
+  "built": "2026-10-28",
+  "checked_on": "2026-10-28",
+  "history": "in-force",
+  "dates": {
+    "commit": "in-force",
+    "other_trailers": [
+      "Approved",
+      "Promulgated",
+      "Published",
+      "Entered-into-force"
+    ],
+    "time": "12:00 Asia/Dili (UTC+9, no summer time)"
+  },
+  "scope": {
+    "trailer": "Applies",
+    "when_absent": "no scope note found; not a statement that the change reaches every case",
+    "default_reach": {
+      "rule": "no retroactive restriction of rights; no retroactive criminal law unless more favourable",
+      "meaning": "laws restricting rights, freedoms and guarantees cannot have retroactive effect, and criminal law does not apply retroactively unless the new law benefits the accused",
+      "authority": "Constituição da RDTL, artigo 24.º, n.º 2 (\"não podem ter efeito retroactivo\") and artigo 31.º, n.º 5 (\"A lei penal não se aplica retroactivamente, a menos que a nova lei beneficie o arguido.\")",
+      "decided_here": false
+    }
+  },
+  "tool": "tools/em_vigor.py",
+  "citation": {
+    "file": "([a-z0-9-]+)/artigo-0*([0-9]+)(?:-[A-Z])?\\.md",
+    "cites": "([Aa]rtigos?|[Aa]rt\\.º?) ?{n}\\.?º"
+  },
+  "labelled_trailer": "Candidate"
+}
