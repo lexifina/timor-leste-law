@@ -1,5 +1,7 @@
 # Timor-Leste: law history
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Timor-Leste's national law, which global-law reads at `timor-leste/national/acts/`.
+
 The law of Timor-Leste (TL) as a git history: one file per provision, one commit per law on the day it took effect,
 with the law that made each change as the commit author. It follows the shared design of
 [lexifina/global-law](https://github.com/lexifina/global-law), which places it at `tl/`.
