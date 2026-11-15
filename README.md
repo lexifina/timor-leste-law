@@ -23,7 +23,8 @@ The text is in Portuguese, as the Jornal da República prints it; Tetum, also an
 
 - **[Ask Claude about Timorese law](https://global-law.lexifina.com/v1/try_claude?country=timor-leste)**: opens Claude with a first question ready.
 - **[Ask ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=timor-leste)**: the same question in ChatGPT.
-- **[Call the API in your browser](https://global-law.lexifina.com/v1/search_law?query=liberdade+de+express%C3%A3o&jurisdictions=timor-leste)**: a search of Timorese law for "liberdade de expressão" (freedom of expression), returned as JSON. See the [documentation here](https://lexifina.com/api/global-law).
+- **[Search Timorese law on our site](https://lexifina.com/law?country=timor-leste&q=liberdade+de+express%C3%A3o)**: a search for "liberdade de expressão" (freedom of expression), with each provision's text and its versions, no account needed.
+- **[Developer REST API](https://global-law.lexifina.com/v1/search_law?query=liberdade+de+express%C3%A3o&jurisdiction=timor-leste)**: the same search as JSON, with no key. See the [documentation here](https://lexifina.com/api/global-law).
 
 Both assistants read the record through the free Global law connector (MCP, `https://global-law.lexifina.com/mcp`); the first time, the chat gives you the link that adds it. Ask in Portuguese or in English.
 
