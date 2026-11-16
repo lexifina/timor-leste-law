@@ -61,6 +61,7 @@ Cada alteração é atribuída à lei que a fez, incluindo as alterações impre
 - Os textos são lidos das próprias camadas de texto dos PDF (sem OCR); as datas de cada lei são lidas do seu próprio texto e confrontadas com uma tabela, e qualquer diferença interrompe a construção.
 - Mais duas construções a partir da cache deram hashes idênticos, e `test_repo.py` verifica, num clone, que o blame indica as leis de alteração e que a ferramenta por data dá o texto certo ao longo das alterações (11 de 11 aprovados).
 - A história só cresce por acréscimo: sem commits de fusão (merge), sem reescrita, e os trailers de todos os commits são legíveis.
+- [vulnerabilities/](vulnerabilities/): possíveis erros de redação neste direito, encontrados pelos detetores do global-law e verificados à mão. Ainda não executado.
 
 ## O que não mostra
 
@@ -82,6 +83,10 @@ Veja [`LICENSE`](LICENSE). Não foram encontradas condições de utilização ne
 Nenhuma IA escreveu ou editou texto jurídico, e nenhum modelo é executado durante a construção; a investigação, o construtor e as verificações foram escritos pelo Claude Code com o Claude Opus 5.5, e as mensagens de commit são geradas por código a partir do texto do jornal oficial (veja [`REPRODUCE.md`](REPRODUCE.md)).
 
 Esta é uma tradução da versão inglesa ([README.en.md](README.en.md)); em caso de divergência, prevalece a versão inglesa.
+
+## Visualizações
+
+- [visualisations/](visualisations/): gráficos feitos a partir deste repositório. Ainda não feitos.
 
 ## Mais informação
 
