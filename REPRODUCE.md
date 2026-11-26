@@ -60,3 +60,26 @@ python -X utf8 ../test_corpus.py <repo> tools/em_vigor.py
 - check_repo.py: {"file_checks": 405, "mismatches": 0, "raw_word_stream_ok": 5, "versions": 7, "word_check_ok": 5}
 - Rebuild: two builds from the cache gave identical hashes
 - test_repo.py: 11 of 11 passed against f516571046cf83b7b2322ef3248b0d3cb84053ac
+
+## The Jornal da República acts (2026-11-26)
+
+Built by the runner in the Lexifina repository, `scripts/timor-leste-law/runner/`:
+
+```
+python -X utf8 tl_meta.py      # the Série I indexes by kind of act (?q=node/12, 13, 18, 19, 20, 10, 6635) -> cache/meta.json
+python -X utf8 tl_fetch.py     # each issue PDF they link, once; its text layer kept as line records (PyMuPDF, no OCR)
+python -X utf8 tl_build.py once  # cut each act out of its issue, split it into articles, date it, commit, push
+```
+
+- Requests: one at a time about a second apart, a second and third in flight only after ten clean minutes, back to
+  one at the first error; each PDF is read once and cached with its sha256 (`Source-sha256:` trailer).
+- An act runs from its own heading ("LEI N.º 4/2012", "DECRETO-LEI N.º 19/2009", ...) to the next act's heading in
+  the issue; the issue's summary, which repeats the headings, is skipped. Lines and paragraphs are read as above.
+- Articles are the "Artigo N.º" headings in sequence (n+1, or n+2 where one heading was missed); an article quoted
+  inside an amending article stays in that article. Articles numbered again from 1 after an ANEXO line are the
+  annex: for an act approving a code, the code's articles fill `codigos/<codigo>/` and the act itself `diploma/`.
+- The publication day is the day under the act's name ("de 21 de Fevereiro"), checked against the index; the
+  in-force day is the act's own rule counted from it. Acts with no fixed day, an unread rule, or a day still to come
+  are held (listed in the runner's held.json), never dated by guess.
+- Lei n.º 11/2009 and its four amending laws are not filed again: they are already here as its versions.
+

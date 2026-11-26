@@ -1,18 +1,14 @@
 {
   "corpus": "tl/national/acts",
-  "name": "Timor-Leste: the Constitution (2002) and Lei n.º 11/2009, Divisão Administrativa do Território",
+  "name": "Timor-Leste: the Constitution, codes, laws, decree-laws, Government decrees, resolutions and ministerial diplomas of the Jornal da República",
   "label": "Timor-Leste",
   "language": "pt",
-  "acts": [
-    "constituicao",
-    "lei-11-2009"
-  ],
   "history_from": "2002-05-20",
-  "record_to": "2024-01-01",
-  "record_note": "The Constitution of 2002 (never amended) and Lei n.º 11/2009 in every version from 2009 to its fourth amendment (Lei n.º 19/2023) and the deferred third (Lei n.º 14/2023, in effect 2024-01-01). Every version of Lei 11/2009 is an official republication.",
+  "record_to": "2026-11-26",
+  "record_note": "The Constitution of 2002; the acts of Série I of the Jornal da República since 2002, each as published, dated on the day its own entry-into-force rule gives; Lei n.º 11/2009 in every version to 2024-01-01 (official republications). Later amendments of other acts are filed as acts of their own, not applied to the text they amend.",
   "in_force_trailer": "In-force",
   "built": "2026-10-28",
-  "checked_on": "2026-10-28",
+  "checked_on": "2026-11-26",
   "history": "in-force",
   "dates": {
     "commit": "in-force",
@@ -20,7 +16,9 @@
       "Approved",
       "Promulgated",
       "Published",
-      "Entered-into-force"
+      "Entered-into-force",
+      "In-force-basis",
+      "Evidence"
     ],
     "time": "12:00 Asia/Dili (UTC+9, no summer time)"
   },
@@ -36,7 +34,7 @@
   },
   "tool": "tools/em_vigor.py",
   "citation": {
-    "file": "([a-z0-9-]+)/artigo-0*([0-9]+)(?:-[A-Z])?\\.md",
+    "file": "((?:codigos/[a-z0-9-]+)|(?:(?:leis|decretos-leis|decretos-governo|resolucoes-parlamento|resolucoes-governo|diplomas-ministeriais)/[0-9]{4}/[^/]+)|constituicao)/artigo-0*([0-9]+)(?:-[A-Z])?\\.md",
     "cites": "([Aa]rtigos?|[Aa]rt\\.º?) ?{n}\\.?º"
   },
   "labelled_trailer": "Candidate"

@@ -4,6 +4,12 @@ All from the Jornal da República, the official gazette of Timor-Leste, publishe
 robots.txt (checked 2026-10-28) allows `/jornal/` with `Crawl-delay: 10`; the builder waits 10 seconds between
 requests. Index of laws: <https://www.mj.gov.tl/jornal/?q=node/12>.
 
+From 2026-11-26 the acts filed by kind and year come from the Série I indexes of the Jornal: Leis
+(`?q=node/12`), Decretos-Leis (`?q=node/13`), Decretos do Governo (`?q=node/18`), Resoluções do Parlamento Nacional
+(`?q=node/19`), Resoluções do Governo (`?q=node/20`), and the issue PDFs they link under
+`https://www.mj.gov.tl/jornal/public/docs/<ano>/serie_1/`; the source URL and sha256 of each are in each commit's
+`Source:` and `Source-sha256:` trailers.
+
 | Act | Issue | URL |
 |---|---|---|
 | Constituição da RDTL (2002) | text served with the Jornal | https://www.mj.gov.tl/jornal/public/docs/ConstituicaoRDTL_Portugues.pdf |

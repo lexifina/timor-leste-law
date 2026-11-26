@@ -1,7 +1,7 @@
 """Prints an act, or one article of it, as it stood on a given day, from this repository's history.
 
-    python tools/em_vigor.py 2020-01-01 lei-11-2009 5      # Art. 5 of Lei 11/2009 on 1 January 2020
-    python tools/em_vigor.py 2024-01-01 lei-11-2009        # the whole law, in document order
+    python tools/em_vigor.py 2020-01-01 leis/2009/11-divisao-administrativa-do-territorio 5   # Art. 5 of Lei 11/2009 on 1 January 2020
+    python tools/em_vigor.py 2024-01-01 leis/2009/11-divisao-administrativa-do-territorio     # the whole law, in document order
     python tools/em_vigor.py 2024-01-01 constituicao 24
 
 The act is named by its folder. The article is its number ("5", "4-A"), or "preambulo" / "estrutura". Every commit
@@ -12,6 +12,10 @@ import datetime as dt
 import re
 import subprocess
 import sys
+
+
+# folders moved by a pure-rename commit (no In-force trailer): new path -> the path their history was built under
+FORMER = {'leis/2009/11-divisao-administrativa-do-territorio': 'lei-11-2009'}
 
 
 def git(*args: str) -> str:
@@ -48,6 +52,9 @@ def main():
     day, act = sys.argv[1], sys.argv[2].strip('/')
     dt.date.fromisoformat(day)
     commit = commit_on(day, act)
+    if not commit and act in FORMER:  # a folder moved by a pure-rename commit: its history is under the old path
+        act = FORMER[act]
+        commit = commit_on(day, act)
     if not commit:
         sys.exit(f'{act} is not in the record on {day}.')
     if len(sys.argv) > 3:

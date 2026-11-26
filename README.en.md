@@ -11,9 +11,9 @@ The law of Timor-Leste as a git history: one file per article, one commit per ve
 
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Timor-Leste's national law, which global-law reads at `timor-leste/national/acts/`.
 
-**What is in it now:** the Constitution (Constituição da República Democrática de Timor-Leste, 170 articles), in force from 20 May 2002 and never amended; and Lei n.º 11/2009, de 7 de outubro (Divisão Administrativa do Território) in five versions: as enacted, in force from 8 October 2009, and as republished by Lei n.º 4/2016 (from 26 May 2016), Lei n.º 14/2021 (from 1 January 2022), Lei n.º 19/2023 (from 6 December 2023) and Lei n.º 14/2023 (from 1 January 2024), now with 32 articles. Each act's folder has a `README.md` listing its versions; [`data/versions.json`](data/versions.json) lists every version with its source PDF and its sha256, and [`SOURCES.md`](SOURCES.md) every gazette issue read.
+**What is in it now:** the Constitution of 2002; the codes, and the laws, decree-laws, Government decrees, resolutions of the National Parliament and of the Government and ministerial diplomas published in Série I of the Jornal da República since 2002, each as published and dated on the day it entered into force under its own rule; and Lei n.º 11/2009 (Divisão Administrativa do Território) in every version to 1 January 2024. The layout is in [`STRUCTURE.md`](STRUCTURE.md); each act's folder has a `README.md` with its publication, entry into force and source PDF.
 
-Each act is a folder, one file per article plus `preambulo.md` and `estrutura.md` (the chapter headings and the order of the files): `lei-11-2009/artigo-007.md` is Article 7 (Município de Baucau) of Lei n.º 11/2009, inserted articles are `artigo-004-A.md`, and the Constitution is in [`constituicao/`](constituicao/).
+Each act is a folder, by kind and year, one file per article plus `preambulo.md` and `estrutura.md` (the chapter headings and the order of the files): `leis/2009/11-divisao-administrativa-do-territorio/artigo-007.md` is Article 7 (Município de Baucau) of Lei n.º 11/2009, inserted articles are `artigo-004-A.md`, and the Constitution is in [`constituicao/`](constituicao/) and each code in `codigos/` (for example `codigos/codigo-penal/`).
 
 The text is in Portuguese, as the Jornal da República prints it; Tetum, also an official language, is not here. An English translation is not part of this record.
 
@@ -21,10 +21,10 @@ The text is in Portuguese, as the Jornal da República prints it; Tetum, also an
 
 | Question | Command |
 | --- | --- |
-| Every change to Article 7 of Lei n.º 11/2009 (Município de Baucau) | `git log -p --word-diff -- lei-11-2009/artigo-007.md` |
-| Which act wrote each paragraph of Article 7? | `git blame lei-11-2009/artigo-007.md` |
-| Every version of Article 7, with the day each took effect | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- lei-11-2009/artigo-007.md` |
-| Article 7 as in force on 31 December 2023 | `python tools/em_vigor.py 2023-12-31 lei-11-2009 7` |
+| Every change to Article 7 of Lei n.º 11/2009 (Município de Baucau) | `git log -p --word-diff -- leis/2009/11-divisao-administrativa-do-territorio/artigo-007.md` |
+| Which act wrote each paragraph of Article 7? | `git blame leis/2009/11-divisao-administrativa-do-territorio/artigo-007.md` |
+| Every version of Article 7, with the day each took effect | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- leis/2009/11-divisao-administrativa-do-territorio/artigo-007.md` |
+| Article 7 as in force on 31 December 2023 | `python tools/em_vigor.py 2023-12-31 leis/2009/11-divisao-administrativa-do-territorio 7` |
 
 **Outside git**, we also host this record publicly, for free:
 
@@ -40,7 +40,7 @@ Both assistants read the record through the free Global law connector (MCP, `htt
 ```sh
 git clone --depth 1 https://github.com/lexifina/global-law && cd global-law
 python3 tools/countries.py add timor-leste/national/acts
-python3 tools/law.py show 2026-01-01 timor-leste/national/acts/lei-11-2009/artigo-007.md
+python3 tools/law.py show 2026-01-01 timor-leste/national/acts/leis/2009/11-divisao-administrativa-do-territorio/artigo-007.md
 ```
 
 Opened in Claude Code, Cursor, VS Code or Codex, the clone also starts a local MCP server with the same tools ([MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md)).
@@ -65,20 +65,20 @@ Each change is credited to the law that made it, including changes printed only 
 
 ## What it does not show
 
-- **Any other act.** Only the Constitution and Lei n.º 11/2009 are here; the Jornal da República's other laws and decrees, including the Government diplomas that set the areas of the postos administrativos, are not.
+- **Later versions of the other acts.** Apart from Lei n.º 11/2009, each act is here as published; its amendments are here as acts of their own, but not yet applied to the text they amend. Acts whose entry-into-force rule fixes no day (then the tenth working day applies, Lei n.º 1/2002, Article 16), or not yet in force, are held back; decrees of the President of the Republic, despachos and notices are not here.
 - **The Constitution as printed in a gazette issue.** The text here is the Portuguese PDF the Ministry of Justice serves with the Jornal; the Tetum text, also official, is not here.
-- **Changes after 28 October 2026**, when the sources were last read; the last change here took effect on 1 January 2024.
+- **Acts published after 26 November 2026**, when the sources were last read.
 
 ## Sources
 
 | Source | Kind | Past versions | Notes |
 | --- | --- | --- | --- |
-| [Jornal da República](https://www.mj.gov.tl/jornal/) (Ministério da Justiça) | Official gazette, born-digital PDFs | yes, each amending law republishes Lei n.º 11/2009 in full | Lei n.º 11/2009 and its four amending laws, Série I |
+| [Jornal da República](https://www.mj.gov.tl/jornal/) (Ministério da Justiça) | Official gazette, born-digital PDFs | yes, each amending law republishes Lei n.º 11/2009 in full | The Série I indexes by kind of act and the gazette issues they link, since 2002 |
 | [Constituição da RDTL](https://www.mj.gov.tl/jornal/public/docs/ConstituicaoRDTL_Portugues.pdf), served with the Jornal | Official text, PDF | no, never amended | The Portuguese text of 2002 |
 
 ## Licence
 
-See [`LICENSE`](LICENSE). No terms of use or licence were found on the Jornal da República's site, and none is granted here for the legal texts; when quoting, cite the Jornal da República issue (its series, number and date are in each commit's `Published:` and `Source:` trailers). The tools and documentation are MIT.
+See [`LICENSE`](LICENSE). Legislative and regulatory texts and judicial decisions are not protected by copyright (Código do Direito de Autor, Lei n.º 14/2022, Article 15(1)(e)); when quoting, cite the Jornal da República issue (its series, number and date are in each commit's `Published:` and `Source:` trailers). Lexifina's tools and documentation are CC0 1.0.
 
 No AI wrote or edited legal text, and no model runs at build time; the research, the builder and the checks were written by Claude Code with Claude Opus 5.5, and commit messages are generated by code from the gazette text (see [`REPRODUCE.md`](REPRODUCE.md)).
 

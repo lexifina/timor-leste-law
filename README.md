@@ -11,9 +11,9 @@ O direito de Timor-Leste como uma história git: um ficheiro por artigo, um comm
 
 Faz parte de [lexifina/global-law](https://github.com/lexifina/global-law), uma única história git do direito de todos os países: este é o direito nacional de Timor-Leste, que o global-law lê em `timor-leste/national/acts/`.
 
-**O que contém por agora:** a Constituição (Constituição da República Democrática de Timor-Leste, 170 artigos), em vigor desde 20 de maio de 2002 e nunca alterada; e a Lei n.º 11/2009, de 7 de outubro (Divisão Administrativa do Território), em cinco versões: tal como aprovada, em vigor desde 8 de outubro de 2009, e tal como republicada pela Lei n.º 4/2016 (desde 26 de maio de 2016), pela Lei n.º 14/2021 (desde 1 de janeiro de 2022), pela Lei n.º 19/2023 (desde 6 de dezembro de 2023) e pela Lei n.º 14/2023 (desde 1 de janeiro de 2024), agora com 32 artigos. A pasta de cada ato tem um `README.md` que lista as suas versões; [`data/versions.json`](data/versions.json) lista todas as versões com o respetivo PDF de origem e o seu sha256, e [`SOURCES.md`](SOURCES.md) todos os números do jornal oficial lidos.
+**O que contém por agora:** a Constituição de 2002; os códigos e as leis, decretos-leis, decretos do Governo, resoluções do Parlamento Nacional e do Governo e diplomas ministeriais publicados na Série I do Jornal da República desde 2002, cada um tal como publicado e datado do dia em que entrou em vigor segundo a sua própria norma; e a Lei n.º 11/2009 (Divisão Administrativa do Território) em todas as suas versões até 1 de janeiro de 2024. A organização está em [`STRUCTURE.md`](STRUCTURE.md); a pasta de cada ato tem um `README.md` com a sua publicação, entrada em vigor e PDF de origem.
 
-Cada ato é uma pasta, com um ficheiro por artigo e ainda `preambulo.md` e `estrutura.md` (as epígrafes dos capítulos e a ordem dos ficheiros): `lei-11-2009/artigo-007.md` é o artigo 7.º (Município de Baucau) da Lei n.º 11/2009, os artigos aditados são `artigo-004-A.md`, e a Constituição está em [`constituicao/`](constituicao/).
+Cada ato é uma pasta, por tipo e ano, com um ficheiro por artigo e ainda `preambulo.md` e `estrutura.md` (as epígrafes dos capítulos e a ordem dos ficheiros): `leis/2009/11-divisao-administrativa-do-territorio/artigo-007.md` é o artigo 7.º (Município de Baucau) da Lei n.º 11/2009, os artigos aditados são `artigo-004-A.md`, e a Constituição está em [`constituicao/`](constituicao/) e cada código em `codigos/` (por exemplo `codigos/codigo-penal/`).
 
 O texto está em português, tal como o Jornal da República o publica; o tétum, também língua oficial, não está aqui. Não faz parte deste registo nenhuma tradução inglesa.
 
@@ -21,10 +21,10 @@ O texto está em português, tal como o Jornal da República o publica; o tétum
 
 | Pergunta | Comando |
 | --- | --- |
-| Todas as alterações ao artigo 7.º da Lei n.º 11/2009 (Município de Baucau) | `git log -p --word-diff -- lei-11-2009/artigo-007.md` |
-| Que ato escreveu cada parágrafo do artigo 7.º? | `git blame lei-11-2009/artigo-007.md` |
-| Todas as versões do artigo 7.º, com o dia em que cada uma entrou em vigor | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- lei-11-2009/artigo-007.md` |
-| O artigo 7.º em vigor em 31 de dezembro de 2023 | `python tools/em_vigor.py 2023-12-31 lei-11-2009 7` |
+| Todas as alterações ao artigo 7.º da Lei n.º 11/2009 (Município de Baucau) | `git log -p --word-diff -- leis/2009/11-divisao-administrativa-do-territorio/artigo-007.md` |
+| Que ato escreveu cada parágrafo do artigo 7.º? | `git blame leis/2009/11-divisao-administrativa-do-territorio/artigo-007.md` |
+| Todas as versões do artigo 7.º, com o dia em que cada uma entrou em vigor | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- leis/2009/11-divisao-administrativa-do-territorio/artigo-007.md` |
+| O artigo 7.º em vigor em 31 de dezembro de 2023 | `python tools/em_vigor.py 2023-12-31 leis/2009/11-divisao-administrativa-do-territorio 7` |
 
 **Fora do git**, também disponibilizamos este registo publicamente e de forma gratuita:
 
@@ -40,7 +40,7 @@ Ambos os assistentes leem o registo através do conector gratuito Global law (MC
 ```sh
 git clone --depth 1 https://github.com/lexifina/global-law && cd global-law
 python3 tools/countries.py add timor-leste/national/acts
-python3 tools/law.py show 2026-01-01 timor-leste/national/acts/lei-11-2009/artigo-007.md
+python3 tools/law.py show 2026-01-01 timor-leste/national/acts/leis/2009/11-divisao-administrativa-do-territorio/artigo-007.md
 ```
 
 Aberto no Claude Code, no Cursor, no VS Code ou no Codex, o clone inicia também um servidor MCP local com as mesmas ferramentas ([MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md)).
@@ -65,20 +65,20 @@ Cada alteração é atribuída à lei que a fez, incluindo as alterações impre
 
 ## O que não mostra
 
-- **Nenhum outro ato.** Só a Constituição e a Lei n.º 11/2009 estão aqui; as outras leis e decretos do Jornal da República, incluindo os diplomas do Governo que fixam as áreas dos postos administrativos, não estão.
+- **As versões posteriores dos outros atos.** Fora da Lei n.º 11/2009, cada ato está tal como foi publicado; as suas alterações estão aqui como atos próprios, mas ainda não aplicadas ao texto alterado. Os atos cuja norma de entrada em vigor não fixa um dia (aplica-se então o décimo dia útil, Lei n.º 1/2002, artigo 16.º), ou ainda não em vigor, estão retidos; os decretos do Presidente da República, despachos e avisos não estão.
 - **A Constituição tal como impressa num número do jornal oficial.** O texto aqui é o PDF em português que o Ministério da Justiça disponibiliza com o Jornal; o texto em tétum, também oficial, não está aqui.
-- **Alterações posteriores a 28 de outubro de 2026**, data da última leitura das fontes; a última alteração aqui entrou em vigor em 1 de janeiro de 2024.
+- **Atos publicados depois de 26 de novembro de 2026**, data da última leitura das fontes.
 
 ## Fontes
 
 | Fonte | Tipo | Versões anteriores | Notas |
 | --- | --- | --- | --- |
-| [Jornal da República](https://www.mj.gov.tl/jornal/) (Ministério da Justiça) | Jornal oficial, PDF nativamente digitais | sim, cada lei de alteração republica integralmente a Lei n.º 11/2009 | A Lei n.º 11/2009 e as suas quatro leis de alteração, Série I |
+| [Jornal da República](https://www.mj.gov.tl/jornal/) (Ministério da Justiça) | Jornal oficial, PDF nativamente digitais | sim, cada lei de alteração republica integralmente a Lei n.º 11/2009 | Os índices por tipo de ato da Série I e os números do jornal que eles indicam, desde 2002 |
 | [Constituição da RDTL](https://www.mj.gov.tl/jornal/public/docs/ConstituicaoRDTL_Portugues.pdf), disponibilizada com o Jornal | Texto oficial, PDF | não, nunca alterada | O texto em português de 2002 |
 
 ## Licença
 
-Veja [`LICENSE`](LICENSE). Não foram encontradas condições de utilização nem licença no sítio do Jornal da República, e nenhuma é concedida aqui para os textos jurídicos; ao citar, indique o número do Jornal da República (a série, o número e a data constam dos trailers `Published:` e `Source:` de cada commit). As ferramentas e a documentação estão sob a licença MIT.
+Veja [`LICENSE`](LICENSE). Os textos legislativos e regulamentares e as decisões judiciais não são objeto de proteção (Código do Direito de Autor, Lei n.º 14/2022, artigo 15.º, n.º 1, alínea e)); ao citar, indique o número do Jornal da República (a série, o número e a data constam dos trailers `Published:` e `Source:` de cada commit). As ferramentas e a documentação da Lexifina estão sob CC0 1.0.
 
 Nenhuma IA escreveu ou editou texto jurídico, e nenhum modelo é executado durante a construção; a investigação, o construtor e as verificações foram escritos pelo Claude Code com o Claude Opus 5.5, e as mensagens de commit são geradas por código a partir do texto do jornal oficial (veja [`REPRODUCE.md`](REPRODUCE.md)).
 
